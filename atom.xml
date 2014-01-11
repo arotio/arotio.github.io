@@ -4,7 +4,7 @@
   <title><![CDATA[bleu-prints]]></title>
   <link href="http://arotio.github.io/atom.xml" rel="self"/>
   <link href="http://arotio.github.io/"/>
-  <updated>2014-01-11T17:55:19-06:00</updated>
+  <updated>2014-01-11T17:57:00-06:00</updated>
   <id>http://arotio.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[first Post]]></title>
+    <link href="http://arotio.github.io/blog/2014/01/11/first-post/"/>
+    <updated>2014-01-11T17:56:50-06:00</updated>
+    <id>http://arotio.github.io/blog/2014/01/11/first-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
