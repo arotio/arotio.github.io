@@ -4,7 +4,7 @@
   <title><![CDATA[bleu-prints]]></title>
   <link href="http://arotio.github.io/atom.xml" rel="self"/>
   <link href="http://arotio.github.io/"/>
-  <updated>2014-01-12T16:07:59-06:00</updated>
+  <updated>2014-01-12T16:11:03-06:00</updated>
   <id>http://arotio.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,16 @@
 
   
   <entry>
-    <title type="html"><![CDATA[first Post]]></title>
+    <title type="html"><![CDATA[Ravioli with Sauce]]></title>
     <link href="http://arotio.github.io/blog/2014/01/11/first-post/"/>
     <updated>2014-01-11T17:56:50-06:00</updated>
     <id>http://arotio.github.io/blog/2014/01/11/first-post</id>
-    <content type="html"><![CDATA[<p>postdata content newwwww</p>
+    <content type="html"><![CDATA[<h3>Ravioli with Sauce</h3>
+
+<h4>Method</h4>
+
+<p>1)anojangowngowng
+2)adgnogno</p>
 ]]></content>
   </entry>
   
