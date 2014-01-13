@@ -4,7 +4,7 @@
   <title><![CDATA[bleu-prints]]></title>
   <link href="http://arotio.github.io/atom.xml" rel="self"/>
   <link href="http://arotio.github.io/"/>
-  <updated>2014-01-12T21:30:37-06:00</updated>
+  <updated>2014-01-12T21:37:22-06:00</updated>
   <id>http://arotio.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -36,6 +36,16 @@
   <div>
     <p>
     <img src="http://arotio.github.io/images/2014-01-11Alt.jpg" width="450">
+    Sed non urna. Donec et ante. Phasellus eu ligula. Vestibulum sit amet
+    purus. Vivamus hendrerit, dolor at aliquet laoreet, mauris turpis porttitor
+    velit, faucibus interdum tellus libero ac justo. Vivamus non quam. In
+    suscipit faucibus urna.
+    </p>
+  </div>
+  <h3>Execution Example - from our friends </h3>
+  <div>
+    <p>
+    <img src="http://arotio.github.io/images/2014-01-11External.jpg" width="450">
     Sed non urna. Donec et ante. Phasellus eu ligula. Vestibulum sit amet
     purus. Vivamus hendrerit, dolor at aliquet laoreet, mauris turpis porttitor
     velit, faucibus interdum tellus libero ac justo. Vivamus non quam. In
