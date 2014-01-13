@@ -4,7 +4,7 @@
   <title><![CDATA[bleu-prints]]></title>
   <link href="http://arotio.github.io/atom.xml" rel="self"/>
   <link href="http://arotio.github.io/"/>
-  <updated>2014-01-12T18:23:08-06:00</updated>
+  <updated>2014-01-12T18:24:48-06:00</updated>
   <id>http://arotio.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -26,11 +26,6 @@
 <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 
 
-<script>
-  $(function() {
-    $( "#accordion" ).accordion();
-  });
-  </script>
 
 
 <div id="accordion">
@@ -54,6 +49,13 @@
     </p>
   </div>
 </div>
+
+
+<script>
+  $(function() {
+    $( "#accordion" ).accordion();
+  });
+  </script>
 
 ]]></content>
   </entry>
