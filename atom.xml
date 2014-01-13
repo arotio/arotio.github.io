@@ -4,7 +4,7 @@
   <title><![CDATA[bleu-prints]]></title>
   <link href="http://arotio.github.io/atom.xml" rel="self"/>
   <link href="http://arotio.github.io/"/>
-  <updated>2014-01-12T18:24:48-06:00</updated>
+  <updated>2014-01-12T18:26:45-06:00</updated>
   <id>http://arotio.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -21,7 +21,11 @@
     <content type="html"><![CDATA[<!--more-->
 
 
-<p><img src="http://arotio.github.io/images/2014-01-11Cover.png"></p>
+<p><img src="http://arotio.github.io/images/2014-01-11Cover.png">
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"></p>
+
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+
 
 <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 
