@@ -4,7 +4,7 @@
   <title><![CDATA[bleu-prints]]></title>
   <link href="http://arotio.github.io/atom.xml" rel="self"/>
   <link href="http://arotio.github.io/"/>
-  <updated>2014-01-12T21:28:28-06:00</updated>
+  <updated>2014-01-12T21:30:37-06:00</updated>
   <id>http://arotio.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -28,7 +28,8 @@
 <h3>Method</h3>
   <div>
     <p>
-    1) 
+    1) rgeikjhnoehn
+    2) sghknmspfkhsmn
     </p>
   </div>
   <h3>Execution Example - rotiofood </h3>
@@ -47,7 +48,7 @@
 <script>
     $( "#accordion" ).accordion({
     collapsible: true,
-    activate: false,
+    active: false,
     heightStyle: "content"});
 </script>
 
