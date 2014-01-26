@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-01-26T17:32:52-06:00</updated>
+  <updated>2014-01-26T17:34:02-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -33,7 +33,6 @@
     </p>
   </div>
 <h3>Recipe </h3> 
-<img src="http://rotiofood.com/images/2014-01-11Alt.jpg" width="450">   
   <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
   <h1 itemprop="name">Grandma&#8217;s Holiday Apple Pie</h1>
   <img itemprop="photo" src="apple-pie.jpg" /> 
