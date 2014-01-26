@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[rotio/food]]></title>
-  <link href="http://arotio.github.io/atom.xml" rel="self"/>
-  <link href="http://arotio.github.io/"/>
-  <updated>2014-01-26T15:46:44-06:00</updated>
-  <id>http://arotio.github.io/</id>
+  <link href="http://rotiofood.com/atom.xml" rel="self"/>
+  <link href="http://rotiofood.com/"/>
+  <updated>2014-01-26T15:50:28-06:00</updated>
+  <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
     
@@ -15,13 +15,13 @@
   
   <entry>
     <title type="html"><![CDATA[Ravioli with Sauce]]></title>
-    <link href="http://arotio.github.io/blog/2014/01/11/first-post/"/>
+    <link href="http://rotiofood.com/blog/2014/01/11/first-post/"/>
     <updated>2014-01-11T17:56:50-06:00</updated>
-    <id>http://arotio.github.io/blog/2014/01/11/first-post</id>
+    <id>http://rotiofood.com/blog/2014/01/11/first-post</id>
     <content type="html"><![CDATA[<!--more-->
 
 
-<p><img src="http://arotio.github.io/images/2014-01-11Cover.png"></p>
+<p><img src="http://rotiofood.com/images/2014-01-11Cover.png"></p>
 
 <div id="accordion" style="font-family:'Maven Pro', sans-serif;">
 
@@ -35,7 +35,7 @@
   <h3>Execution - rotiofood - Pumpkin Brie Ravioli with Sage Butter </h3>
   <div>
     <p>
-    <img src="http://arotio.github.io/images/2014-01-11Alt.jpg" width="450">
+    <img src="http://rotiofood.com/images/2014-01-11Alt.jpg" width="450">
     Sed non urna. Donec et ante. Phasellus eu ligula. Vestibulum sit amet
     purus. Vivamus hendrerit, dolor at aliquet laoreet, mauris turpis porttitor
     velit, faucibus interdum tellus libero ac justo. Vivamus non quam. In
@@ -45,7 +45,7 @@
   <h3>Execution - Saveur - Spinach Ricotta with Red Sauce </h3>
   <div>
     <p>
-    <img src="http://arotio.github.io/images/2014-01-11External.jpg" width="450">
+    <img src="http://rotiofood.com/images/2014-01-11External.jpg" width="450">
     Sed non urna. Donec et ante. Phasellus eu ligula. Vestibulum sit amet
     purus. Vivamus hendrerit, dolor at aliquet laoreet, mauris turpis porttitor
     velit, faucibus interdum tellus libero ac justo. Vivamus non quam. In
