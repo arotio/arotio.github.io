@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-01-28T21:54:17-06:00</updated>
+  <updated>2014-01-28T22:05:00-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -70,11 +70,11 @@
     </span><br />
     <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
-      <span itemprop="amount">8g</span>(1.5tsp)
+      <span itemprop="amount">8g</span> (1.5tsp)
     </span><br />
     <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
       <span itemprop="name">Sugar</span>:
-      <span itemprop="amount">4g</span>(1tsp)
+      <span itemprop="amount">4g</span> (1tsp)
     </span><br />
     <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
       <span itemprop="name">Olive Oil</span>:
@@ -82,10 +82,17 @@
     </span><br />
 
           
-  Directions:
+  <br /><h4>Directions:</h4>
+    <br /><br />Dough:
     <div itemprop="instructions">
-      1. Cut and peel apples
-      2. Mix sugar and cinnamon. Use additional sugar for tart apples.
+      1. Mix all dry ingredients <br />
+      2. Place water (cool to room temperature) in a large bowl <br />
+      3. Add half of dry ingredients to water, mix to combine and leave alone for 10 minutes to allow flour to hydrolyze. This lets the water break the flour into its component sugars for the yeast to digest. <br />
+      4. Mix vigorously for 3 to 5 minutes. Mixing at this stage is more efficient than kneading once all the flour is incorporated. <br />
+      5. Add the rest of the dry ingredients slowly until all is incorporated into a dough ball. <br />
+      6. Add olive oil and knead in bowl for 3 to 5 minutes &#8211; while mixing was great for the first half of the flour, we still have to work the second half of the flour during this stage. <br />
+      7. Place dough in plastic bag and place in refrigerator 24-72 hours. (Longer slow rise will yield a more flavorful dough).
+      
 
     </div>
 </div>
