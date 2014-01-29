@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-01-28T21:44:27-06:00</updated>
+  <updated>2014-01-28T21:46:08-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -54,7 +54,7 @@
     Calories per serving: <span itemprop="calories">1200</span>
     Fat per serving: <span itemprop="fat">4g</span>
   </span>
-  <br /> <br />Ingredients:
+  <br /> <br /><h4>Ingredients:</h4><br />
     <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
       Thinly-sliced <span itemprop="name">apples</span>:
       <span itemprop="amount">6 cups</span>
