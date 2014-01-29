@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-01-28T20:46:44-06:00</updated>
+  <updated>2014-01-28T20:47:46-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -18,10 +18,7 @@
     <link href="http://rotiofood.com/blog/2014/01/11/new-jersey-pizza/"/>
     <updated>2014-01-11T17:56:50-06:00</updated>
     <id>http://rotiofood.com/blog/2014/01/11/new-jersey-pizza</id>
-    <content type="html"><![CDATA[<!--more-->
-
-
-<p><img src="http://rotio.net/rotiofood/2014-01-26/Pizza_done.jpg"></p>
+    <content type="html"><![CDATA[<p><img src="http://rotio.net/rotiofood/2014-01-26/Pizza_done.jpg"></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
