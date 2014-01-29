@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-01-28T22:11:58-06:00</updated>
+  <updated>2014-01-28T22:18:54-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -54,7 +54,7 @@
     Calories per serving: <span itemprop="calories">600</span>
     Fat per serving: <span itemprop="fat">4g</span>
   </span>
-  <br /> <br /><h4><b>Ingredients:<b></h4>
+  <br /> <br /><h4>Ingredients:</h4>
     Dough:<br />
     <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
       <span itemprop="name">Bread Flour</span>:
@@ -80,9 +80,47 @@
       <span itemprop="name">Olive Oil</span>:
       <span itemprop="amount">1.5tsp</span>
     </span><br />
+    <br />
+    Sauce: (this makes a lot, freeze extra)<br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Tomato Puree</span>:
+      <span itemprop="amount">28oz</span> (Good tomatoes = good sauce, find the one you like)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Water</span>:
+      <span itemprop="amount">1/3c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Garlic</span>:
+      <span itemprop="amount">1tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">3/4tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Black Pepper</span>:
+      <span itemprop="amount">Pinch</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Sugar</span>:
+      <span itemprop="amount">1tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Red Pepper</span>:
+      <span itemprop="amount">Pinch</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Olive Oil</span>:
+      <span itemprop="amount">2tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Oregano</span>:
+      <span itemprop="amount">1tsp</span>
+    </span><br />
 
           
-  <br /><h4><b>Directions:<b/></h4>
+  <br /><h4>Directions:</h4>
     Dough:
     <div itemprop="instructions">
       1. Mix all dry ingredients <br />
