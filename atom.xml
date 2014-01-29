@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-01-28T21:38:34-06:00</updated>
+  <updated>2014-01-28T21:41:33-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -30,7 +30,7 @@
 <h3><b>Story</b></h3>
   <div>
     <p>
-    &#8220;I&#8217;ll take a large plain pie.&#8221; In Jersey, this statement will get you set up with a piping hot disk of deliciousness like the one above. Since moving to Saint Louis in 2013, all this request has gotten us has been puzzled looks. Best case scenario and you have someone who understands, you get a nice flat square-cut Saint Louis style pizza covered in Provel &reg (a mixture of cheddar, Swiss, and provolone) like this beauty below: <img src="http://www.gavinr.com/wp-content/uploads/2012/03/imos-pizza-600x450.jpg" /> Not being satisfied with the above, we decided to seek out a place that would make it like home. We found two spots, Racanelli&#8217;s New York Style Pizza and Ferraro&#8217;s Jersey Style Pizza (they even have Taylor Ham/Pork Roll!). Both places are good, but this led me to another question &#8211; if I love to cook so much, then why haven&#8217;t I mastered one of my favorite things to eat? So I set out with the initial goal to make something that tastes as good as the average at home. I think I&#8217;ve finally accomplished that, what better way to reintroduce rotio/food to the world.   
+    &#8220;I&#8217;ll take a large plain pie.&#8221; In Jersey, this statement will get you set up with a piping hot disk of deliciousness like the one above. Since moving to Saint Louis in 2013, all this request has gotten us has been puzzled looks. Best case scenario and you have someone who understands, you get a nice flat square-cut Saint Louis style pizza covered in Provel &reg (a mixture of cheddar, Swiss, and provolone) like this &#8220;beauty&#8221; below: <img src="http://www.gavinr.com/wp-content/uploads/2012/03/imos-pizza-600x450.jpg" /> Not being satisfied with the above, we decided to seek out a place that would make it like home. We found two spots, Racanelli&#8217;s New York Style Pizza and Ferraro&#8217;s Jersey Style Pizza (they even have Taylor Ham/Pork Roll!). Both places are good, but this led me to another question &#8211; if I love to cook so much, then why haven&#8217;t I mastered one of my favorite things to eat? So I set out with the initial goal to make something that tastes as good as the average at home. I think I&#8217;ve finally accomplished that, what better way to reintroduce rotio/food to the world.   
     </p>
   </div>
 <h3><b>Recipe</b> </h3> 
@@ -40,20 +40,20 @@
   <span itemprop="author" hidden>rotio</span>
   Published: <time datetime=2014-01-26 17:56:50 -0600 itemprop="published">
     January 26, 2014</time>
-  <span itemprop="summary">This is a classic Jersey style pie. Cost for a medium comes out to about $4.00</span>
+  <br /><span itemprop="summary">This is a classic Jersey style pie. Cost for a medium comes out to about $4.00</span>
   <span itemprop="review" itemscope itemtype="http://data-vocabulary.org/Review-aggregate" hidden>
     <span itemprop="rating" hidden>5.0</span> 
     <span itemprop="count" hidden>2</span> reviews </span>
-  Prep time: <time datetime="PT24H" itemprop="prepTime">24 hours</time>
-  Cook time: <time datetime="PT6M" itemprop="cookTime">6 min</time>
-  Total time: <time datetime="PT24H6M" itemprop="totalTime">24 hour 6 min</time>
-  Yield: <span itemprop="yield">2 (medium) 14&#8221; pies </span>
+  <br />Prep time: <time datetime="PT24H" itemprop="prepTime">24 hours</time>
+  <br />Cook time: <time datetime="PT6M" itemprop="cookTime">6 min</time>
+  <br />Total time: <time datetime="PT24H6M" itemprop="totalTime">24 hour 6 min</time>
+  <br />Yield: <span itemprop="yield">2 (medium) 14&#8221; pies </span>
   <span itemprop="nutrition" itemscope itemtype="http://data-vocabulary.org/Nutrition" hidden>
     Serving size: <span itemprop="servingSize">1 medium pie</span>
     Calories per serving: <span itemprop="calories">1200</span>
     Fat per serving: <span itemprop="fat">4g</span>
   </span>
-  Ingredients:
+  <br /> <br />Ingredients:
     <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
       Thinly-sliced <span itemprop="name">apples</span>:
       <span itemprop="amount">6 cups</span>
