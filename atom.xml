@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-01-28T21:48:27-06:00</updated>
+  <updated>2014-01-28T21:54:17-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -51,19 +51,35 @@
   <br />Yield: <span itemprop="yield">2 (medium) 14&#8221; pies </span>
   <span itemprop="nutrition" itemscope itemtype="http://data-vocabulary.org/Nutrition" hidden>
     Serving size: <span itemprop="servingSize">1 medium pie</span>
-    Calories per serving: <span itemprop="calories">1200</span>
+    Calories per serving: <span itemprop="calories">600</span>
     Fat per serving: <span itemprop="fat">4g</span>
   </span>
   <br /> <br /><h4>Ingredients:</h4>
     Dough:<br />
     <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
       <span itemprop="name">Bread Flour</span>:
-      <span itemprop="amount">779g</span> (6 cups)
+      <span itemprop="amount">390g</span> (3c)
     </span><br />
     <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
-      <span itemprop="name">White sugar</span>:
-      <span itemprop="amount">3/4 cup</span>
-    </span>
+      <span itemprop="name">Water</span>:
+      <span itemprop="amount">8.5oz</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Yeast</span>:
+      <span itemprop="amount">1.75g</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">8g</span>(1.5tsp)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Sugar</span>:
+      <span itemprop="amount">4g</span>(1tsp)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Olive Oil</span>:
+      <span itemprop="amount">1.5tsp</span>
+    </span><br />
 
           
   Directions:
