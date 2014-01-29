@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-01-28T22:47:27-06:00</updated>
+  <updated>2014-01-28T22:55:03-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -53,7 +53,9 @@
     Serving size: <span itemprop="servingSize">1 medium pie</span>
     Calories per serving: <span itemprop="calories">600</span>
     Fat per serving: <span itemprop="fat">4g</span>
-  </span>
+  </span><br />
+  <br /><h4>Equipment:</h4>
+  Pizza Stone
   <br /> <br /><h4>Ingredients:</h4>
     Dough:<br />
     <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
