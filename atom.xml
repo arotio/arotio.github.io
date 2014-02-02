@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-01-30T21:13:26-06:00</updated>
+  <updated>2014-02-02T09:56:57-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,124 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[budweiser wings]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/02/budweiser-wings/"/>
+    <updated>2014-02-02T09:15:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/02/budweiser-wings</id>
+    <content type="html"><![CDATA[<p><img src="http://rotio.net/rotiofood/2014-02-02/wings_plated_tv.jpg"></p>
+
+<!-- more -->
+
+
+
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <p>
+    
+    Wings and Budweiser. Do we really need much more of a story than that? Generally I&#8217;d say no, but we had a trial by fire experience that I think it would be good to share for safety&#8217;s sake. We had some friends over last night, had the wings going in the oven after the parboil (you&#8217;ll find out about that part below), and the apartment began to fill with smoke. I opened the oven and was met a grease fire &#8211; so this is trial by fire in the most literal sense. I dove in, potholder first and pulled out the flaming pan, set it down on the stove and got it to go out, switched to a throwaway aluminum pan instead of a cookie sheet wrapped with foil and we were back in business. Hopefully by us going through that, no one else has to to enjoy these delicious wings infused with Budweiser.
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <h3 itemprop="name">Budweiser Baked Wings</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-02 09:15:50 -0600 itemprop="published">
+    February 2, 2014</time>
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-02/wings_in_pan.jpg" />
+  
+  <br /><span itemprop="summary">Wings infused with Budweiser topped with some HOT sauce.</span><br />
+  <span itemprop="review" itemscope itemtype="http://data-vocabulary.org/Review-aggregate" hidden>
+    <span itemprop="rating" hidden>5.0</span> 
+    <span itemprop="count" hidden>2</span> reviews </span>
+  <br />Prep time (including brine): <time datetime="PT6H" itemprop="prepTime">6h</time>
+  <br />Cook time: <time datetime="PT1h" itemprop="cookTime">1h</time>
+  <br />Total time: <time datetime="PT7H" itemprop="totalTime">7h</time>
+  <br />Yield: <span itemprop="yield">6 lbs </span>
+  <span itemprop="nutrition" itemscope itemtype="http://data-vocabulary.org/Nutrition" hidden>
+    Serving size: <span itemprop="servingSize">Half recipe</span>
+    Calories per serving: <span itemprop="calories">500</span>
+    Fat per serving: <span itemprop="fat">5g</span>
+  </span><br />
+  <br /><h4>Equipment:</h4>
+  Throw away alumninum pan or other pan with sides 
+  <br /> <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Chicken wings</span>:
+      <span itemprop="amount">6 lbs</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Thyme</span> (these were 16-20 per pound):
+      <span itemprop="amount">2 T</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Garlic Powder</span> (canola or vegetable will also work fine):
+      <span itemprop="amount">1/4 c</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Budweiser</span>:
+      <span itemprop="amount">8</span> (plus a few to drink)
+    </span><br />
+    <br />
+    Sauce:<br />
+    
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Srirachi</span>:
+      <span itemprop="amount">3 T</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Honey</span>:
+      <span itemprop="amount">1 c</span> 
+    </span><br />
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+    Brine:<br />
+      1. Create a brine by mixing salt, garlic powder, and thyme into enough water to cover wings. <br />
+      2. Brine chicken in refrigerator for 6 to 12 hours &#8211; if you don&#8217;t have space in your fridge, just add ice every hour or so to maintain temperature. <br />
+      3. Remove chicken from brine. <br />
+      <br /><br />
+    Cook:<br />
+      4. Preheat oven to 450 F<br />
+      5. Bring Budweiser to a boil in a pot large enough to fit the beer plus your wings. I know it&#8217;s hard to dump the Budweiser into a pot instead of drinking them but that&#8217;s why the recipe calls for a few extra to dirnk. Now&#8217;s a good time to pour one of those for yourself if you haven&#8217;t yet.<br />
+      6. Boil wings for 8 minutes, turning regularly to ensure even cooking. <br />
+      7. Remove from pot and dry thoroughly. Place in sprayed throwaway aluminum pan or other pan with high edges. Once that fat starts rendering in the oven, you don&#8217;t want the drippings going everywhere and lighting on fire like mine did. A wire rack in a pan with high edges is even better. <br />
+      8. Bake for 40 minutes or until wings are very crispy. Flip the wings once at about 30 minutes to ensure even crisping. <br />
+     <br />
+    Sauce: <br />
+      9. Make your favorite sauce. For ours we used honey and Sriracha. Be careful with the ratios and taste before you add to the wings to ensure your heat level is where you want it.<br />
+      10. Toss wings in sauce and serve with a Budweiser.
+    
+      
+      
+      
+
+    </div>
+</div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[shrimp pad thai]]></title>
