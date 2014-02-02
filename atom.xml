@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-02-02T09:56:57-06:00</updated>
+  <updated>2014-02-02T10:13:58-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -63,7 +63,7 @@
       <span itemprop="amount">6 lbs</span>
     </span><br />
     <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
-      <span itemprop="name">Thyme</span> (these were 16-20 per pound):
+      <span itemprop="name">Thyme</span>:
       <span itemprop="amount">2 T</span>
     </span><br />
     <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
@@ -71,7 +71,7 @@
       <span itemprop="amount">1/2 c</span>
     </span><br />
     <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
-      <span itemprop="name">Garlic Powder</span> (canola or vegetable will also work fine):
+      <span itemprop="name">Garlic Powder</span>:
       <span itemprop="amount">1/4 c</span> 
     </span><br />
     <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
