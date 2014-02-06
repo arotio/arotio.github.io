@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-02-02T12:24:20-06:00</updated>
+  <updated>2014-02-05T21:31:47-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,124 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[chicken sausage risotto]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/05/chicken-sausage-risotto/"/>
+    <updated>2014-02-05T09:15:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/05/chicken-sausage-risotto</id>
+    <content type="html"><![CDATA[<p><img src="http://rotio.net/rotiofood/2014-02-05/risotto_plated_top.jpg"></p>
+
+<!-- more -->
+
+
+
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <p>
+    I got home last night, opened the fridge, and the options were limited. Chicken sausage stuck out as the main protein that we had on hand. That usually gets eaten with some Brussels&#8217; sprouts and pasta but we were out of Brussels&#8217; and two pots (one for pasta and one for some sort of sauce) seemed too daunting so I decided to go the Risotto route. We had some fresh basil that needed to be used, a tomato, some white wine that was about to turn into vinegar, and tons of garlic so I grabbed all of that and set to work. Risotto is a nice &#8220;one pan&#8221; vehicle when you have some ingredients that seem like they go together but you just need something to bind them. This version was very tasty.
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <h3 itemprop="name">Chicken Sausage Risotto</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-05 09:15:50 -0600 itemprop="published">
+    February 5, 2014</time>
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-05/risotto_plated.jpg" />
+  
+  <br /><span itemprop="summary">Risotto with chicken sausage, basil, garlic, and tomato.</span><br />
+
+  <br />Prep time: <time datetime="PT5M" itemprop="prepTime">5m</time>
+  <br />Cook time: <time datetime="PT30M" itemprop="cookTime">30m</time>
+  <br />Total time: <time datetime="PT35M" itemprop="totalTime">35m</time>
+  <br />Yield: <span itemprop="yield">2 servings </span>
+  
+  <br />
+  <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Chicken Sausage</span>:
+      <span itemprop="amount">2 links</span> (cooked and sliced)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Tomato</span>:
+      <span itemprop="amount">1</span>, chopped
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Garlic</span>:
+      <span itemprop="amount">4 cloves</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Basil</span>:
+      <span itemprop="amount">large bunch</span>, roughly chopped 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Kosher Salt</span>:
+      <span itemprop="amount">1 T</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">White wine</span>:
+      <span itemprop="amount">1 c</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Chicken Stock</span>:
+      <span itemprop="amount">2 c</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Water</span>:
+      <span itemprop="amount">4 c</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Arborio Rice</span>:
+      <span itemprop="amount">1/2 c</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Extra Virgin Olive Oil</span>:
+      <span itemprop="amount">2 T</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Crushed Red Pepper</span>:
+      <span itemprop="amount">to taste</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Oregano</span>:
+      <span itemprop="amount">to taste</span> 
+    </span><br />
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Smash garlic cloves with side of knife and roughly chop. <br />
+      2. Using salt as an abrasive, smash garlic into fine paste. <br />
+      3. Heat olive oil on medium heat. <br />
+      4. Add chicken sausage, tomato and garlic and saute until tomato breaks down into sauce, about 5 minutes<br />
+      5. Add white wine and half of chicken stock while, stirring constantly.<br />
+      6. After two minutes, add rice and stir constantly.<br />
+      7. When most of the liquid has cooked out and rice begins to stick, add second half of chicken stock and continue stirring.<br />
+      8. When rice begins to stick again, add a cup of water. <br />
+      9. Continue repeating step 8, tasting every time to gauge when rice has almost reached the desired mouthfeel.<br />
+      10. When rice is aldente, add chopped basil and season to taste with crushed red pepper, oregano, and salt.<br />
+      11. Plate, garnish with basil leaves and enjoy.<br />
+    </div>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[budweiser wings]]></title>
