@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-02-05T21:38:18-06:00</updated>
+  <updated>2014-02-05T22:30:24-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -14,7 +14,85 @@
 
   
   <entry>
-    <title type="html"><![CDATA[chicken sausage risotto]]></title>
+    <title type="html"><![CDATA[foolproof popcorn]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/05/foolproof-popcorn/"/>
+    <updated>2014-02-05T10:15:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/05/foolproof-popcorn</id>
+    <content type="html"><![CDATA[<p><img src="http://rotio.net/rotiofood/2014-02-05/popcorn_plated.jpg"></p>
+
+<!-- more -->
+
+
+
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <img src="http://rotio.net/rotiofood/2014-02-05/popcorn_zoom.jpg" />
+    <p>
+    Sometimes the simple things are simply the best. Popcorn is no exception and is a staple in our home. Hungry for a snack? Popcorn. Nothing for dinner? A lot of Popcorn. Don&#8217;t feel like cooking but starving? Pasta pot full of popcorn. We generally eat the simple version below, sometimes we add some butter, sometimes not. We&#8217;ve optimized it to the point where we rarely burn and rarely have many kernels left over so hopefully our trial and error can be for your benefit. Like our pizza recipes, this is one where we&#8217;ll demonstrate the simple version and add some future variations to kick it up. Comments with suggested flavor combinations are always encouraged.
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <h3 itemprop="name">Foolproof Popcorn</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-05 10:15:50 -0600 itemprop="published">
+    February 5, 2014</time>
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-05/popcorn_pan.jpg" />
+  
+  <br /><span itemprop="summary">Simple stovetop popcorn.</span><br />
+
+  <br />Prep time: <time datetime="PT0M" itemprop="prepTime">0m</time>
+  <br />Cook time: <time datetime="PT5M" itemprop="cookTime">5m</time>
+  <br />Total time: <time datetime="PT5M" itemprop="totalTime">5m</time>
+  <br />Yield: <span itemprop="yield">2 servings </span>
+  
+  <br />
+  <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Popcorn</span>:
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Coconut Oil</span>:
+      <span itemprop="amount">1 T</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">to taste</span>
+    </span><br />
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Place popcorn into cold saucepan.<br />
+      2. Spoon coconut oil on top of popcorn as shown in image. <br />
+      3. Cover saucepan and turn flame to medium. <br />
+      4. Popping will begin about 2 minutes in. Don&#8217;t touch until pops are at least two seconds apart (listen closely). <br />
+      5. Give pan a quick shake, remove from heat, and dump into serving bowl.<br />
+      6. Toss with salt and serve immediately.<br />
+    </div>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[basil risotto]]></title>
     <link href="http://rotiofood.com/blog/2014/02/05/chicken-sausage-risotto/"/>
     <updated>2014-02-05T09:15:50-06:00</updated>
     <id>http://rotiofood.com/blog/2014/02/05/chicken-sausage-risotto</id>
@@ -35,7 +113,7 @@
   </div>
 <h3><b>Recipe</b> </h3> 
   <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
-  <h3 itemprop="name">Chicken Sausage Risotto</h3>
+  <h3 itemprop="name">Chicken Sausage Risotto with Basil</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-05 09:15:50 -0600 itemprop="published">
     February 5, 2014</time>
