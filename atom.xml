@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-02-05T22:30:24-06:00</updated>
+  <updated>2014-02-09T17:13:38-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,125 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[raw surf and turf]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/09/raw-surf-and-turf/"/>
+    <updated>2014-02-09T05:15:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/09/raw-surf-and-turf</id>
+    <content type="html"><![CDATA[<p><img src="http://rotio.net/rotiofood/2014-02-09/surf_turf_rolled.jpg"></p>
+
+<!-- more -->
+
+
+
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    
+    <p>
+    Beef Carpaccio: raw beef tenderloin flattened and served with salt pepper and olive oil. There&#8217;s something about gnawing on raw beef that just feels so satisfyingly primal. It reminds me of one winter when pops brought home a buck and my brother, LJ, and I helped him break it down. We had a fire going to stay warm while we worked. LJ and I decided to take advantage of the heat and started roasting and eating some of the venison we were cutting. It was delicious &#8211; I ended up passing out ten minutes later from the combination of the smell of blood and the history lesson my brother was giving about Mayan sacrifices &#8211; but that&#8217;s besides the point. Red meat, as close to nature as possible, is always the best. Period. Hands down.<br/><br/>
+    The same can be said for fish. The most delicious fish I&#8217;ve tasted has tended to be raw or close to it. The flavors and smells of really fresh fish are the antithesis of that rotting &#8220;fishy&#8221; smell that can drive so many people away from fish. Tuna tartare is simple, some fresh raw tuna, diced with acid, oil, salt, and any other desired flavors. <br /> <br />
+    We decided to take these two simple interpretations of surf and turf and see if we could get them to harmonize. As &#8220;fancy&#8221; as this might look it&#8217;s really simple to prepare. Enjoy.
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <h3 itemprop="name">Raw Surf and Turf</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-09 05:15:50 -0600 itemprop="published">
+    February 9, 2014</time>
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-09/surf_turf_open.jpg" />
+  
+  <br /><span itemprop="summary">Tuna Tartare and Beef Carpaccio with crispy shallots.</span><br />
+
+  <br />Prep time: <time datetime="PT2H30M" itemprop="prepTime">2h 30m</time> (including 2 hours of freezer time)
+  <br />Cook time: <time datetime="PT0M" itemprop="cookTime">2m</time> (everything&#8217;s raw but the shallots!)
+  <br />Total time: <time datetime="PT2H30M" itemprop="totalTime">2h 30m</time>
+  <br />Yield: <span itemprop="yield">2 servings </span>
+  
+  <br />
+  <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Beef Tenderloin</span> (as fresh as possible): 
+      <span itemprop="amount">1/3 lb</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Albacore or Yellowfin Tuna</span> (as fresh as possible):
+      <span itemprop="amount">1/4 lb</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Kosher Salt</span>:
+      <span itemprop="amount">to taste</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Sesame Seeds</span>:
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Serrano or Jalape&#241;o Pepper</span>:
+      <span itemprop="amount">1/8 pepper</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Sesame Oil</span>:
+      <span itemprop="amount">1/2 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Lime</span>:
+      <span itemprop="amount">1/4</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Shallot</span>:
+      <span itemprop="amount">1/2 large</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Canola Oil</span>:
+      <span itemprop="amount">2 T</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Chives</span>:
+      <span itemprop="amount">small bunch</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Mayo</span>:
+      <span itemprop="amount">1 T</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Sriracha</span>:
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Place beef in freezer for two hours.<br />
+      2. Combine mayo and sriracha, reserve for later. <br />
+      2. Remove beef from freezer. Slice as thin as possible to create large flat disks. <br />
+      3. Place beef disks between plastic wrap and pound until paper thin but not separating at the fat seams (these will be pretty delicate so be careful). Place beef sheets back in freezer between plastic wrap. <br />
+      4. Finely chop shallots and fry in canola oil on high heat. Remove as soon as they reach a dark brown and place on paper towel to absorb oil <br />
+      5. Carefully chop tuna into quarter inch cubes - try to handle these as little as possible, you are looking for cubes not mush and they break down pretty easily. <br />
+      6. Chop chile pepper and half of chives very finely. Combine these with tuna, shallots, juice from the lime, sesame oil, salt, sesame seeds. Taste this and adjust flavors to your liking.<br />
+      7. Remove beef sheets from freezer. Place a chive onto your working area. Top this with a sheet of beef. Spoon about a tablespoon of the tuna mixture into the center of the beef. <br />
+      8. You have two options here, you can garnish with spicy mayo and sesame seeds and serve open like the photo in the recipe, or you can roll and tie with the chive like those seen at the top of the page. <br />
+    </div>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[foolproof popcorn]]></title>
