@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-02-16T14:05:34-06:00</updated>
+  <updated>2014-02-16T17:18:59-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,133 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[salmon sliders]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/16/salmon-sliders/"/>
+    <updated>2014-02-16T09:15:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/16/salmon-sliders</id>
+    <content type="html"><![CDATA[<p><img src="http://rotio.net/rotiofood/2014-02-16/salmon_sliders_plated.jpg"></p>
+
+<!-- more -->
+
+
+
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <p>
+    Every summer during college, about half of the football team would stay on campus to work out together and find a summer gig in the Boston area. Our combined cooking ability was limited&#8230; lots of over or underdone ziti and grilled chicken. One weekend, a teammate&#8217;s girlfriend was visiting and spoiled us with Salmon with Cucumber Dill Sauce. Playing fullback at Harvard led to a lot of self-induced headshots. My 12-time-concussed brain decided that the recipe for the cucumber dill sauce prepared that summer was a memory worth storing. With a couple of tweaks it made the perfect condiment for these sliders.
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <h3 itemprop="name">Salmon Sliders</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-16 09:15:50 -0600 itemprop="published">
+    February 16, 2014</time>
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-16/salmon_sliders_plated_2.jpg" />
+  
+  <br /><span itemprop="summary">Salmon sliders with cucumber dill sauce and tomato. </span><br />
+
+  <br />Prep time: <time datetime="PT0H5M" itemprop="prepTime">5m</time> 
+  <br />Cook time: <time datetime="PT15M" itemprop="cookTime">15m</time>
+  <br />Total time: <time datetime="PT20M" itemprop="totalTime">20m</time>
+  <br />Yield: <span itemprop="yield">4 sliders </span>
+  
+  <br />
+  <br /><h4>Ingredients:</h4>
+  Sauce: </br>
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Light Sour Cream</span>: 
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Onion</span>:
+      <span itemprop="amount">1/2 small, minced</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Fresh Dill</span>:
+      <span itemprop="amount">Small bunch, chopped</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Lime</span>:
+      <span itemprop="amount">1/2 lime, juiced</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Cucumber</span>:
+      <span itemprop="amount">1/4, chopped</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">to taste</span>
+    </span><br />
+    <br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Salmon</span>:
+      <span itemprop="amount">1 lb</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Extra Virgin Olive Oil</span>:
+      <span itemprop="amount">2 T</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Sea Salt</span>:
+      <span itemprop="amount">pinch</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Black Pepper</span>:
+      <span itemprop="amount">pinch</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Tomato, small</span>:
+      <span itemprop="amount">4 slices</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Slider Buns</span>:
+      <span itemprop="amount">4</span>
+    </span><br />
+    
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Preheat oven to 325 degrees (F). <br />
+      2. Mix all sauce ingredients. Taste and add additional salt and lime juice if necessary.<br />
+      3. Heat 1 T of Olive Oil on medium-high in an oven safe skillet. <br />
+      4. Brush top side of salmon with remaining oil and season with salt and pepper. <br />
+      5. Brown salmon (oiled side up) for 4 minutes or until crisp crust forms. <br />
+      6. Flip and brown the other side until the same level of crust is achieved. The oil you applied earlier will help this side not to stick. <br />
+      7. Place pan in oven and allow to cook through, about 8 minutes.<br />
+      8. Remove from oven, allow to rest for a couple of minutes, and cut into four even pieces.<br />
+      9. Brown slider buns if desired.<br />
+      10. Layer tomato slice, then salmon, then a quarter of sauce on bottom bun, top and enjoy.<br />
+      <br /> 
+    </div>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+<p> <a href="http://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.rotiofood.com%2Fblog%2F2014%2F02%2F16%2Fsalmon-sliders%2F&media=http%3A%2F%2Fwww.rotio.net%2Frotiofood%2F2014-02-16%2Fsalmon_sliders_plated.jpg&description=rotio%2Ffood%20Salmon%20Sliders%20with%20Cucumber%20and%20Dill"
+ data-pin-do="buttonPin"
+ data-pin-config="beside">
+ <img src="http://rotiofood.com//assets.pinterest.com/images/pidgets/pin_it_button.png" />
+ </a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[gnocci]]></title>
