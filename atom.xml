@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-02-09T18:07:18-06:00</updated>
+  <updated>2014-02-16T13:30:04-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,113 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[gnocci]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/12/gnocci/"/>
+    <updated>2014-02-12T09:15:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/12/gnocci</id>
+    <content type="html"><![CDATA[<p><img src="http://rotio.net/rotiofood/2014-02-12/gnocci_plated.jpg"></p>
+
+<!-- more -->
+
+
+
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <img src="http://rotio.net/rotiofood/2014-02-12/gnocci_assembly.gif">
+    <p>
+    I&#8217;ve been asking around for examples of things people really enjoy eating but don&#8217;t know how to make themselves. My brother&#8217;s wife suggested gnocci. This is exactly the type of challenge I was looking for: universally delicious but not straightforward as far as how it&#8217;s made. Here is the first crack at the gnocci themselves only, sauce is another animal all together (one of my favorite animals that deserves its own post). These came out tasty but not perfect, they were slightly drier than I hoped they would be. I roasted then grated the potatoes per a suggestion online - I have a feeling steaming then ricing/mashing will yield a much more tender dumpling.  Future improvements and flavor combinations to come.
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <h3 itemprop="name">Gnocci</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-12 09:15:50 -0600 itemprop="published">
+    February 12, 2014</time>
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-12/gnocci_assembly.gif" />
+  
+  <br /><span itemprop="summary">Basic gnocci.</span><br />
+
+  <br />Prep time: <time datetime="PT1H45M" itemprop="prepTime">1h 45m</time> 
+  <br />Cook time: <time datetime="PT15M" itemprop="cookTime">15m</time>
+  <br />Total time: <time datetime="PT2H" itemprop="totalTime">2h</time>
+  <br />Yield: <span itemprop="yield">2 servings </span>
+  
+  <br />
+  <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Russet Potatoes</span>: 
+      <span itemprop="amount">1 lb</span> (we used 2 medium potatoes)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Egg Yolks</span>:
+      <span itemprop="amount">3</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Parmigiano Reggiano</span>:
+      <span itemprop="amount">1/2 c, grated</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Nutmeg</span>:
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">1/2 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Black Pepper</span>:
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Flour</span> (all purpose):
+      <span itemprop="amount">1 c</span>
+    </span><br />
+    
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Preheat oven to 425 degrees (F).<br />
+      2. Roast potatoes for 40 minutes. <br />
+      3. When cool enough to handle, remove skins and grate the potatoes. <br />
+      4. Add egg yolks, cheese, nutmeg, salt, pepper and mix with hands to combine. <br />
+      5. Flour board, flatten dough into a rectangular shape, and sprinkle about half of the flour onto the top of the dough. <br />
+      6. Press flour into dough and fold dough in half once. Add flour to both sides of folded dough, work flour in and fold again. Continue this process until the dough holds together when rolled. <br />
+      7. Roll into four 1/2&#8221; ropes as shown above.<br />
+      8. Cut these into 1/2&#8221; long pieces and roll on fork as seen <a href="http://www.youtube.com/watch?v=kD-m_GYf35E">here.</a><br />
+      9. Dust with flour and allow to dry under fan for 30 minutes.<br />
+      10. Boil in liberally salted water until they float. Allow to boil while floating for an additional 90 seconds.<br />
+      11. Remove from water and toss with favorite sauce.<br />
+      12. If desired, top with cheese and broil for 5 minutes.<br />
+    </div>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+<p> <a href="http://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.rotiofood.com%2Fblog%2F2014%2F02%2F12%2Fgnocci%2F&media=http%3A%2F%2Fwww.rotio.net%2Frotiofood%2F2014-02-12%2Fgnocci_assembly.gif&description=rotio%2Ffood%20Gnocci"
+ data-pin-do="buttonPin"
+ data-pin-config="beside">
+ <img src="http://rotiofood.com//assets.pinterest.com/images/pidgets/pin_it_button.png" />
+ </a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[raw surf and turf]]></title>
