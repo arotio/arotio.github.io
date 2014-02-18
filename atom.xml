@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-02-17T19:53:28-06:00</updated>
+  <updated>2014-02-17T20:40:20-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,93 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[french fries]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/17/french-fries/"/>
+    <updated>2014-02-17T08:20:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/17/french-fries</id>
+    <content type="html"><![CDATA[<p><img src="http://rotio.net/rotiofood/2014-02-17/fries.jpg"></p>
+
+<!-- more -->
+
+
+
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <p>
+    Great bistro style french fries. These go great by themselves or with Ketchup or Garlic Aioli. These are one of our staples you&#8217;ll see make an appearance again.
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <h3 itemprop="name">French Fries</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-17 08:20:50 -0600 itemprop="published">
+    February 17, 2014</time>
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-17/fries.jpg" />
+  
+  <br /><span itemprop="summary">Crispy, tender bistro fries.</span><br />
+
+  <br />Prep time: <time datetime="PT1H" itemprop="prepTime">1h</time> 
+  <br />Cook time: <time datetime="PT15M" itemprop="cookTime">15m</time>
+  <br />Total time: <time datetime="PT1H15M" itemprop="totalTime">1h 15m</time>
+  <br />Yield: <span itemprop="yield">2 servings </span>
+  
+  <br />
+  <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Russet Potatoes</span>: 
+      <span itemprop="amount">2</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Canola Oil</span>:
+      <span itemprop="amount">1 gallon</span> (or enough to fill whatever you&#8217;re going to deep fry in about half way)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Sea Salt</span>:
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    
+    
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Preheat oven to 250 degrees (F).<br />
+      2. Cut potatoes into fries. These do best slightly thinner than the ones we made in the photo above. <br />
+      3. Soak in cool water for 15 minutes to remove some of the starch, this will help achieve the crispy and tender textures desired in a good fry. <br />
+      4. Dry then roast until just before fork tender, it should take some effort to get the fork to penetrate the flesh. About 35 minutes. <br />
+      5. Remove fries from oven. Preaheat oil to 365 degrees (F) while the fries cool down. <br />
+      6. Deep fry until golden brown and the skin is blistered, about 10 to 15 minutes. <br />
+      7. Remove and allow to dry on paper towels, salt immediately while hot.<br />
+
+    </div>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+<p> <a href="http://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.rotiofood.com%2Fblog%2F2014%2F02%2F17%2Ffrench-fries%2F&media=http%3A%2F%2Fwww.rotio.net%2Frotiofood%2F2014-02-17%2Ffries.jpg&description=rotio%2Ffood%20Bistro%20Fries"
+ data-pin-do="buttonPin"
+ data-pin-config="beside">
+ <img src="http://rotiofood.com//assets.pinterest.com/images/pidgets/pin_it_button.png" />
+ </a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[salmon sliders]]></title>
