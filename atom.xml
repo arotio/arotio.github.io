@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-02-18T22:16:58-06:00</updated>
+  <updated>2014-02-18T22:18:10-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -52,7 +52,7 @@
   <br /><h4>Ingredients:</h4>
     <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
       <span itemprop="name">Pollo Asado (Chicken)</span>: 
-      <span itemprop="amount">1 lb</span> thinly sliced chicken breasts, marinated
+      <span itemprop="amount">1 lb</span> thin chicken breasts, marinated
     </span><br />
     <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
       <span itemprop="name">Manchego</span>:
