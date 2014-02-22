@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-02-18T22:25:42-06:00</updated>
+  <updated>2014-02-21T22:41:52-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,126 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[pi&ntilde;ape&ntilde;o chicken]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/21/pinapeno-chicken/"/>
+    <updated>2014-02-21T10:59:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/21/pinapeno-chicken</id>
+    <content type="html"><![CDATA[<p><img src="http://rotio.net/rotiofood/2014-02-21/chicken_close.jpg"></p>
+
+<!-- more -->
+
+
+
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <p>
+    Fancy food can be delicious.. it has its place &#8211; But nothing is better than what you grew up with. I&#8217;m talking about the things you grew up with in your home as a kid that mom made, the food Aunt Patti grilled on the deck that you ate with your first beer, the foods that you can smell that bring you right back to age 14 and a simpler time. These are the most important foods to me, and there are definitely a few that bring me back to that place. Barbecue chicken is certainly one of those foods. I smelled my jacket today, two days after making this chicken, and closing my eyes and taking that smell in brought me back and immediately lit up a smile on my face. We didn&#8217;t have any barbecue sauce so i made one up with pineapple and jalape&ntilde;o. The best foods are the ones you grew up with and the best barbecue sauce is the one you make with what you have in the house. Those are the most important things you can take from this post.</p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <h3 itemprop="name">Pi&ntilde;ape&ntilde;o Chicken</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-21 10:59:50 -0600 itemprop="published">
+    February 21, 2014</time>
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-21/chicken_far.jpg" />
+  
+  <br /><span itemprop="summary">Pineapple Jalape&ntilde;o Barbecue Chicken.</span><br />
+
+  <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
+  <br />Cook time: <time datetime="PT45M" itemprop="cookTime">45m</time>
+  <br />Total time: <time datetime="PT55M" itemprop="totalTime">55m</time>
+  <br />Yield: <span itemprop="yield">2 servings</span>
+  
+  <br />
+  <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Chicken Thighs and Legs</span>: 
+      <span itemprop="amount">3 lb</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Pineapple</span>:
+      <span itemprop="amount">1/4 c, diced</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Jalape&ntilde;o</span>:
+      <span itemprop="amount">1, diced</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Onion</span>:
+      <span itemprop="amount">1, chopped</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Garlic</span>:
+      <span itemprop="amount">2 cloves</span> (a very little bit)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Ketchup</span>:
+      <span itemprop="amount">3/4 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Molasses</span>:
+      <span itemprop="amount">1/4 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Apple Cider Vinegar</span>:
+      <span itemprop="amount">1/4 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Budweiser</span>:
+      <span itemprop="amount">splash</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Cumin</span>:
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Black Pepper</span>:
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Preheat grill (medium).<br />
+      2. Combine all non chicken ingredients in a saucepan and stew on low for 20 minutes.<br />
+      3. Blend ingredients from saucepan in blender, food processor or with immersion blender until smooth. <br />
+      4. Sear chicken on grill on each side for 10 minutes. <br />
+      5. Brush with BBQ sauce and cook for 5 minutes. <br />
+      6. Flip and repeat step 5 four times. <br />
+      7. Remove from grill and enjoy. <br />
+
+    </div>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+<p> <a href="http://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.rotiofood.com%2Fblog%2F2014%2F02%2F21%2Fpinapeno-chicken%2F&media=http%3A%2F%2Fwww.rotio.net%2Frotiofood%2F2014-02-21%2Fchicken_close.jpg&description=rotio%2Ffood%20Pineapple%20Jalapeno%20BBQ%20Chicken"
+ data-pin-do="buttonPin"
+ data-pin-config="beside">
+ <img src="http://rotiofood.com//assets.pinterest.com/images/pidgets/pin_it_button.png" />
+ </a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[pollo asado]]></title>
@@ -90,7 +210,7 @@
       5. Slice Avocado. <br />
       6. Warm tortillas on grill. <br />
       7. Assemble taco, adding sour cream if desired, and top with lots of cilantro. <br />
-      7. Squeeze lime over taco and enjoy.<br />
+      8. Squeeze lime over taco and enjoy.<br />
 
     </div>
     </div>
