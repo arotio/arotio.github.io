@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-02-22T14:26:09-06:00</updated>
+  <updated>2014-02-24T22:47:52-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,113 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[beef sous vide]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/24/beef-sous-vide/"/>
+    <updated>2014-02-24T10:59:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/24/beef-sous-vide</id>
+    <content type="html"><![CDATA[<p><img src="http://rotio.net/rotiofood/2014-02-24/beef_sous_vide.jpg"></p>
+
+<!-- more -->
+
+
+
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <p>
+    Beef tenderloin is amazing. The perfect marble of flavorful fat running through perfectly tender muscle. It&#8217;s not cheap, and it&#8217;s a small cut so if you screw it up, it&#8217;s not a good feeling (trust me I know).<br /><br />
+
+    To cook the perfect beef tenderloin you want the inside at about 130 F for medium rare and a nice sear on the outside. Those two things seem like a simple enough ask but they are not the easiest things to achieve. <br /><br />
+
+    To get the perfect sear, you have to have a screaming hot grill or pan. If you cook with a heat source this hot, by the time the center of your beef reaches 130 F, 3/4 of your meat will be very overdone and tough. <br /><br />
+
+    To get all of the meat consistently heated to 130 F you could set an oven or pan to 130 F and cook for a really long time without the risk of overcooking. You&#8217;d never go over that 130 F because the meat would get up to temperature of the pan/grill and air around it and stop heating, because the heat energy surrounding it would be only sufficient to get it up to 130. The problem with doing this is that the meat would be surrounded by air. The air would wick away the moisture while the beef cooks, leaving you with a very dried out end product. Plus, air does not hold temperature very consistently (the specific heat is pretty low for you nerds out there).<br /><br />
+
+    So there has to be a better way. Water has a high specific heat so could hold temperature at 130 for an adequate time to get the meat up to that temperature (Google &#8220;Newton&#8217;s Law of Cooling&#8221; if you want to see exactly how heat energy dissipates in a classical model). Cooking in water will yield boiled beef though, with many of the nutrients and flavor molecules dissipating into the cooking liquid surrounding the beef.<br /><br />
+
+    So can we have the best of both worlds? Can we get that slow cooked 130 to break down the fat and have perfectly tender beef while also achieving that aggressive crunchy sear on the outside?<br /><br />
+
+    Of course we can: enter Sous Vide.<br /><br />
+
+    Sous Vide literally translates (from French) to &#8220;under vacuum.&#8221; It is an advanced cooking technique that requires thousands of dollars worth of equipment to vacuum seal your meat and cook it in a water bath that is maintained at a perfect temperature down to the hundredth of a degree by an &#8220;immersion circulator.&#8221; This allows you to seal in all of the flavor molecules of your meat, cook low and slow at that perfect medium rare temperature then remove from the bag and sear at an extremely hot temperature to get that crust on the outside. This is what all high end restaurants do with their beef to cook it perfectly every time, consistently.<br /><br />
+
+    To hell with all that. I&#8217;m going to show you how to do it with a throwaway (or reusable) beer cooler, a $10 thermometer, and some Ziplock bags. It&#8217;s easy and it&#8217;s awesome.<br /><br />
+
+    <img src="http://rotio.net/rotiofood/2014-02-24/beef_comp.jpg"/>
+    <em>Take a look at the difference here: the filet on the left was grilled, see how the interior looks just about perfect but the exterior is overdone? The filet on the right was made using the technique below. Perfectly juicy medium rare right out to the seared edge. NOTE: special thanks to Carol Rosseland and John Egan for the beef! Great birthday present and I was even able to use the cooler it came in as a cooking vessel!</em>
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <h3 itemprop="name">Beef Sous Vide</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-24 10:59:50 -0600 itemprop="published">
+    February 24, 2014</time>
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-24/beef_sous_vide.jpg" />
+  
+  <br /><span itemprop="summary">&#8220;Sous vide&#8221; beef tenderloin without the thousand dollar equipment.</span><br />
+
+  <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
+  <br />Cook time: <time datetime="PT1H0M" itemprop="cookTime">1h</time>
+  <br />Total time: <time datetime="PT1H10M" itemprop="totalTime">1h 10m</time>
+  <br />Yield: <span itemprop="yield">4 tenderloins</span>
+  
+  <br />
+  
+  <br /><h4>Equipment:</h4>
+  Styrofoam or plastic cooler (dense foam works best)<br/>
+  $10 Probe Thermometer<br/>
+  Ziplock double seal bags
+  <br /> <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Beef Tenderloin</span>: 
+      <span itemprop="amount">4</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Favorite Rub</span>:
+      <span itemprop="amount">1/4 c</span>
+    </span><br />
+    
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Rub beef and place in Ziplock bags, squeeze as much air out as possible and seal well.<br />
+      2. Place thermometer probe in cooler.<br />
+      3. Fill cooler with water, alternate with hot tap and boiling water to achieve between 130 and 135 F. <br />
+      4. Drop Ziplock bags containing beef into the water and cover cooler. Leave alone for 45 minutes. If at any time the water temperature drops below 125, add more boiling water to bring back up to temp. <br />
+      5. Heat grill or pan with oil to very high heat. <br />
+      6. Remove beef from bags and sear for one minute on each side. <br />
+      7. Remove from heat and feast. <br />
+
+    </div>
+    <img src="http://rotio.net/rotiofood/2014-02-24/beef_gif.gif"/>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+<p> <a href="http://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.rotiofood.com%2Fblog%2F2014%2F02%2F24%2Fbeef-sous-vide%2F&media=http%3A%2F%2Fwww.rotio.net%2Frotiofood%2F2014-02-24%2Fbeef_gif.gif&description=rotio%2Ffood%20Beef%20Sous%20Vide"
+ data-pin-do="buttonPin"
+ data-pin-config="beside">
+ <img src="http://rotiofood.com//assets.pinterest.com/images/pidgets/pin_it_button.png" />
+ </a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[pi&ntilde;ape&ntilde;o chicken]]></title>
