@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-03-11T22:03:24-05:00</updated>
+  <updated>2014-03-12T22:38:43-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,136 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[pork and polenta]]></title>
+    <link href="http://rotiofood.com/blog/2014/03/12/pork-and-polenta/"/>
+    <updated>2014-03-12T11:59:50-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/03/12/pork-and-polenta</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b> </h3>
+  <div>
+    <p>
+    We introduced our beer cooler and plastic bag Sous Vide technique in our Beef Sous Vide post. We always overcook pork tenderloin so we decided to try to see if we could nail it with a Sous Vide approach. To go with the pork, we roasted some asparagus and took a shot at something we&#8217;ve never made before - Polenta! (which, to our surprise, is just corn grits prepared differently than you do for breakfast). We added some gouda and thyme to the polenta which really went well with the pork.
+    </p>
+  </div>
+
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <h3 itemprop="name">Pork Tenderloin and Polenta</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-03-12 11:59:50 -0500 itemprop="published">
+    March 12, 2014</time>
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg" />
+  
+  <br /><span itemprop="summary">Sous vide pork tenderloin with Gouda Polenta and Asparagus</span><br />
+
+  <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
+  <br />Cook time: <time datetime="PT1H0M" itemprop="cookTime">1h</time>
+  <br />Total time: <time datetime="PT1H10M" itemprop="totalTime">1h 10m</time>
+  <br />Yield: <span itemprop="yield">Tenderloin and Polenta for 2</span>
+  
+  <br />
+  
+  <br /><h4>Equipment:</h4>
+  Styrofoam or plastic cooler (dense foam works best)<br/>
+  $10 Probe Thermometer<br/>
+  Ziplock double seal bags (splurge the extra few bucks on the double seal freezer bags, pork tenderloin isn&#8217;t cheap and you don&#8217;t want water to get in)
+  <br /> <br /><h4>Ingredients:</h4>
+  <br /> <br /> Pork: <br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Pork Tenderloin</span>: 
+      <span itemprop="amount">1</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Sea Salt</span>:
+      <span itemprop="amount">1/4 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Black Pepper</span>:
+      <span itemprop="amount">1 T</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Fresh Thyme</span>:
+      <span itemprop="amount">1/4 c</span>, chopped
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Fresh Rosemary</span>:
+      <span itemprop="amount">1/4 c</span>, chopped
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Garlic</span>:
+      <span itemprop="amount">2 cloves</span>, minced
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Olive Oil</span>:
+      <span itemprop="amount">1 T</span>
+    </span>
+    
+    <br /> <br /> Polenta: <br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Yellow Corn Grits</span>:
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Chicken Stock</span>:
+      <span itemprop="amount">15 oz. Can</span> (a little less than 2 cups)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Thyme</span>:
+      <span itemprop="amount">1/4 c</span>, chopped
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Gouda</span>:
+      <span itemprop="amount">2 oz</span>, grated
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">pinch</span>
+    </span><br />
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Grind salt, pepper, thyme, rosemary, garlic, and olive oil together with mortar and pestle or back of spoon in a bowl.<br/>
+      2. Rub pork generously with herb/garlic mixture and place in Ziplock bag, squeeze as much air out as possible and seal well.<br />
+      3. Place thermometer probe in cooler.<br />
+      4. Fill cooler with water, alternate with hot tap and boiling water to achieve about 150 degrees. <br />
+      5. Drop Ziplock bag containing pork into the water and cover cooler. Leave alone for at least 50 minutes *(if you use a pork loin or larger cut of pork, leave in for at least 90 minutes)*. If at any time the water temperature drops below 145, add more boiling water to bring back up to temp. The beautiful thing about sous vide is that removing the air and setting the water temp to the final temp that you want your meat allows you to be able to leave alone without the fear of overcooking (we recommend 1-6 hours, as long as you maintain water temp)<br />
+      6. About 20 minutes before you are ready to eat, start the polenta by bringing the stock and thyme to a boil.
+      7. Whisk in grits (polenta), turn the heat to low and cover. Let cook for 15 minutes, stirring occasionally.<br/>
+      8. Heat grill or pan with oil to very high heat. <br />
+      9. Remove pork from bag and sear for one minute on each side. <br />
+      10. Remove polenta from heat, stir in gouda and salt.<br/>
+      11. Remove pork from heat, slice, plate, and feast. <br />
+      </div>
+
+    
+
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[beef sous vide]]></title>
