@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-03-12T22:38:43-05:00</updated>
+  <updated>2014-03-31T21:57:45-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,106 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[coconut creme brulee]]></title>
+    <link href="http://rotiofood.com/blog/2014/03/31/coconut-creme-brulee/"/>
+    <updated>2014-03-31T11:09:50-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/03/31/coconut-creme-brulee</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-03-31/coconut_top.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b> </h3>
+  <div>
+    <p>
+    Simple custard (four ingredients) cooked inside of a fresh coconut. The flavors of the coconut flesh permeated the custard as it cooked for a nice lightly flavored coconut creme brulee. Finishing this off with some sugar and a blowtorch gave a nice thick shell that every creme brulee needs! Added bonus (thank you Alton Brown) save the pods from your vanilla bean and store them in sugar - the sugar will pick up quite a bit of vanilla flavor.<img itemprop="photo" src="http://rotio.net/rotiofood/2014-03-31/vanilla.jpg" /></p>  
+  </div>
+
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <h3 itemprop="name">Coconut Creme Brulee</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-03-31 11:09:50 -0500 itemprop="published">
+    March 31, 2014</time>
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-03-31/coconut_top.jpg" />
+  
+  <br /><span itemprop="summary">Creme brulee cooked in a coconut</span><br />
+
+  <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
+  <br />Cook time: <time datetime="PT1H15M" itemprop="cookTime">1h 15m</time>
+  <br />Total time: <time datetime="PT1H25M" itemprop="totalTime">1h 25m</time>
+  <br />Yield: <span itemprop="yield">Creme brulee for two</span>
+  
+  <br />
+  
+  <br /><h4>Equipment:</h4>
+  Propane torch (from a hardware store)<br/>
+  <br /><h4>Ingredients:</h4>
+  <br /> 
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Fresh Coconut</span>: 
+      <span itemprop="amount">1</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Heavy Cream</span>:
+      <span itemprop="amount">1 pint</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Vanilla Bean</span>:
+      <span itemprop="amount">1 whole</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Egg Yolks</span>:
+      <span itemprop="amount">3</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Sugar</span>:
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    
+
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Cut 1/2&#8221; off each end of the coconut so you have a flat end on each side.<br/>
+      2. Cut the coconut in half (parallel to the flat ends you just made). Be careful to save the coconut water and drink it, it is delicious and a great source of electrolytes.<br />
+      3. Place coconut halves into a baking pan and place in oven on top rack.<br />
+      4. Preheat oven to 325 F. <br />
+      5. Split vanilla bean and scrape out pulp with the back of your knife.<br />
+      6. Put heavy cream and vanilla (pod and pulp) into a saucepan on medium high heat.<br />
+      7. As soon as cream starts to bubble, kill the heat allow to rest (covered) for 15 minutes.<br/>
+      8. Whisk egg yolks with half (1/4 c) of sugar. <br />
+      9. While whisking, slowly add cream, a little at a time, to temper the eggs. <br />
+      10. When all cream is combined, pour into coconut shells and bake for 60 minutes or until custard is set but center still jiggles slightly - this may take up to 90 minutes depending on how warm your coconut is.<br/>
+      11. Chill for at least 3 hours before serving. <br />
+      12. Immediately before serving, sprinkle sugar on top of custard and hit it with the torch until all sugar is melted, swirl to coat top of custard with liquid sugar. <br />
+      </div>
+
+    
+
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[pork and polenta]]></title>
@@ -114,7 +214,7 @@
       3. Place thermometer probe in cooler.<br />
       4. Fill cooler with water, alternate with hot tap and boiling water to achieve about 150 degrees. <br />
       5. Drop Ziplock bag containing pork into the water and cover cooler. Leave alone for at least 50 minutes *(if you use a pork loin or larger cut of pork, leave in for at least 90 minutes)*. If at any time the water temperature drops below 145, add more boiling water to bring back up to temp. The beautiful thing about sous vide is that removing the air and setting the water temp to the final temp that you want your meat allows you to be able to leave alone without the fear of overcooking (we recommend 1-6 hours, as long as you maintain water temp)<br />
-      6. About 20 minutes before you are ready to eat, start the polenta by bringing the stock and thyme to a boil.
+      6. About 20 minutes before you are ready to eat, start the polenta by bringing the stock and thyme to a boil.<br />
       7. Whisk in grits (polenta), turn the heat to low and cover. Let cook for 15 minutes, stirring occasionally.<br/>
       8. Heat grill or pan with oil to very high heat. <br />
       9. Remove pork from bag and sear for one minute on each side. <br />
