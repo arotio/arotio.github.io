@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-03-31T21:57:45-05:00</updated>
+  <updated>2014-04-02T22:32:58-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,102 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[baguette]]></title>
+    <link href="http://rotiofood.com/blog/2014/04/02/baguette/"/>
+    <updated>2014-04-02T11:09:50-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/04/02/baguette</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-04-02/bread_angle.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b> </h3>
+  <div>
+    <p>
+    <img itemprop="photo" src="http://rotio.net/rotiofood/2014-04-02/bread_all.jpg" />Good bread is up there with water on my &#8220;need it to live&#8221; list. There&#8217;s just something about breaking bread that has a nice crunchy crust and a light airy center that is incredibly satisfying. When you can make your own and serve it warm, butter half melts and seeps into all of the nooks and crannies like it was made to settle in there. Usually, we serve these baguettes with something saucy and a hunk lives in our left hand as we eat, serving as an &#8220;Italian napkin&#8221; to sop up all of the goodness left on the plate. Bread is easier than you think. If you fail the first time, try and try again. Once you nail it, you won&#8217;t go back.</p>  
+  </div>
+
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <h3 itemprop="name">baguette</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-04-02 11:09:50 -0500 itemprop="published">
+    April 2, 2014</time>
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-04-02/bread_close.jpg" />
+  
+  <br /><span itemprop="summary">Straightforward Baguette</span><br />
+
+  <br />Prep time: <time datetime="PT3H" itemprop="prepTime">3 h</time> 
+  <br />Cook time: <time datetime="PT0H30M" itemprop="cookTime">30m</time>
+  <br />Total time: <time datetime="PT3H30M" itemprop="totalTime">3h 30m</time>
+  <br />Yield: <span itemprop="yield">3 loaves</span>
+  
+  <br />
+  
+
+  <br /><h4>Ingredients:</h4>
+  <br /> 
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Bread Flour</span>: 
+      <span itemprop="amount">3 c</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Warm Water</span>:
+      <span itemprop="amount">1 and 1/4 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Active dry yeast</span>:
+      <span itemprop="amount">1 packet</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">2 tsp</span>
+    </span><br />
+
+    
+
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Whisk together yeast and water in large bowl, let sit until yeast is foamy to ensure your yeast is alive.<br/>
+      2. Add flour, stir vigorously, and allow to sit so the flour can hydrate (25 minutes).<br />
+      3. Using a spoon, heel of your hand, or dough hook on machine, beat up the flour for about 10 minutes until the gluten is happy and the dough is elastic.<br />
+      4. Lightly spray or grease a bowl, add dough, cover tightly with plastic wrap and allow to rise until doubled (about 50 minutes). <br />
+      5. Turn out dough and shape into a rectangle (about 8&#8221; x 5&#8221;). Fold the long edges in to meet at the middle and lightly press down with the heel of your hand. Now fold short sides in to meet in middle and again, lightly press down with the heel of your hand. Return to bowl (seam side down) and allow to rise again until doubled (about 1 hour).<br />
+      6. Place baking stone in oven on top shelf and preheat to 475 F.<br />
+      7. Divide dough into 3 pieces and gently roll into 12 - 16 inch ropes (try not to crush the air bubbles if possible, they are your friends).<br/>
+      8. Place cast iron skillet in base of oven. <br />
+      9. Let dough rise, covered tightly with plastic, on floured parchment paper or pan for about 50 minutes. <br />
+      10. Slash top of dough with razor or sharp knife in three or four lines, diagonal to the length of the loaf. <br />
+      11. Transfer dough to baking stone, gently (use spatulas or parchment paper as a guide to transfer) &#8211; immediately place three ice cubes in cast iron skillet and shut the oven door to create a humid environment.<br/>
+      12. Bake until dark golden brown (about 35 minutes). <br />
+     </div>
+
+    
+
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[coconut creme brulee]]></title>
