@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-04-05T15:48:58-05:00</updated>
+  <updated>2014-04-06T16:03:09-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -37,7 +37,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-04-02 11:09:50 -0500 itemprop="published">
     April 2, 2014</time>
-  <img itemprop="image" src="http://rotio.net/rotiofood/2014-04-02/bread_close.jpg" />
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-04-02/bread_close.jpg" />
   
   <br /><span itemprop="summary">Straightforward Baguette</span><br />
 
@@ -133,7 +133,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-03-31 11:09:50 -0500 itemprop="published">
     March 31, 2014</time>
-  <img itemprop="image" src="http://rotio.net/rotiofood/2014-03-31/coconut_top.jpg" />
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-03-31/coconut_top.jpg" />
   
   <br /><span itemprop="summary">Creme brulee cooked in a coconut</span><br />
 
@@ -234,7 +234,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-03-12 11:59:50 -0500 itemprop="published">
     March 12, 2014</time>
-  <img itemprop="image" src="http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg" />
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg" />
   
   <br /><span itemprop="summary">Sous vide pork tenderloin with Gouda Polenta and Asparagus</span><br />
 
@@ -382,7 +382,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-24 10:59:50 -0600 itemprop="published">
     February 24, 2014</time>
-  <img itemprop="image" src="http://rotio.net/rotiofood/2014-02-24/beef_sous_vide.jpg" />
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-24/beef_sous_vide.jpg" />
   
   <br /><span itemprop="summary">&#8220;Sous vide&#8221; beef tenderloin without the thousand dollar equipment.</span><br />
 
@@ -463,7 +463,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-21 10:59:50 -0600 itemprop="published">
     February 21, 2014</time>
-  <img itemprop="image" src="http://rotio.net/rotiofood/2014-02-21/chicken_far.jpg" />
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-21/chicken_far.jpg" />
   
   <br /><span itemprop="summary">Pineapple Jalape&ntilde;o Barbecue Chicken.</span><br />
 
@@ -576,7 +576,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-18 09:59:50 -0600 itemprop="published">
     February 18, 2014</time>
-  <img itemprop="image" src="http://rotio.net/rotiofood/2014-02-18/pollo_asado.jpg" />
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-18/pollo_asado.jpg" />
   
   <br /><span itemprop="summary">Pollo Asado tacos con manchego, avocado, y cilantro.</span><br />
 
@@ -671,7 +671,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-17 08:20:50 -0600 itemprop="published">
     February 17, 2014</time>
-  <img itemprop="image" src="http://rotio.net/rotiofood/2014-02-17/fries.jpg" />
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-17/fries.jpg" />
   
   <br /><span itemprop="summary">Crispy, tender bistro fries.</span><br />
 
@@ -750,7 +750,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-16 09:15:50 -0600 itemprop="published">
     February 16, 2014</time>
-  <img itemprop="image" src="http://rotio.net/rotiofood/2014-02-16/salmon_sliders_plated_2.jpg" />
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-16/salmon_sliders_plated_2.jpg" />
   
   <br /><span itemprop="summary">Salmon sliders with cucumber dill sauce and tomato. </span><br />
 
@@ -872,7 +872,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-12 09:15:50 -0600 itemprop="published">
     February 12, 2014</time>
-  <img itemprop="image" src="http://rotio.net/rotiofood/2014-02-12/gnocci_assembly.gif" />
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-12/gnocci_assembly.gif" />
   
   <br /><span itemprop="summary">Basic gnocchi.</span><br />
 
@@ -977,7 +977,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-09 05:15:50 -0600 itemprop="published">
     February 9, 2014</time>
-  <img itemprop="image" src="http://rotio.net/rotiofood/2014-02-09/surf_turf_open.jpg" />
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-09/surf_turf_open.jpg" />
   
   <br /><span itemprop="summary">Tuna Tartare and Beef Carpaccio with crispy shallots.</span><br />
 
@@ -1094,7 +1094,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-05 10:15:50 -0600 itemprop="published">
     February 5, 2014</time>
-  <img itemprop="image" src="http://rotio.net/rotiofood/2014-02-05/popcorn_pan.jpg" />
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-05/popcorn_pan.jpg" />
   
   <br /><span itemprop="summary">Simple stovetop popcorn.</span><br />
 
@@ -1169,7 +1169,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-05 09:15:50 -0600 itemprop="published">
     February 5, 2014</time>
-  <img itemprop="image" src="http://rotio.net/rotiofood/2014-02-05/risotto_plated.jpg" />
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-05/risotto_plated.jpg" />
   
   <br /><span itemprop="summary">Risotto with chicken sausage, basil, garlic, and tomato.</span><br />
 
@@ -1286,7 +1286,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-02 09:15:50 -0600 itemprop="published">
     February 2, 2014</time>
-  <img itemprop="image" src="http://rotio.net/rotiofood/2014-02-02/wings_in_pan.jpg" />
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-02-02/wings_in_pan.jpg" />
   
   <br /><span itemprop="summary">Wings infused with Budweiser topped with some HOT sauce.</span><br />
   <span itemprop="review" itemscope itemtype="http://data-vocabulary.org/Review-aggregate" hidden>
@@ -1407,7 +1407,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-01-30 19:52:50 -0600 itemprop="published">
     January 30, 2014</time>
-  <img itemprop="image" src="http://rotio.net/rotiofood/2014-01-30/pad_thai_shrimp.jpg" />
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-01-30/pad_thai_shrimp.jpg" />
   
   <br /><span itemprop="summary">Shrimp Pad Thai, with spaghetti squash where the noodles used to be.</span><br />
   <span itemprop="review" itemscope itemtype="http://data-vocabulary.org/Review-aggregate" hidden>
@@ -1551,7 +1551,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-01-26 17:56:50 -0600 itemprop="published">
     January 26, 2014</time>
-  <img itemprop="image" src="http://rotio.net/rotiofood/2014-01-26/Pizza_with_table.jpg" /> 
+  <img itemprop="photo" src="http://rotio.net/rotiofood/2014-01-26/Pizza_with_table.jpg" /> 
   
   <br /><span itemprop="summary">This is a classic Jersey style pie. Cost for a medium comes out to about $2.50</span><br />
   <span itemprop="review" itemscope itemtype="http://data-vocabulary.org/Review-aggregate" hidden>
