@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-04-06T16:29:13-05:00</updated>
+  <updated>2014-04-06T19:07:31-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,130 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[sourdough waffles]]></title>
+    <link href="http://rotiofood.com/blog/2014/04/06/sourdough-waffles/"/>
+    <updated>2014-04-06T08:07:34-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/04/06/sourdough-waffles</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-04-06/waffle.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+<h3><b>Story</b> </h3>
+ <div>
+    <p>
+    <img src="http://rotio.net/rotiofood/2014-04-06/waffle.gif" />This morning I woke up and asked Katie &#8220;If you could eat anything, what would it be?&#8221; Katie is a member of Leverage Dance Theater and this weekend was opening weekend of their latest show &#8220;Am I the Only One.&#8221; The show has been great and they have two more performances next Saturday! Today was her first day off of work and dance in quite some time so I thought we should have a nice brunch. She picked Belgian Waffles with whipped cream and strawberries. The whole foundational premise of rotio/food is that &#8220;food, like life, is meant to be shared.&#8221; My passion is feeding the people I love food that they love and sharing a meal with them. Sourdough belgian waffles with berries, whipped cream, and a Budweiser at the table with my fiancee on our Sunday off was perfect, and I&#8217;m so happy to be able to share that here.</p>  
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <h3 itemprop="name">Sourdough Waffles with Berries and Cream</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-04-06 08:07:34 -0500 itemprop="published">
+    April 6, 2014</time>
+  <img itemprop="photo" width="200px" align="right" src="http://rotio.net/rotiofood/2014-04-06/waffle.jpg" />
+  
+  <br /><span itemprop="summary">Sourdough waffles with whipped cream and strawberries</span><br />
+
+  <br />Prep time: <time datetime="PT0H25M" itemprop="prepTime">25m</time> 
+  <br />Cook time: <time datetime="PT0H05M" itemprop="cookTime">5m</time> each waffle
+  <br />Total time: <time datetime="PT0H30M" itemprop="totalTime">30m</time>
+  <br />Yield: <span itemprop="yield">6 waffles</span>
+  
+  <br />
+  
+
+  <br /><h4>Ingredients:</h4>
+    <h4>Waffle:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Bread Flour</span>: 
+      <span itemprop="amount">1 c</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Milk</span>:
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Eggs</span>:
+      <span itemprop="amount">2</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Baking Powder</span>:
+      <span itemprop="amount">1 1/2 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Buddy*</span>:
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Vanilla Sugar</span>:
+      <span itemprop="amount">1/4 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Sea Salt</span>:
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Butter</span>:
+      <span itemprop="amount">3 T</span>, melted
+    </span><br />
+    <h4>Topping:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Heavy Cream</span>:
+      <span itemprop="amount">1 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Sea Salt</span>:
+      <span itemprop="amount">pinch</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Powdered Sugar</span>:
+      <span itemprop="amount">1/4 c</span>, melted
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Vanilla Extract</span>:
+      <span itemprop="amount">3 drops</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+      <span itemprop="name">Strawberries</span>:
+      <span itemprop="amount">1 c</span>, washed and cut
+    </span><br /><br />
+    
+
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Mix all waffle ingredients in large bowl.<br />
+      2. Preheat and grease waffle iron.<br />
+      3. Beat all topping ingredients (except strawberries) until stiff peaks are formed.<br />
+      4. Ladle 1 cup of waffle batter into greased waffle iron and spread with ladle. Close and cook for 4-5 minutes until golden brown. <br />
+      5. Remove waffle from iron, top with whipped cream, strawberries, and powdered sugar. Serve immediately. <br />
+     </div>
+    <br />
+    <span>* &#8220;Buddy&#8221; is our pet. He&#8217;s a sourdough starter that we only feed Budweiser and bread flour. He&#8217;s a lot of fun and has a great personality. He&#8217;s been working on his own page on the blog and a Twitter account&#8230; keep an eye out, they&#8217;re coming soon!</span>
+    
+
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[baguette]]></title>
@@ -1678,7 +1802,8 @@
     $( "#accordion" ).accordion({
     collapsible: true,
     active: false,
-    heightStyle: "content"});
+    heightStyle: "content"
+});
 </script>
 
 ]]></content>
