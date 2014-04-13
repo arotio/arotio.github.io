@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-04-06T19:07:31-05:00</updated>
+  <updated>2014-04-13T15:23:32-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -30,7 +30,7 @@
     <img src="http://rotio.net/rotiofood/2014-04-06/waffle.gif" />This morning I woke up and asked Katie &#8220;If you could eat anything, what would it be?&#8221; Katie is a member of Leverage Dance Theater and this weekend was opening weekend of their latest show &#8220;Am I the Only One.&#8221; The show has been great and they have two more performances next Saturday! Today was her first day off of work and dance in quite some time so I thought we should have a nice brunch. She picked Belgian Waffles with whipped cream and strawberries. The whole foundational premise of rotio/food is that &#8220;food, like life, is meant to be shared.&#8221; My passion is feeding the people I love food that they love and sharing a meal with them. Sourdough belgian waffles with berries, whipped cream, and a Budweiser at the table with my fiancee on our Sunday off was perfect, and I&#8217;m so happy to be able to share that here.</p>  
   </div>
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Sourdough Waffles with Berries and Cream</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-04-06 08:07:34 -0500 itemprop="published">
@@ -49,56 +49,56 @@
 
   <br /><h4>Ingredients:</h4>
     <h4>Waffle:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Bread Flour</span>: 
       <span itemprop="amount">1 c</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Milk</span>:
       <span itemprop="amount">1/2 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Eggs</span>:
       <span itemprop="amount">2</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Baking Powder</span>:
       <span itemprop="amount">1 1/2 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Buddy*</span>:
       <span itemprop="amount">1/2 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Vanilla Sugar</span>:
       <span itemprop="amount">1/4 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sea Salt</span>:
       <span itemprop="amount">1/4 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Butter</span>:
       <span itemprop="amount">3 T</span>, melted
     </span><br />
     <h4>Topping:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Heavy Cream</span>:
       <span itemprop="amount">1 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sea Salt</span>:
       <span itemprop="amount">pinch</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Powdered Sugar</span>:
       <span itemprop="amount">1/4 c</span>, melted
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Vanilla Extract</span>:
       <span itemprop="amount">3 drops</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Strawberries</span>:
       <span itemprop="amount">1 c</span>, washed and cut
     </span><br /><br />
@@ -156,7 +156,7 @@
   </div>
 
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">baguette</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-04-02 11:09:50 -0500 itemprop="published">
@@ -175,19 +175,19 @@
 
   <br /><h4>Ingredients:</h4>
   <br /> 
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Bread Flour</span>: 
       <span itemprop="amount">3 c</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Warm Water</span>:
       <span itemprop="amount">1 and 1/4 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Active dry yeast</span>:
       <span itemprop="amount">1 packet</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">2 tsp</span>
     </span><br />
@@ -252,7 +252,7 @@
   </div>
 
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Coconut Creme Brulee</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-03-31 11:09:50 -0500 itemprop="published">
@@ -272,23 +272,23 @@
   Propane torch (from a hardware store)<br/>
   <br /><h4>Ingredients:</h4>
   <br /> 
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Fresh Coconut</span>: 
       <span itemprop="amount">1</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Heavy Cream</span>:
       <span itemprop="amount">1 pint</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Vanilla Bean</span>:
       <span itemprop="amount">1 whole</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Egg Yolks</span>:
       <span itemprop="amount">3</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sugar</span>:
       <span itemprop="amount">1/2 c</span>
     </span><br />
@@ -353,7 +353,7 @@
   </div>
 
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Pork Tenderloin and Polenta</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-03-12 11:59:50 -0500 itemprop="published">
@@ -375,53 +375,53 @@
   Ziplock double seal bags (splurge the extra few bucks on the double seal freezer bags, pork tenderloin isn&#8217;t cheap and you don&#8217;t want water to get in)
   <br /> <br /><h4>Ingredients:</h4>
   <br /> <br /> Pork: <br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Pork Tenderloin</span>: 
       <span itemprop="amount">1</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sea Salt</span>:
       <span itemprop="amount">1/4 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Black Pepper</span>:
       <span itemprop="amount">1 T</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Fresh Thyme</span>:
       <span itemprop="amount">1/4 c</span>, chopped
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Fresh Rosemary</span>:
       <span itemprop="amount">1/4 c</span>, chopped
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Garlic</span>:
       <span itemprop="amount">2 cloves</span>, minced
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Olive Oil</span>:
       <span itemprop="amount">1 T</span>
     </span>
     
     <br /> <br /> Polenta: <br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Yellow Corn Grits</span>:
       <span itemprop="amount">1/2 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Chicken Stock</span>:
       <span itemprop="amount">15 oz. Can</span> (a little less than 2 cups)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Thyme</span>:
       <span itemprop="amount">1/4 c</span>, chopped
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Gouda</span>:
       <span itemprop="amount">2 oz</span>, grated
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">pinch</span>
     </span><br />
@@ -501,7 +501,7 @@
     </p>
   </div>
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Beef Sous Vide</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-24 10:59:50 -0600 itemprop="published">
@@ -522,11 +522,11 @@
   $10 Probe Thermometer<br/>
   Ziplock double seal bags (splurge the extra few bucks on the double seal freezer bags, this beef isn&#8217;t cheap and you don&#8217;t want water to get in)
   <br /> <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Beef Tenderloin</span>: 
       <span itemprop="amount">4</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Favorite Rub</span>:
       <span itemprop="amount">1/4 c</span>
     </span><br />
@@ -582,7 +582,7 @@
     Fancy food can be delicious.. it has its place &#8211; But nothing is better than what you grew up with. I&#8217;m talking about the things you grew up with in your home as a kid that mom made, the food Aunt Patti grilled on the deck that you ate with your first beer, the foods that you can smell that bring you right back to age 14 and a simpler time. These are the most important foods to me, and there are definitely a few that bring me back to that place. Barbecue chicken is certainly one of those foods. I smelled my jacket today, two days after making this chicken, and closing my eyes and taking that smell in brought me back and immediately lit up a smile on my face. We didn&#8217;t have any barbecue sauce so i made one up with pineapple and jalape&ntilde;o. The best foods are the ones you grew up with and the best barbecue sauce is the one you make with what you have in the house. Those are the most important things you can take from this post.</p>
   </div>
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Pi&ntilde;ape&ntilde;o Chicken</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-21 10:59:50 -0600 itemprop="published">
@@ -598,51 +598,51 @@
   
   <br />
   <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Chicken Thighs and Legs</span>: 
       <span itemprop="amount">3 lb</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Pineapple</span>:
       <span itemprop="amount">1/4 c, diced</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Jalape&ntilde;o</span>:
       <span itemprop="amount">1, diced</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Onion</span>:
       <span itemprop="amount">1, chopped</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Garlic</span>:
       <span itemprop="amount">2 cloves</span> (a very little bit)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Ketchup</span>:
       <span itemprop="amount">3/4 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Molasses</span>:
       <span itemprop="amount">1/4 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Apple Cider Vinegar</span>:
       <span itemprop="amount">1/4 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Budweiser</span>:
       <span itemprop="amount">splash</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Cumin</span>:
       <span itemprop="amount">1/4 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">1/4 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Black Pepper</span>:
       <span itemprop="amount">1/4 tsp</span>
     </span><br />
@@ -695,7 +695,7 @@
     </p>
   </div>
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Pollo Asado</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-18 09:59:50 -0600 itemprop="published">
@@ -711,31 +711,31 @@
   
   <br />
   <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Pollo Asado (Chicken)</span>: 
       <span itemprop="amount">1 lb</span> thin chicken breasts, marinated (we used [<a href="http://www.cooktj.com/node/3659" target="_blank">this</a>])
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Manchego</span>:
       <span itemprop="amount">1 c, shredded</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Avocado</span>:
       <span itemprop="amount">1, sliced</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Cilantro</span>:
       <span itemprop="amount">1 bunch, chopped</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sour Cream</span>:
       <span itemprop="amount">Un Poquito</span> (a very little bit)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Lime</span>:
       <span itemprop="amount">5 wedges</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Tortillas</span>:
       <span itemprop="amount">5</span>
     </span><br />
@@ -790,7 +790,7 @@
     </p>
   </div>
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">French Fries</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-17 08:20:50 -0600 itemprop="published">
@@ -806,15 +806,15 @@
   
   <br />
   <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Russet Potatoes</span>: 
       <span itemprop="amount">2</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Canola Oil</span>:
       <span itemprop="amount">1 gallon</span> (or enough to fill whatever you&#8217;re going to deep fry in about half way)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sea Salt</span>:
       <span itemprop="amount">1 tsp</span>
     </span><br />
@@ -869,7 +869,7 @@
     </p>
   </div>
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Salmon Sliders</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-16 09:15:50 -0600 itemprop="published">
@@ -886,52 +886,52 @@
   <br />
   <br /><h4>Ingredients:</h4>
   Sauce: </br>
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Light Sour Cream</span>: 
       <span itemprop="amount">1/2 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Onion</span>:
       <span itemprop="amount">1/2 small, minced</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Fresh Dill</span>:
       <span itemprop="amount">Small bunch, chopped</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Lime</span>:
       <span itemprop="amount">1/2 lime, juiced</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Cucumber</span>:
       <span itemprop="amount">1/4, chopped</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">to taste</span>
     </span><br />
     <br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salmon</span>:
       <span itemprop="amount">1 lb</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Extra Virgin Olive Oil</span>:
       <span itemprop="amount">2 T</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sea Salt</span>:
       <span itemprop="amount">pinch</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Black Pepper</span>:
       <span itemprop="amount">pinch</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Tomato, small</span>:
       <span itemprop="amount">4 slices</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Slider Buns</span>:
       <span itemprop="amount">4</span>
     </span><br />
@@ -991,7 +991,7 @@
     </p>
   </div>
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Gnocchi</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-12 09:15:50 -0600 itemprop="published">
@@ -1007,31 +1007,31 @@
   
   <br />
   <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Russet Potatoes</span>: 
       <span itemprop="amount">1 lb</span> (we used 2 medium potatoes)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Egg Yolks</span>:
       <span itemprop="amount">3</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Parmigiano Reggiano</span>:
       <span itemprop="amount">1/2 c, grated</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Nutmeg</span>:
       <span itemprop="amount">1/4 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">1/2 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Black Pepper</span>:
       <span itemprop="amount">1/4 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Flour</span> (all purpose):
       <span itemprop="amount">1 c</span>
     </span><br />
@@ -1096,7 +1096,7 @@
     </p>
   </div>
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Raw Surf and Turf</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-09 05:15:50 -0600 itemprop="published">
@@ -1112,51 +1112,51 @@
   
   <br />
   <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Beef Tenderloin</span> (as fresh as possible): 
       <span itemprop="amount">1/3 lb</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Albacore or Yellowfin Tuna</span> (as fresh as possible):
       <span itemprop="amount">1/4 lb</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Kosher Salt</span>:
       <span itemprop="amount">to taste</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sesame Seeds</span>:
       <span itemprop="amount">1 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Serrano or Jalape&#241;o Pepper</span>:
       <span itemprop="amount">1/8 pepper</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sesame Oil</span>:
       <span itemprop="amount">1/2 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Lime</span>:
       <span itemprop="amount">1/4</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Shallot</span>:
       <span itemprop="amount">1/2 large</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Canola Oil</span>:
       <span itemprop="amount">2 T</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Chives</span>:
       <span itemprop="amount">small bunch</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Mayo</span>:
       <span itemprop="amount">1 T</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sriracha</span>:
       <span itemprop="amount">1 tsp</span>
     </span><br />
@@ -1213,7 +1213,7 @@
     </p>
   </div>
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Foolproof Popcorn</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-05 10:15:50 -0600 itemprop="published">
@@ -1229,15 +1229,15 @@
   
   <br />
   <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Popcorn</span>:
       <span itemprop="amount">1/2 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Coconut Oil</span>:
       <span itemprop="amount">1 T</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">to taste</span>
     </span><br />
@@ -1288,7 +1288,7 @@
     </p>
   </div>
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Chicken Sausage Risotto with Basil</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-05 09:15:50 -0600 itemprop="published">
@@ -1304,51 +1304,51 @@
   
   <br />
   <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Chicken Sausage</span>:
       <span itemprop="amount">2 links</span> (cooked and sliced)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Tomato</span>:
       <span itemprop="amount">1</span>, chopped
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Garlic</span>:
       <span itemprop="amount">4 cloves</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Basil</span>:
       <span itemprop="amount">large bunch</span>, roughly chopped 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Kosher Salt</span>:
       <span itemprop="amount">1 T</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">White wine</span>:
       <span itemprop="amount">1 c</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Chicken Stock</span>:
       <span itemprop="amount">2 c</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Water</span>:
       <span itemprop="amount">4 c</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Arborio Rice</span>:
       <span itemprop="amount">1/2 c</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Extra Virgin Olive Oil</span>:
       <span itemprop="amount">2 T</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Crushed Red Pepper</span>:
       <span itemprop="amount">to taste</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Oregano</span>:
       <span itemprop="amount">to taste</span> 
     </span><br />
@@ -1405,7 +1405,7 @@
     </p>
   </div>
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Budweiser Baked Wings</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-02-02 09:15:50 -0600 itemprop="published">
@@ -1413,14 +1413,14 @@
   <img itemprop="photo" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-02/wings_in_pan.jpg" />
   
   <br /><span itemprop="summary">Wings infused with Budweiser topped with some HOT sauce.</span><br />
-  <span itemprop="review" itemscope itemtype="http://data-vocabulary.org/Review-aggregate" hidden>
+  <span itemprop="review" itemscope itemtype="http://schema.org/Review-aggregate" hidden>
     <span itemprop="rating" hidden>5.0</span> 
     <span itemprop="count" hidden>2</span> reviews </span>
   <br />Prep time (including brine): <time datetime="PT6H" itemprop="prepTime">6h</time>
   <br />Cook time: <time datetime="PT1h" itemprop="cookTime">1h</time>
   <br />Total time: <time datetime="PT7H" itemprop="totalTime">7h</time>
   <br />Yield: <span itemprop="yield">6 lbs </span>
-  <span itemprop="nutrition" itemscope itemtype="http://data-vocabulary.org/Nutrition" hidden>
+  <span itemprop="nutrition" itemscope itemtype="http://schema.org/Nutrition" hidden>
     Serving size: <span itemprop="servingSize">Half recipe</span>
     Calories per serving: <span itemprop="calories">500</span>
     Fat per serving: <span itemprop="fat">5g</span>
@@ -1428,38 +1428,38 @@
   <br /><h4>Equipment:</h4>
   Throw away alumninum pan or other pan with sides 
   <br /> <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Chicken wings</span>:
       <span itemprop="amount">6 lbs</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Thyme</span>:
       <span itemprop="amount">2 T</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">1/2 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Garlic Powder</span>:
       <span itemprop="amount">1/4 c</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Budweiser</span>:
       <span itemprop="amount">8</span> (plus a few to drink)
     </span><br />
     <br />
     Sauce:<br />
     
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Chilula Chili Garlic Sauce</span>:
       <span itemprop="amount">4 T</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Agave or Honey</span>:
       <span itemprop="amount">4 T</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Butter</span>:
       <span itemprop="amount">2 T</span> (melted) 
     </span><br />
@@ -1526,7 +1526,7 @@
     </p>
   </div>
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Spaghetti Squash Shrimp Pad Thai</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-01-30 19:52:50 -0600 itemprop="published">
@@ -1534,14 +1534,14 @@
   <img itemprop="photo" width="200px" align="right" src="http://rotio.net/rotiofood/2014-01-30/pad_thai_shrimp.jpg" />
   
   <br /><span itemprop="summary">Shrimp Pad Thai, with spaghetti squash where the noodles used to be.</span><br />
-  <span itemprop="review" itemscope itemtype="http://data-vocabulary.org/Review-aggregate" hidden>
+  <span itemprop="review" itemscope itemtype="http://schema.org/Review-aggregate" hidden>
     <span itemprop="rating" hidden>5.0</span> 
     <span itemprop="count" hidden>2</span> reviews </span>
   <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10 minutes</time>
   <br />Cook time: <time datetime="PT45M" itemprop="cookTime">45 min</time>
   <br />Total time: <time datetime="PT55M" itemprop="totalTime">55 min</time>
   <br />Yield: <span itemprop="yield">2 servings </span>
-  <span itemprop="nutrition" itemscope itemtype="http://data-vocabulary.org/Nutrition" hidden>
+  <span itemprop="nutrition" itemscope itemtype="http://schema.org/Nutrition" hidden>
     Serving size: <span itemprop="servingSize">Half recipe</span>
     Calories per serving: <span itemprop="calories">500</span>
     Fat per serving: <span itemprop="fat">5g</span>
@@ -1549,62 +1549,62 @@
   <br /><h4>Equipment:</h4>
   Wok (ideally a wok but you can definitely make it work with any large pan or skillet)
   <br /> <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Spaghetti Squash</span>:
       <span itemprop="amount">1</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Large Raw Shrimp</span> (these were 16-20 per pound):
       <span itemprop="amount">8-10</span>
     </span><br /><br />
     Sauce:<br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Peanut Butter</span>:
       <span itemprop="amount">2 T</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Cholula Chili Garlic Hot Sauce</span>:
       <span itemprop="amount">4 T</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Low Sodium Soy Sauce</span>:
       <span itemprop="amount">2 T</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Rice Wine Vinegar</span>:
       <span itemprop="amount">1 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Garlic Powder</span>:
       <span itemprop="amount">1 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Crushed Red Pepper</span>:
       <span itemprop="amount">pinch</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Agave, Honey, or Brown Sugar</span>:
       <span itemprop="amount">to taste</span>
     </span><br />
     <br />
     Stir Fry: <br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Coconut Oil</span> (canola or vegetable will also work fine):
       <span itemprop="amount">3 T</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Garlic</span>:
       <span itemprop="amount">3 cloves, minced</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sweet Cherry Peppers</span>:
       <span itemprop="amount">4 peppers, seeded and julienned</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Peanuts</span>:
       <span itemprop="amount">1/4 c, crushed</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Lime</span>:
       <span itemprop="amount">2 wedges</span> 
     </span><br />
@@ -1670,7 +1670,7 @@
     </p>
   </div>
 <h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://data-vocabulary.org/Recipe" >
+  <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">New Jersey Pizza</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-01-26 17:56:50 -0600 itemprop="published">
@@ -1678,14 +1678,14 @@
   <img itemprop="photo" width="200px" align="right" src="http://rotio.net/rotiofood/2014-01-26/Pizza_with_table.jpg" /> 
   
   <br /><span itemprop="summary">This is a classic Jersey style pie. Cost for a medium comes out to about $2.50</span><br />
-  <span itemprop="review" itemscope itemtype="http://data-vocabulary.org/Review-aggregate" hidden>
+  <span itemprop="review" itemscope itemtype="http://schema.org/Review-aggregate" hidden>
     <span itemprop="rating" hidden>5.0</span> 
     <span itemprop="count" hidden>2</span> reviews </span>
   <br />Prep time (including overnight rise): <time datetime="PT24H" itemprop="prepTime">24 hours</time>
   <br />Cook time: <time datetime="PT6M" itemprop="cookTime">6 min</time>
   <br />Total time: <time datetime="PT24H6M" itemprop="totalTime">24 hour 6 min</time>
   <br />Yield: <span itemprop="yield">2 (medium) 14&#8221; pies </span>
-  <span itemprop="nutrition" itemscope itemtype="http://data-vocabulary.org/Nutrition" hidden>
+  <span itemprop="nutrition" itemscope itemtype="http://schema.org/Nutrition" hidden>
     Serving size: <span itemprop="servingSize">1 medium pie</span>
     Calories per serving: <span itemprop="calories">600</span>
     Fat per serving: <span itemprop="fat">4g</span>
@@ -1694,70 +1694,70 @@
   Pizza Stone
   <br /> <br /><h4>Ingredients:</h4>
     Dough:<br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Bread Flour</span>:
       <span itemprop="amount">390g</span> (3c)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Water</span>:
       <span itemprop="amount">8.5oz</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Yeast</span>:
       <span itemprop="amount">1.75g</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">8g</span> (1.5tsp)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sugar</span>:
       <span itemprop="amount">4g</span> (1tsp)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Olive Oil</span>:
       <span itemprop="amount">1.5tsp</span>
     </span><br />
     <br />
     Sauce: (this makes a lot, freeze extra)<br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Tomato Puree</span>:
       <span itemprop="amount">28oz</span> (Good tomatoes = good sauce, find the one you like)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Water</span>:
       <span itemprop="amount">1/3c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Garlic</span>:
       <span itemprop="amount">1tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">3/4tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Black Pepper</span>:
       <span itemprop="amount">Pinch</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sugar</span>:
       <span itemprop="amount">1tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Red Pepper</span>:
       <span itemprop="amount">Pinch</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Olive Oil</span>:
       <span itemprop="amount">2tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Oregano</span>:
       <span itemprop="amount">1tsp</span>
     </span><br /><br />
     Cheese: <br />
-    <span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient">
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Mozzarella (whole milk, not part-skim &#8211; low moisture is ok &#8211; full block, not shredded)</span>:
       <span itemprop="amount">8oz total for both pies</span> 
     </span><br />
