@@ -1,0 +1,1812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[rotio/food]]></title>
+  <link href="http://rotiofood.com/atom.xml" rel="self"/>
+  <link href="http://rotiofood.com/"/>
+  <updated>2014-04-13T15:33:22-05:00</updated>
+  <id>http://rotiofood.com/</id>
+  <author>
+    <name><![CDATA[Anthony Rotio]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[sourdough waffles]]></title>
+    <link href="http://rotiofood.com/blog/2014/04/06/sourdough-waffles/"/>
+    <updated>2014-04-06T08:07:34-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/04/06/sourdough-waffles</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-04-06/waffle.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+<h3><b>Story</b> </h3>
+ <div>
+    <p>
+    <img src="http://rotio.net/rotiofood/2014-04-06/waffle.gif" />This morning I woke up and asked Katie &#8220;If you could eat anything, what would it be?&#8221; Katie is a member of Leverage Dance Theater and this weekend was opening weekend of their latest show &#8220;Am I the Only One.&#8221; The show has been great and they have two more performances next Saturday! Today was her first day off of work and dance in quite some time so I thought we should have a nice brunch. She picked Belgian Waffles with whipped cream and strawberries. The whole foundational premise of rotio/food is that &#8220;food, like life, is meant to be shared.&#8221; My passion is feeding the people I love food that they love and sharing a meal with them. Sourdough belgian waffles with berries, whipped cream, and a Budweiser at the table with my fiancee on our Sunday off was perfect, and I&#8217;m so happy to be able to share that here.</p>  
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Sourdough Waffles with Berries and Cream</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-04-06 08:07:34 -0500 itemprop="published">
+    April 6, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-04-06/waffle.jpg" />
+  
+  <br /><span itemprop="summary">Sourdough waffles with whipped cream and strawberries</span><br />
+
+  <br />Prep time: <time datetime="PT0H25M" itemprop="prepTime">25m</time> 
+  <br />Cook time: <time datetime="PT0H05M" itemprop="cookTime">5m</time> each waffle
+  <br />Total time: <time datetime="PT0H30M" itemprop="totalTime">30m</time>
+  <br />Yield: <span itemprop="yield">6 waffles</span>
+  
+  <br />
+  
+
+  <br /><h4>Ingredients:</h4>
+    <h4>Waffle:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Bread Flour</span>: 
+      <span itemprop="amount">1 c</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Milk</span>:
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Eggs</span>:
+      <span itemprop="amount">2</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Baking Powder</span>:
+      <span itemprop="amount">1 1/2 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Buddy*</span>:
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Vanilla Sugar</span>:
+      <span itemprop="amount">1/4 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Sea Salt</span>:
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Butter</span>:
+      <span itemprop="amount">3 T</span>, melted
+    </span><br />
+    <h4>Topping:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Heavy Cream</span>:
+      <span itemprop="amount">1 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Sea Salt</span>:
+      <span itemprop="amount">pinch</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Powdered Sugar</span>:
+      <span itemprop="amount">1/4 c</span>, melted
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Vanilla Extract</span>:
+      <span itemprop="amount">3 drops</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Strawberries</span>:
+      <span itemprop="amount">1 c</span>, washed and cut
+    </span><br /><br />
+    
+
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Mix all waffle ingredients in large bowl.<br />
+      2. Preheat and grease waffle iron.<br />
+      3. Beat all topping ingredients (except strawberries) until stiff peaks are formed.<br />
+      4. Ladle 1 cup of waffle batter into greased waffle iron and spread with ladle. Close and cook for 4-5 minutes until golden brown. <br />
+      5. Remove waffle from iron, top with whipped cream, strawberries, and powdered sugar. Serve immediately. <br />
+     </div>
+    <br />
+    <span>* &#8220;Buddy&#8221; is our pet. He&#8217;s a sourdough starter that we only feed Budweiser and bread flour. He&#8217;s a lot of fun and has a great personality. He&#8217;s been working on his own page on the blog and a Twitter account&#8230; keep an eye out, they&#8217;re coming soon!</span>
+    
+
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[baguette]]></title>
+    <link href="http://rotiofood.com/blog/2014/04/02/baguette/"/>
+    <updated>2014-04-02T11:09:50-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/04/02/baguette</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-04-02/bread_angle.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b> </h3>
+  <div>
+    <p>
+    <img src="http://rotio.net/rotiofood/2014-04-02/bread_all.jpg" />Good bread is up there with water on my &#8220;need it to live&#8221; list. There&#8217;s just something about breaking bread that has a nice crunchy crust and a light airy center that is incredibly satisfying. When you can make your own and serve it warm, butter half melts and seeps into all of the nooks and crannies like it was made to settle in there. Usually, we serve these baguettes with something saucy and a hunk lives in our left hand as we eat, serving as an &#8220;Italian napkin&#8221; to sop up all of the goodness left on the plate. Bread is easier than you think. If you fail the first time, try and try again. Once you nail it, you won&#8217;t go back.</p>  
+  </div>
+
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">baguette</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-04-02 11:09:50 -0500 itemprop="published">
+    April 2, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-04-02/bread_close.jpg" />
+  
+  <br /><span itemprop="summary">Straightforward Baguette</span><br />
+
+  <br />Prep time: <time datetime="PT3H" itemprop="prepTime">3 h</time> 
+  <br />Cook time: <time datetime="PT0H30M" itemprop="cookTime">30m</time>
+  <br />Total time: <time datetime="PT3H30M" itemprop="totalTime">3h 30m</time>
+  <br />Yield: <span itemprop="yield">3 loaves</span>
+  
+  <br />
+  
+
+  <br /><h4>Ingredients:</h4>
+  <br /> 
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Bread Flour</span>: 
+      <span itemprop="amount">3 c</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Warm Water</span>:
+      <span itemprop="amount">1 and 1/4 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Active dry yeast</span>:
+      <span itemprop="amount">1 packet</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">2 tsp</span>
+    </span><br />
+
+    
+
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Whisk together yeast and water in large bowl, let sit until yeast is foamy to ensure your yeast is alive.<br/>
+      2. Add flour, stir vigorously, and allow to sit so the flour can hydrate (25 minutes).<br />
+      3. Using a spoon, heel of your hand, or dough hook on machine, beat up the flour for about 10 minutes until the gluten is happy and the dough is elastic.<br />
+      4. Lightly spray or grease a bowl, add dough, cover tightly with plastic wrap and allow to rise until doubled (about 50 minutes). <br />
+      5. Turn out dough and shape into a rectangle (about 8&#8221; x 5&#8221;). Fold the long edges in to meet at the middle and lightly press down with the heel of your hand. Now fold short sides in to meet in middle and again, lightly press down with the heel of your hand. Return to bowl (seam side down) and allow to rise again until doubled (about 1 hour).<br />
+      6. Place baking stone in oven on top shelf and preheat to 475 F.<br />
+      7. Divide dough into 3 pieces and gently roll into 12 - 16 inch ropes (try not to crush the air bubbles if possible, they are your friends).<br/>
+      8. Place cast iron skillet in base of oven. <br />
+      9. Let dough rise, covered tightly with plastic, on floured parchment paper or pan for about 50 minutes. <br />
+      10. Slash top of dough with razor or sharp knife in three or four lines, diagonal to the length of the loaf. <br />
+      11. Transfer dough to baking stone, gently (use spatulas or parchment paper as a guide to transfer) &#8211; immediately place three ice cubes in cast iron skillet and shut the oven door to create a humid environment.<br/>
+      12. Bake until dark golden brown (about 35 minutes). <br />
+     </div>
+
+    
+
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[coconut creme brulee]]></title>
+    <link href="http://rotiofood.com/blog/2014/03/31/coconut-creme-brulee/"/>
+    <updated>2014-03-31T11:09:50-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/03/31/coconut-creme-brulee</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-03-31/coconut_top.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b> </h3>
+  <div>
+    <p>
+    Simple custard (four ingredients) cooked inside of a fresh coconut. The flavors of the coconut flesh permeated the custard as it cooked for a nice lightly flavored coconut creme brulee. Finishing this off with some sugar and a blowtorch gave a nice thick shell that every creme brulee needs! Added bonus (thank you Alton Brown) save the pods from your vanilla bean and store them in sugar - the sugar will pick up quite a bit of vanilla flavor.<img src="http://rotio.net/rotiofood/2014-03-31/vanilla.jpg" /></p>  
+  </div>
+
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Coconut Creme Brulee</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-03-31 11:09:50 -0500 itemprop="published">
+    March 31, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-03-31/coconut_top.jpg" />
+  
+  <br /><span itemprop="summary">Creme brulee cooked in a coconut</span><br />
+
+  <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
+  <br />Cook time: <time datetime="PT1H15M" itemprop="cookTime">1h 15m</time>
+  <br />Total time: <time datetime="PT1H25M" itemprop="totalTime">1h 25m</time>
+  <br />Yield: <span itemprop="yield">Creme brulee for two</span>
+  
+  <br />
+  
+  <br /><h4>Equipment:</h4>
+  Propane torch (from a hardware store)<br/>
+  <br /><h4>Ingredients:</h4>
+  <br /> 
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Fresh Coconut</span>: 
+      <span itemprop="amount">1</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Heavy Cream</span>:
+      <span itemprop="amount">1 pint</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Vanilla Bean</span>:
+      <span itemprop="amount">1 whole</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Egg Yolks</span>:
+      <span itemprop="amount">3</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Sugar</span>:
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    
+
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Cut 1/2&#8221; off each end of the coconut so you have a flat end on each side.<br/>
+      2. Cut the coconut in half (parallel to the flat ends you just made). Be careful to save the coconut water and drink it, it is delicious and a great source of electrolytes.<br />
+      3. Place coconut halves into a baking pan and place in oven on top rack.<br />
+      4. Preheat oven to 325 F. <br />
+      5. Split vanilla bean and scrape out pulp with the back of your knife.<br />
+      6. Put heavy cream and vanilla (pod and pulp) into a saucepan on medium high heat.<br />
+      7. As soon as cream starts to bubble, kill the heat allow to rest (covered) for 15 minutes.<br/>
+      8. Whisk egg yolks with half (1/4 c) of sugar. <br />
+      9. While whisking, slowly add cream, a little at a time, to temper the eggs. <br />
+      10. When all cream is combined, pour into coconut shells and bake for 60 minutes or until custard is set but center still jiggles slightly - this may take up to 90 minutes depending on how warm your coconut is.<br/>
+      11. Chill for at least 3 hours before serving. <br />
+      12. Immediately before serving, sprinkle sugar on top of custard and hit it with the torch until all sugar is melted, swirl to coat top of custard with liquid sugar. <br />
+      </div>
+
+    
+
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[pork and polenta]]></title>
+    <link href="http://rotiofood.com/blog/2014/03/12/pork-and-polenta/"/>
+    <updated>2014-03-12T11:59:50-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/03/12/pork-and-polenta</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b> </h3>
+  <div>
+    <p>
+    We introduced our beer cooler and plastic bag Sous Vide technique in our Beef Sous Vide post. We always overcook pork tenderloin so we decided to try to see if we could nail it with a Sous Vide approach. To go with the pork, we roasted some asparagus and took a shot at something we&#8217;ve never made before - Polenta! (which, to our surprise, is just corn grits prepared differently than you do for breakfast). We added some gouda and thyme to the polenta which really went well with the pork.
+    </p>
+  </div>
+
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Pork Tenderloin and Polenta</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-03-12 11:59:50 -0500 itemprop="published">
+    March 12, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg" />
+  
+  <br /><span itemprop="summary">Sous vide pork tenderloin with Gouda Polenta and Asparagus</span><br />
+
+  <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
+  <br />Cook time: <time datetime="PT1H0M" itemprop="cookTime">1h</time>
+  <br />Total time: <time datetime="PT1H10M" itemprop="totalTime">1h 10m</time>
+  <br />Yield: <span itemprop="yield">Tenderloin and Polenta for 2</span>
+  
+  <br />
+  
+  <br /><h4>Equipment:</h4>
+  Styrofoam or plastic cooler (dense foam works best)<br/>
+  $10 Probe Thermometer<br/>
+  Ziplock double seal bags (splurge the extra few bucks on the double seal freezer bags, pork tenderloin isn&#8217;t cheap and you don&#8217;t want water to get in)
+  <br /> <br /><h4>Ingredients:</h4>
+  <br /> <br /> Pork: <br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Pork Tenderloin</span>: 
+      <span itemprop="amount">1</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Sea Salt</span>:
+      <span itemprop="amount">1/4 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Black Pepper</span>:
+      <span itemprop="amount">1 T</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Fresh Thyme</span>:
+      <span itemprop="amount">1/4 c</span>, chopped
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Fresh Rosemary</span>:
+      <span itemprop="amount">1/4 c</span>, chopped
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Garlic</span>:
+      <span itemprop="amount">2 cloves</span>, minced
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Olive Oil</span>:
+      <span itemprop="amount">1 T</span>
+    </span>
+    
+    <br /> <br /> Polenta: <br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Yellow Corn Grits</span>:
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Chicken Stock</span>:
+      <span itemprop="amount">15 oz. Can</span> (a little less than 2 cups)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Thyme</span>:
+      <span itemprop="amount">1/4 c</span>, chopped
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Gouda</span>:
+      <span itemprop="amount">2 oz</span>, grated
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">pinch</span>
+    </span><br />
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Grind salt, pepper, thyme, rosemary, garlic, and olive oil together with mortar and pestle or back of spoon in a bowl.<br/>
+      2. Rub pork generously with herb/garlic mixture and place in Ziplock bag, squeeze as much air out as possible and seal well.<br />
+      3. Place thermometer probe in cooler.<br />
+      4. Fill cooler with water, alternate with hot tap and boiling water to achieve about 150 degrees. <br />
+      5. Drop Ziplock bag containing pork into the water and cover cooler. Leave alone for at least 50 minutes *(if you use a pork loin or larger cut of pork, leave in for at least 90 minutes)*. If at any time the water temperature drops below 145, add more boiling water to bring back up to temp. The beautiful thing about sous vide is that removing the air and setting the water temp to the final temp that you want your meat allows you to be able to leave alone without the fear of overcooking (we recommend 1-6 hours, as long as you maintain water temp)<br />
+      6. About 20 minutes before you are ready to eat, start the polenta by bringing the stock and thyme to a boil.<br />
+      7. Whisk in grits (polenta), turn the heat to low and cover. Let cook for 15 minutes, stirring occasionally.<br/>
+      8. Heat grill or pan with oil to very high heat. <br />
+      9. Remove pork from bag and sear for one minute on each side. <br />
+      10. Remove polenta from heat, stir in gouda and salt.<br/>
+      11. Remove pork from heat, slice, plate, and feast. <br />
+      </div>
+
+    
+
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[beef sous vide]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/24/beef-sous-vide/"/>
+    <updated>2014-02-24T10:59:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/24/beef-sous-vide</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-02-24/beef_sous_vide.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <p>
+    Beef tenderloin is amazing. The perfect marble of flavorful fat running through perfectly tender muscle. It&#8217;s not cheap, and it&#8217;s a small cut so if you screw it up, it&#8217;s not a good feeling (trust me I know).<br /><br />
+
+    To cook the perfect beef tenderloin you want the inside at about 130 F for medium rare and a nice sear on the outside. Those two things seem like a simple enough ask but they are not the easiest things to achieve. <br /><br />
+
+    To get the perfect sear, you have to have a screaming hot grill or pan. If you cook with a heat source this hot, by the time the center of your beef reaches 130 F, 3/4 of your meat will be very overdone and tough. <br /><br />
+
+    To get all of the meat consistently heated to 130 F you could set an oven or pan to 130 F and cook for a really long time without the risk of overcooking. You&#8217;d never go over that 130 F because the meat would get up to temperature of the pan/grill and air around it and stop heating, because the heat energy surrounding it would be only sufficient to get it up to 130. The problem with doing this is that the meat would be surrounded by air. The air would wick away the moisture while the beef cooks, leaving you with a very dried out end product. Plus, air does not hold temperature very consistently (the specific heat is pretty low for you nerds out there).<br /><br />
+
+    So there has to be a better way. Water has a high specific heat so could hold temperature at 130 for an adequate time to get the meat up to that temperature (Google &#8220;Newton&#8217;s Law of Cooling&#8221; if you want to see exactly how heat energy dissipates in a classical model). Cooking in water will yield boiled beef though, with many of the nutrients and flavor molecules dissipating into the cooking liquid surrounding the beef.<br /><br />
+
+    So can we have the best of both worlds? Can we get that slow cooked 130 to break down the fat and have perfectly tender beef while also achieving that aggressive crunchy sear on the outside?<br /><br />
+
+    Of course we can: enter Sous Vide.<br /><br />
+
+    Sous Vide literally translates (from French) to &#8220;under vacuum.&#8221; It is an advanced cooking technique that requires thousands of dollars worth of equipment to vacuum seal your meat and cook it in a water bath that is maintained at a perfect temperature down to the hundredth of a degree by an &#8220;immersion circulator.&#8221; This allows you to seal in all of the flavor molecules of your meat, cook low and slow at that perfect medium rare temperature then remove from the bag and sear at an extremely hot temperature to get that crust on the outside. This is what all high end restaurants do with their beef to cook it perfectly every time, consistently.<br /><br />
+
+    To hell with all that. I&#8217;m going to show you how to do it with a throwaway (or reusable) beer cooler, a $10 thermometer, and some Ziplock bags. It&#8217;s easy and it&#8217;s awesome.<br /><br />
+
+    <img src="http://rotio.net/rotiofood/2014-02-24/beef_comp.jpg"/>
+    <em>Take a look at the difference here: the filet on the left was grilled, see how the interior looks just about perfect but the exterior is overdone? The filet on the right was made using the technique below. Perfectly juicy medium rare right out to the seared edge. NOTE: special thanks to Carol Rosseland and John Egan for the beef! Great birthday present and I was even able to use the cooler it came in as a cooking vessel!</em>
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Beef Sous Vide</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-24 10:59:50 -0600 itemprop="published">
+    February 24, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-24/beef_sous_vide.jpg" />
+  
+  <br /><span itemprop="summary">&#8220;Sous vide&#8221; beef tenderloin without the thousand dollar equipment.</span><br />
+
+  <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
+  <br />Cook time: <time datetime="PT1H0M" itemprop="cookTime">1h</time>
+  <br />Total time: <time datetime="PT1H10M" itemprop="totalTime">1h 10m</time>
+  <br />Yield: <span itemprop="yield">4 tenderloins</span>
+  
+  <br />
+  
+  <br /><h4>Equipment:</h4>
+  Styrofoam or plastic cooler (dense foam works best)<br/>
+  $10 Probe Thermometer<br/>
+  Ziplock double seal bags (splurge the extra few bucks on the double seal freezer bags, this beef isn&#8217;t cheap and you don&#8217;t want water to get in)
+  <br /> <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Beef Tenderloin</span>: 
+      <span itemprop="amount">4</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Favorite Rub</span>:
+      <span itemprop="amount">1/4 c</span>
+    </span><br />
+    
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Rub beef and place in Ziplock bags, squeeze as much air out as possible and seal well.<br />
+      2. Place thermometer probe in cooler.<br />
+      3. Fill cooler with water, alternate with hot tap and boiling water to achieve between 130 and 135 F. <br />
+      4. Drop Ziplock bags containing beef into the water and cover cooler. Leave alone for 45 minutes. If at any time the water temperature drops below 125, add more boiling water to bring back up to temp. <br />
+      5. Heat grill or pan with oil to very high heat. <br />
+      6. Remove beef from bags and sear for one minute on each side. <br />
+      7. Remove from heat and feast. <br />
+
+    </div>
+    <img src="http://rotio.net/rotiofood/2014-02-24/beef_gif.gif"/>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[pi&ntilde;ape&ntilde;o chicken]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/21/pinapeno-chicken/"/>
+    <updated>2014-02-21T10:59:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/21/pinapeno-chicken</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-02-21/chicken_close.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <p>
+    Fancy food can be delicious.. it has its place &#8211; But nothing is better than what you grew up with. I&#8217;m talking about the things you grew up with in your home as a kid that mom made, the food Aunt Patti grilled on the deck that you ate with your first beer, the foods that you can smell that bring you right back to age 14 and a simpler time. These are the most important foods to me, and there are definitely a few that bring me back to that place. Barbecue chicken is certainly one of those foods. I smelled my jacket today, two days after making this chicken, and closing my eyes and taking that smell in brought me back and immediately lit up a smile on my face. We didn&#8217;t have any barbecue sauce so i made one up with pineapple and jalape&ntilde;o. The best foods are the ones you grew up with and the best barbecue sauce is the one you make with what you have in the house. Those are the most important things you can take from this post.</p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Pi&ntilde;ape&ntilde;o Chicken</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-21 10:59:50 -0600 itemprop="published">
+    February 21, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-21/chicken_far.jpg" />
+  
+  <br /><span itemprop="summary">Pineapple Jalape&ntilde;o Barbecue Chicken.</span><br />
+
+  <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
+  <br />Cook time: <time datetime="PT45M" itemprop="cookTime">45m</time>
+  <br />Total time: <time datetime="PT55M" itemprop="totalTime">55m</time>
+  <br />Yield: <span itemprop="yield">2 servings</span>
+  
+  <br />
+  <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Chicken Thighs and Legs</span>: 
+      <span itemprop="amount">3 lb</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Pineapple</span>:
+      <span itemprop="amount">1/4 c, diced</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Jalape&ntilde;o</span>:
+      <span itemprop="amount">1, diced</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Onion</span>:
+      <span itemprop="amount">1, chopped</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Garlic</span>:
+      <span itemprop="amount">2 cloves</span> (a very little bit)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Ketchup</span>:
+      <span itemprop="amount">3/4 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Molasses</span>:
+      <span itemprop="amount">1/4 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Apple Cider Vinegar</span>:
+      <span itemprop="amount">1/4 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Budweiser</span>:
+      <span itemprop="amount">splash</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Cumin</span>:
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Black Pepper</span>:
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Preheat grill (medium).<br />
+      2. Combine all non chicken ingredients in a saucepan and stew on low for 20 minutes.<br />
+      3. Blend ingredients from saucepan in blender, food processor or with immersion blender until smooth. <br />
+      4. Sear chicken on grill on each side for 10 minutes. <br />
+      5. Brush with BBQ sauce and cook for 5 minutes. <br />
+      6. Flip and repeat step 5 four times. <br />
+      7. Remove from grill and enjoy. <br />
+
+    </div>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[pollo asado]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/18/pollo-asado/"/>
+    <updated>2014-02-18T09:59:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/18/pollo-asado</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-02-18/pollo_asado.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <p>
+    On and off for the past few months, I&#8217;ve been trying to regain and augment the Spanish I learned in school through an audio Spanish class I&#8217;ve been taking in my truck on the way to work. If you&#8217;re ever in Saint Louis at 5:45AM and see a guy in a brown F150 groggily telling his radio &#8220;Desafortunadamente, he tenido que viajar a Nueva York la semana pasado&#8221; say hi because that&#8217;s me&#8230; On top of that, a visit to [<a href="https://plus.google.com/109485412616774270887/about?gl=us&hl=en" target="_blank">Carniceria Latino Americana</a>] on Cherokee St. for a work lunch on Friday inspired me to make some tacos. We had couple pounds of &#8220;Pollo Asado Autentico&#8221; marinated chicken in the fridge, some Spanish Manchego cheese, and some avocados that needed to be used. Our chicken was pre-marinated (Trader Joes) but you can definitely make your own marinade like the &#8220;Mojo&#8221; recipe [<a href="http://www.foodnetwork.com/recipes/tyler-florence/tacos-carne-asada-recipe.html" target="_blank">here</a>]. These were a nice change up to our weekly steak fajitas and we&#8217;ll keep branching out with new combinations exploring Mexican cuisine.
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Pollo Asado</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-18 09:59:50 -0600 itemprop="published">
+    February 18, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-18/pollo_asado.jpg" />
+  
+  <br /><span itemprop="summary">Pollo Asado tacos con manchego, avocado, y cilantro.</span><br />
+
+  <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
+  <br />Cook time: <time datetime="PT15M" itemprop="cookTime">15m</time>
+  <br />Total time: <time datetime="PT25M" itemprop="totalTime">25m</time>
+  <br />Yield: <span itemprop="yield">5 large tacos </span>
+  
+  <br />
+  <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Pollo Asado (Chicken)</span>: 
+      <span itemprop="amount">1 lb</span> thin chicken breasts, marinated (we used [<a href="http://www.cooktj.com/node/3659" target="_blank">this</a>])
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Manchego</span>:
+      <span itemprop="amount">1 c, shredded</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Avocado</span>:
+      <span itemprop="amount">1, sliced</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Cilantro</span>:
+      <span itemprop="amount">1 bunch, chopped</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Sour Cream</span>:
+      <span itemprop="amount">Un Poquito</span> (a very little bit)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Lime</span>:
+      <span itemprop="amount">5 wedges</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Tortillas</span>:
+      <span itemprop="amount">5</span>
+    </span><br />
+    
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Preheat grill (medium).<br />
+      2. Chop cilantro, slice lime, shred Manchego.<br />
+      3. Grill chicken until cooked through (10-15 minutes). <br />
+      4. Remove and allow to rest. <br />
+      5. Slice Avocado. <br />
+      6. Warm tortillas on grill. <br />
+      7. Assemble taco, adding sour cream if desired, and top with lots of cilantro. <br />
+      8. Squeeze lime over taco and enjoy.<br />
+
+    </div>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[french fries]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/17/french-fries/"/>
+    <updated>2014-02-17T08:20:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/17/french-fries</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-02-17/fries.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <p>
+    Classic bistro style french fries. These are great by themselves or with something to dip in like Ketchup or Garlic Aioli. These are one of our staples &#8211; you&#8217;ll see them make an appearance again.
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">French Fries</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-17 08:20:50 -0600 itemprop="published">
+    February 17, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-17/fries.jpg" />
+  
+  <br /><span itemprop="summary">Crispy, tender bistro fries.</span><br />
+
+  <br />Prep time: <time datetime="PT1H" itemprop="prepTime">1h</time> 
+  <br />Cook time: <time datetime="PT15M" itemprop="cookTime">15m</time>
+  <br />Total time: <time datetime="PT1H15M" itemprop="totalTime">1h 15m</time>
+  <br />Yield: <span itemprop="yield">2 servings </span>
+  
+  <br />
+  <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Russet Potatoes</span>: 
+      <span itemprop="amount">2</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Canola Oil</span>:
+      <span itemprop="amount">1 gallon</span> (or enough to fill whatever you&#8217;re going to deep fry in about half way)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Sea Salt</span>:
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    
+    
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Preheat oven to 250 degrees (F).<br />
+      2. Cut potatoes into fries. These do best slightly thinner than the ones we made in the photo above. <br />
+      3. Soak in cool water for 15 minutes to remove some of the starch, this will help achieve the crispy and tender textures desired in a good fry. <br />
+      4. Dry then roast until just before fork tender, it should take some effort to get the fork to penetrate the flesh. About 35 minutes. <br />
+      5. Remove fries from oven. Preaheat oil to 365 degrees (F) while the fries cool down. <br />
+      6. Deep fry until golden brown and the skin is blistered, about 10 to 15 minutes. <br />
+      7. Remove and allow to dry on paper towels, salt immediately while hot.<br />
+
+    </div>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[salmon sliders]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/16/salmon-sliders/"/>
+    <updated>2014-02-16T09:15:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/16/salmon-sliders</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-02-16/salmon_sliders_plated.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <p>
+    Every summer during college, about half of the football team would stay on campus to work out together and find a summer gig in the Boston area. Our combined cooking ability was limited&#8230; lots of over or underdone ziti and grilled chicken. One weekend, a teammate&#8217;s girlfriend was visiting and spoiled us with Salmon with Cucumber Dill Sauce. Playing fullback at Harvard led to a lot of self-induced headshots. My 12-time-concussed brain decided that the recipe for the cucumber dill sauce prepared that summer was a memory worth storing. With a couple of tweaks it made the perfect condiment for these sliders.
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Salmon Sliders</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-16 09:15:50 -0600 itemprop="published">
+    February 16, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-16/salmon_sliders_plated_2.jpg" />
+  
+  <br /><span itemprop="summary">Salmon sliders with cucumber dill sauce and tomato. </span><br />
+
+  <br />Prep time: <time datetime="PT0H5M" itemprop="prepTime">5m</time> 
+  <br />Cook time: <time datetime="PT15M" itemprop="cookTime">15m</time>
+  <br />Total time: <time datetime="PT20M" itemprop="totalTime">20m</time>
+  <br />Yield: <span itemprop="yield">4 sliders </span>
+  
+  <br />
+  <br /><h4>Ingredients:</h4>
+  Sauce: </br>
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Light Sour Cream</span>: 
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Onion</span>:
+      <span itemprop="amount">1/2 small, minced</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Fresh Dill</span>:
+      <span itemprop="amount">Small bunch, chopped</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Lime</span>:
+      <span itemprop="amount">1/2 lime, juiced</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Cucumber</span>:
+      <span itemprop="amount">1/4, chopped</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">to taste</span>
+    </span><br />
+    <br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Salmon</span>:
+      <span itemprop="amount">1 lb</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Extra Virgin Olive Oil</span>:
+      <span itemprop="amount">2 T</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Sea Salt</span>:
+      <span itemprop="amount">pinch</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Black Pepper</span>:
+      <span itemprop="amount">pinch</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Tomato, small</span>:
+      <span itemprop="amount">4 slices</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Slider Buns</span>:
+      <span itemprop="amount">4</span>
+    </span><br />
+    
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Preheat oven to 325 degrees (F). <br />
+      2. Mix all sauce ingredients. Taste and add additional salt and lime juice if necessary.<br />
+      3. Heat 1 T of Olive Oil on medium-high in an oven safe skillet. <br />
+      4. Brush top side of salmon with remaining oil and season with salt and pepper. <br />
+      5. Brown salmon (oiled side up) for 4 minutes or until crisp crust forms. <br />
+      6. Flip and brown the other side until the same level of crust is achieved. The oil you applied earlier will help this side not to stick. <br />
+      7. Place pan in oven and allow to cook through, about 8 minutes.<br />
+      8. Remove from oven, allow to rest for a couple of minutes, and cut into four even pieces.<br />
+      9. Brown slider buns if desired.<br />
+      10. Layer tomato slice, then salmon, then a quarter of sauce on bottom bun, top and enjoy.<br />
+      <br /> 
+    </div>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[gnocchi]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/12/gnocchi/"/>
+    <updated>2014-02-12T09:15:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/12/gnocchi</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-02-12/gnocci_plated.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <img src="http://rotio.net/rotiofood/2014-02-12/gnocci_assembly.gif">
+    <p>
+    I&#8217;ve been asking around for examples of things people really enjoy eating but don&#8217;t know how to make themselves. My sister-in-law suggested gnocchi. This is exactly the type of challenge I was looking for: universally delicious but not straightforward as far as how it&#8217;s made. Here is the first crack at the gnocchi themselves only, sauce is another animal all together (one of my favorite animals that deserves its own post). These came out tasty but not perfect, they were slightly drier than I hoped they would be. I roasted then grated the potatoes per a suggestion online - I have a feeling steaming then ricing/mashing will yield a much more tender dumpling.  Future improvements and flavor combinations to come.
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Gnocchi</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-12 09:15:50 -0600 itemprop="published">
+    February 12, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-12/gnocci_assembly.gif" />
+  
+  <br /><span itemprop="summary">Basic gnocchi.</span><br />
+
+  <br />Prep time: <time datetime="PT1H45M" itemprop="prepTime">1h 45m</time> 
+  <br />Cook time: <time datetime="PT15M" itemprop="cookTime">15m</time>
+  <br />Total time: <time datetime="PT2H" itemprop="totalTime">2h</time>
+  <br />Yield: <span itemprop="yield">2 servings </span>
+  
+  <br />
+  <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Russet Potatoes</span>: 
+      <span itemprop="amount">1 lb</span> (we used 2 medium potatoes)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Egg Yolks</span>:
+      <span itemprop="amount">3</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Parmigiano Reggiano</span>:
+      <span itemprop="amount">1/2 c, grated</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Nutmeg</span>:
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">1/2 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Black Pepper</span>:
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Flour</span> (all purpose):
+      <span itemprop="amount">1 c</span>
+    </span><br />
+    
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Preheat oven to 425 degrees (F).<br />
+      2. Roast potatoes for 40 minutes. <br />
+      3. When cool enough to handle, remove skins and grate the potatoes. <br />
+      4. Add egg yolks, cheese, nutmeg, salt, pepper and mix with hands to combine. <br />
+      5. Flour board, flatten dough into a rectangular shape, and sprinkle about half of the flour onto the top of the dough. <br />
+      6. Press flour into dough and fold dough in half once. Add flour to both sides of folded dough, work flour in and fold again. Continue this process until the dough holds together when rolled. <br />
+      7. Roll into four 1/2&#8221; ropes as shown above.<br />
+      8. Cut these into 1&#8221; long pieces and roll on fork as seen [<a href="http://www.youtube.com/watch?v=kD-m_GYf35E">here</a>].<br />
+      9. Dust with flour and allow to dry under fan for 30 minutes.<br />
+      10. Boil in liberally salted water until they float. Allow to boil while floating for an additional 90 seconds.<br />
+      11. Remove from water and toss with favorite sauce.<br />
+      12. If desired, top with cheese and broil for 5 minutes.<br />
+      <br /> <br />
+      This recipe was adapted from recipes by Michael Chiarello and Mario Batali of the Food Network.
+    </div>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[raw surf and turf]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/09/raw-surf-and-turf/"/>
+    <updated>2014-02-09T05:15:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/09/raw-surf-and-turf</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-02-09/surf_turf_rolled.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    
+    <p>
+    Beef Carpaccio: raw beef tenderloin flattened and served with salt pepper and olive oil. There&#8217;s something about gnawing on raw beef that just feels so satisfyingly primal. It reminds me of one winter when pops brought home a buck and my brother, LJ, and I helped him break it down. We had a fire going to stay warm while we worked. LJ and I decided to take advantage of the heat and started roasting and eating some of the venison we were cutting. It was delicious &#8211; I ended up passing out ten minutes later from the combination of the smell of blood and the history lesson my brother was giving about Mayan sacrifices &#8211; but that&#8217;s beside the point. Red meat, as close to nature as possible, is always the best. Period. Hands down.<br/><br/>
+    The same can be said for fish. The most delicious fish I&#8217;ve tasted has tended to be raw or close to it. The flavors and smells of really fresh fish are the antithesis of that rotting &#8220;fishy&#8221; smell that can drive so many people away from fish. Tuna tartare is simple: some fresh raw tuna, diced with acid, oil, salt, and any other desired flavors. <br /> <br />
+    We decided to take these two simple interpretations of surf and turf and see if we could get them to harmonize. As &#8220;fancy&#8221; as this might look it&#8217;s really simple to prepare. Enjoy.
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Raw Surf and Turf</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-09 05:15:50 -0600 itemprop="published">
+    February 9, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-09/surf_turf_open.jpg" />
+  
+  <br /><span itemprop="summary">Tuna Tartare and Beef Carpaccio with crispy shallots.</span><br />
+
+  <br />Prep time: <time datetime="PT2H30M" itemprop="prepTime">2h 30m</time> (including 2 hours of freezer time)
+  <br />Cook time: <time datetime="PT0M" itemprop="cookTime">2m</time> (everything&#8217;s raw but the shallots!)
+  <br />Total time: <time datetime="PT2H30M" itemprop="totalTime">2h 30m</time>
+  <br />Yield: <span itemprop="yield">2 servings </span>
+  
+  <br />
+  <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Beef Tenderloin</span> (as fresh as possible): 
+      <span itemprop="amount">1/3 lb</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Albacore or Yellowfin Tuna</span> (as fresh as possible):
+      <span itemprop="amount">1/4 lb</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Kosher Salt</span>:
+      <span itemprop="amount">to taste</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Sesame Seeds</span>:
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Serrano or Jalape&#241;o Pepper</span>:
+      <span itemprop="amount">1/8 pepper</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Sesame Oil</span>:
+      <span itemprop="amount">1/2 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Lime</span>:
+      <span itemprop="amount">1/4</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Shallot</span>:
+      <span itemprop="amount">1/2 large</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Canola Oil</span>:
+      <span itemprop="amount">2 T</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Chives</span>:
+      <span itemprop="amount">small bunch</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Mayo</span>:
+      <span itemprop="amount">1 T</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Sriracha</span>:
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Place beef in freezer for two hours.<br />
+      2. Combine mayo and sriracha, reserve for later. <br />
+      3. Remove beef from freezer. Slice as thin as possible to create large flat disks. <br />
+      4. Place beef disks between plastic wrap and pound until paper thin but not separating at the fat seams (these will be pretty delicate so be careful). Place beef sheets back in freezer between plastic wrap. <br />
+      5. Finely chop shallots and fry in canola oil on high heat. Remove as soon as they reach a dark brown and place on paper towel to absorb oil. <br />
+      6. Carefully chop tuna into quarter inch cubes - try to handle these as little as possible, you are looking for cubes not mush and they break down pretty easily. <br />
+      7. Chop chile pepper and half of chives very finely. Combine these with tuna, shallots, juice from the lime, sesame oil, salt, sesame seeds. Taste this and adjust flavors to your liking.<br />
+      8. Remove beef sheets from freezer. Place a chive onto your working area. Top this with a sheet of beef. Spoon about a tablespoon of the tuna mixture into the center of the beef. <br />
+      9. You have two options here, you can garnish with spicy mayo and sesame seeds and serve open like the photo in the recipe, or you can roll and tie with the chive like those seen at the top of the page. <br />
+    </div>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[foolproof popcorn]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/05/foolproof-popcorn/"/>
+    <updated>2014-02-05T10:15:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/05/foolproof-popcorn</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-02-05/popcorn_plated.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <img src="http://rotio.net/rotiofood/2014-02-05/popcorn_zoom.jpg" />
+    <p>
+    Sometimes the simple things are simply the best. Popcorn is no exception and is a staple in our home. Hungry for a snack? Popcorn. Nothing for dinner? A lot of Popcorn. Don&#8217;t feel like cooking but starving? Pasta pot full of popcorn. We generally eat the simple version below, sometimes we add some butter, sometimes not. We&#8217;ve optimized it to the point where we rarely burn and rarely have many kernels left over so hopefully our trial and error can be for your benefit. Like our pizza recipes, this is one where we&#8217;ll demonstrate the simple version and add some future variations to kick it up. Comments with suggested flavor combinations are always encouraged.
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Foolproof Popcorn</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-05 10:15:50 -0600 itemprop="published">
+    February 5, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-05/popcorn_pan.jpg" />
+  
+  <br /><span itemprop="summary">Simple stovetop popcorn.</span><br />
+
+  <br />Prep time: <time datetime="PT1M" itemprop="prepTime">0m</time>
+  <br />Cook time: <time datetime="PT5M" itemprop="cookTime">5m</time>
+  <br />Total time: <time datetime="PT5M" itemprop="totalTime">5m</time>
+  <br />Yield: <span itemprop="yield">2 servings </span>
+  
+  <br />
+  <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Popcorn</span>:
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Coconut Oil</span>:
+      <span itemprop="amount">1 T</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">to taste</span>
+    </span><br />
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Place popcorn into cold saucepan.<br />
+      2. Spoon coconut oil on top of popcorn as shown in image. <br />
+      3. Cover saucepan and turn flame to medium. <br />
+      4. Popping will begin about 2 minutes in. Don&#8217;t touch until pops are at least two seconds apart (listen closely). <br />
+      5. Give pan a quick shake, remove from heat, and dump into serving bowl.<br />
+      6. Toss with salt and serve immediately.<br />
+    </div>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[basil risotto]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/05/chicken-sausage-risotto/"/>
+    <updated>2014-02-05T09:15:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/05/chicken-sausage-risotto</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-02-05/risotto_plated_top.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <p>
+    I got home last night, opened the fridge, and the options were limited. Chicken sausage stuck out as the main protein that we had on hand. That usually gets eaten with some Brussels&#8217; sprouts and pasta but we were out of Brussels&#8217; and two pots (one for pasta and one for some sort of sauce) seemed too daunting so I decided to go the Risotto route. We had some fresh basil that needed to be used, a tomato, some white wine that was about to turn into vinegar, and tons of garlic so I grabbed all of that and set to work. Risotto is a nice &#8220;one pan&#8221; vehicle when you have some ingredients that seem like they go together but you just need something to bind them. This version was very tasty.
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Chicken Sausage Risotto with Basil</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-05 09:15:50 -0600 itemprop="published">
+    February 5, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-05/risotto_plated.jpg" />
+  
+  <br /><span itemprop="summary">Risotto with chicken sausage, basil, garlic, and tomato.</span><br />
+
+  <br />Prep time: <time datetime="PT5M" itemprop="prepTime">5m</time>
+  <br />Cook time: <time datetime="PT30M" itemprop="cookTime">30m</time>
+  <br />Total time: <time datetime="PT35M" itemprop="totalTime">35m</time>
+  <br />Yield: <span itemprop="yield">2 servings </span>
+  
+  <br />
+  <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Chicken Sausage</span>:
+      <span itemprop="amount">2 links</span> (cooked and sliced)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Tomato</span>:
+      <span itemprop="amount">1</span>, chopped
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Garlic</span>:
+      <span itemprop="amount">4 cloves</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Basil</span>:
+      <span itemprop="amount">large bunch</span>, roughly chopped 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Kosher Salt</span>:
+      <span itemprop="amount">1 T</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">White wine</span>:
+      <span itemprop="amount">1 c</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Chicken Stock</span>:
+      <span itemprop="amount">2 c</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Water</span>:
+      <span itemprop="amount">4 c</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Arborio Rice</span>:
+      <span itemprop="amount">1/2 c</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Extra Virgin Olive Oil</span>:
+      <span itemprop="amount">2 T</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Crushed Red Pepper</span>:
+      <span itemprop="amount">to taste</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Oregano</span>:
+      <span itemprop="amount">to taste</span> 
+    </span><br />
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+      1. Smash garlic cloves with side of knife and roughly chop. <br />
+      2. Using salt as an abrasive, smash garlic into fine paste. <br />
+      3. Heat olive oil on medium heat. <br />
+      4. Add chicken sausage, tomato and garlic and saute until tomato breaks down into sauce, about 5 minutes<br />
+      5. Add white wine and half of chicken stock while, stirring constantly.<br />
+      6. After two minutes, add rice and stir constantly.<br />
+      7. When most of the liquid has cooked out and rice begins to stick, add second half of chicken stock and continue stirring.<br />
+      8. When rice begins to stick again, add a cup of water. <br />
+      9. Continue repeating step 8, tasting every time to gauge when rice has almost reached the desired mouthfeel.<br />
+      10. When rice is aldente, add chopped basil and season to taste with crushed red pepper, oregano, and salt.<br />
+      11. Plate, garnish with basil leaves and enjoy.<br />
+    </div>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[budweiser wings]]></title>
+    <link href="http://rotiofood.com/blog/2014/02/02/budweiser-wings/"/>
+    <updated>2014-02-02T09:15:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/02/02/budweiser-wings</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-02-02/wings_plated_tv.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <p>
+    
+    Wings and Budweiser. Do we really need much more of a story than that? Generally I&#8217;d say no, but we had a trial by fire experience that I think it would be good to share for safety&#8217;s sake. We had some friends over last night, had the wings going in the oven after the parboil (you&#8217;ll find out about that part below), and the apartment began to fill with smoke. I opened the oven and was met a grease fire &#8211; so this is trial by fire in the most literal sense. I dove in, potholder first and pulled out the flaming pan, set it down on the stove and got it to go out, switched to a throwaway aluminum pan instead of a cookie sheet wrapped with foil and we were back in business. Hopefully by us going through that, no one else has to to enjoy these delicious wings infused with Budweiser.
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Budweiser Baked Wings</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-02-02 09:15:50 -0600 itemprop="published">
+    February 2, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-02/wings_in_pan.jpg" />
+  
+  <br /><span itemprop="summary">Wings infused with Budweiser topped with some HOT sauce.</span><br />
+  <span itemprop="review" itemscope itemtype="http://schema.org/Review-aggregate" hidden>
+    <span itemprop="rating" hidden>5.0</span> 
+    <span itemprop="count" hidden>2</span> reviews </span>
+  <br />Prep time (including brine): <time datetime="PT6H" itemprop="prepTime">6h</time>
+  <br />Cook time: <time datetime="PT1h" itemprop="cookTime">1h</time>
+  <br />Total time: <time datetime="PT7H" itemprop="totalTime">7h</time>
+  <br />Yield: <span itemprop="yield">6 lbs </span>
+  <span itemprop="nutrition" itemscope itemtype="http://schema.org/Nutrition" hidden>
+    Serving size: <span itemprop="servingSize">Half recipe</span>
+    Calories per serving: <span itemprop="calories">500</span>
+    Fat per serving: <span itemprop="fat">5g</span>
+  </span><br />
+  <br /><h4>Equipment:</h4>
+  Throw away alumninum pan or other pan with sides 
+  <br /> <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Chicken wings</span>:
+      <span itemprop="amount">6 lbs</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Thyme</span>:
+      <span itemprop="amount">2 T</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Garlic Powder</span>:
+      <span itemprop="amount">1/4 c</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Budweiser</span>:
+      <span itemprop="amount">8</span> (plus a few to drink)
+    </span><br />
+    <br />
+    Sauce:<br />
+    
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Chilula Chili Garlic Sauce</span>:
+      <span itemprop="amount">4 T</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Agave or Honey</span>:
+      <span itemprop="amount">4 T</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Butter</span>:
+      <span itemprop="amount">2 T</span> (melted) 
+    </span><br />
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+    Brine:<br />
+      1. Create a brine by mixing salt, garlic powder, and thyme into enough water to cover wings. <br />
+      2. Brine chicken in refrigerator for 6 to 12 hours &#8211; if you don&#8217;t have space in your fridge, just add ice every hour or so to maintain temperature. <br />
+      3. Remove chicken from brine. <br />
+      <br /><br />
+    Cook:<br />
+      4. Preheat oven to 450 F<br />
+      5. Bring Budweiser to a boil in a pot large enough to fit the beer plus your wings. I know it&#8217;s hard to dump the Budweiser into a pot instead of drinking them but that&#8217;s why the recipe calls for a few extra to dirnk. Now&#8217;s a good time to pour one of those for yourself if you haven&#8217;t yet.<br />
+      6. Boil wings for 8 minutes, turning regularly to ensure even cooking. <br />
+      7. Remove from pot and dry thoroughly. Place in sprayed throwaway aluminum pan or other pan with high edges. Once that fat starts rendering in the oven, you don&#8217;t want the drippings going everywhere and lighting on fire like mine did. A wire rack in a pan with high edges is even better. <br />
+      8. Bake for 40 minutes or until wings are very crispy. Flip the wings once at about 30 minutes to ensure even crisping. <br />
+     <br />
+    Sauce: <br />
+      9. Make your favorite sauce. The best one we&#8217;ve used is Chili Garlic Sauce, Agave, and Butter (amounts listed above). The one in the photo is Sriracha and Honey. Be careful with the ratios and taste before you add to the wings to ensure your heat level is where you want it.<br />
+      10. Toss wings in sauce and serve with a Budweiser.
+    
+      
+      
+      
+
+    </div>
+</div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[shrimp pad thai]]></title>
+    <link href="http://rotiofood.com/blog/2014/01/30/shrimp-pad-thai/"/>
+    <updated>2014-01-30T19:52:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/01/30/shrimp-pad-thai</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-01-30/pad_thai_plated_final.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <p>
+    <img src="http://rotio.net/rotiofood/2014-01-30/pad_thai_stove.gif">
+    
+    Pad thai is delicious, but all those noodles can be a bit heavy if you&#8217;re looking for a lighter mid-week meal. I received a request from one of my best friends, Nicolai, to post something Paleo. This isn&#8217;t by any means hardcore Paleo, but swapping out the pasta for spaghetti squash definitely gets it closer than most things I cook. You&#8217;ll find that by slightly undercooking the squash you can achieve that nice level of &#8220;toothiness&#8221; of aldente noodles. We&#8217;ve done this recipe several times now, including ingredients like bacon, scrambled eggs, bean sprouts, and red onion. The combination you&#8217;ll find below is pretty hearty and delicious from the peanut butter but has a nice kick from the combination of the hot sauce and the briny pickled cherry peppers along with the lime juice. Try it out, modify it, play with it, enjoy it!
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Spaghetti Squash Shrimp Pad Thai</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-01-30 19:52:50 -0600 itemprop="published">
+    January 30, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-01-30/pad_thai_shrimp.jpg" />
+  
+  <br /><span itemprop="summary">Shrimp Pad Thai, with spaghetti squash where the noodles used to be.</span><br />
+  <span itemprop="review" itemscope itemtype="http://schema.org/Review-aggregate" hidden>
+    <span itemprop="rating" hidden>5.0</span> 
+    <span itemprop="count" hidden>2</span> reviews </span>
+  <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10 minutes</time>
+  <br />Cook time: <time datetime="PT45M" itemprop="cookTime">45 min</time>
+  <br />Total time: <time datetime="PT55M" itemprop="totalTime">55 min</time>
+  <br />Yield: <span itemprop="yield">2 servings </span>
+  <span itemprop="nutrition" itemscope itemtype="http://schema.org/Nutrition" hidden>
+    Serving size: <span itemprop="servingSize">Half recipe</span>
+    Calories per serving: <span itemprop="calories">500</span>
+    Fat per serving: <span itemprop="fat">5g</span>
+  </span><br />
+  <br /><h4>Equipment:</h4>
+  Wok (ideally a wok but you can definitely make it work with any large pan or skillet)
+  <br /> <br /><h4>Ingredients:</h4>
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Spaghetti Squash</span>:
+      <span itemprop="amount">1</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Large Raw Shrimp</span> (these were 16-20 per pound):
+      <span itemprop="amount">8-10</span>
+    </span><br /><br />
+    Sauce:<br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Peanut Butter</span>:
+      <span itemprop="amount">2 T</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Cholula Chili Garlic Hot Sauce</span>:
+      <span itemprop="amount">4 T</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Low Sodium Soy Sauce</span>:
+      <span itemprop="amount">2 T</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Rice Wine Vinegar</span>:
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Garlic Powder</span>:
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Crushed Red Pepper</span>:
+      <span itemprop="amount">pinch</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Agave, Honey, or Brown Sugar</span>:
+      <span itemprop="amount">to taste</span>
+    </span><br />
+    <br />
+    Stir Fry: <br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Coconut Oil</span> (canola or vegetable will also work fine):
+      <span itemprop="amount">3 T</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Garlic</span>:
+      <span itemprop="amount">3 cloves, minced</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Sweet Cherry Peppers</span>:
+      <span itemprop="amount">4 peppers, seeded and julienned</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Peanuts</span>:
+      <span itemprop="amount">1/4 c, crushed</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Lime</span>:
+      <span itemprop="amount">2 wedges</span> 
+    </span><br />
+    
+          
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+    Squash:<br />
+      1. Preheat oven to 450 F. <br />
+      2. Split squash along the long axis and remove seeds. <br />
+      3. Roast face-down on pan for 30 min . <br />
+      4. Remove squash, allow to cool until you can feel comfortable scraping it out, then scrape out the &#8220;spaghetti&#8221; with a fork. <br />
+      <br />
+    Sauce: <br />
+      5. Mix all sauce ingredients. Microwave if necessary to combine. Adjust amount of sweetener to your liking. 
+    <br /><br />
+    Stir Fry:<br />
+      6. Heat coconut oil in a wok until it begins to smoke. <br />
+      7. Fry shrimp in oil for about two minutes (tops), turning once. Remove when cooked through. <br />
+      8. Add garlic and cherry peppers to hot oil and cook for about 3 minutes until you get some solid caramelization. <br />
+      9. Add sauce and the spaghetti squash. Mix or toss to combine.<br />
+      10. Add cooked shrimp and toss to combine.<br />
+      11. Plate and top with peanuts and lime.<br />
+      
+      
+      
+
+    </div>
+</div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[new jersey pizza]]></title>
+    <link href="http://rotiofood.com/blog/2014/01/26/new-jersey-pizza/"/>
+    <updated>2014-01-26T17:56:50-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/01/26/new-jersey-pizza</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-01-26/Pizza_done_final.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+
+<h3><b>Story</b></h3>
+  <div>
+    <p>
+    &#8220;I&#8217;ll take a large plain pie.&#8221; In Jersey, this statement will get you set up with a piping hot disk of deliciousness like the one above. Since moving to Saint Louis in 2013, all this request has gotten us has been puzzled looks. Best case scenario and you have someone who understands, you get a nice flat square-cut Saint Louis style pizza covered in Provel &reg (a mixture of cheddar, Swiss, and provolone) like this &#8220;beauty&#8221; below: <img src="http://www.gavinr.com/wp-content/uploads/2012/03/imos-pizza-600x450.jpg" target="_blank"/> Not being satisfied with the above, we decided to seek out a place that would make it like home. We found two spots, <a href="http://www.racanellis.com/" target="_blank"><u>Racanelli&#8217;s New York Style Pizza </u></a> and <a href="http://ferarospizza.com/"><u>Ferraro&#8217;s Jersey Style Pizza</u></a> (they even have Taylor Ham/Pork Roll!). Both places are good, but this led me to another question &#8211; if I love to cook so much, then why haven&#8217;t I mastered one of my favorite things to eat? So I set out with the initial goal to make something that tastes as good as the average at home. I think I&#8217;ve finally accomplished that, what better way to reintroduce rotio/food to the world.   
+    </p>
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">New Jersey Pizza</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-01-26 17:56:50 -0600 itemprop="published">
+    January 26, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-01-26/Pizza_with_table.jpg" /> 
+  
+  <br /><span itemprop="summary">This is a classic Jersey style pie. Cost for a medium comes out to about $2.50</span><br />
+  <span itemprop="review" itemscope itemtype="http://schema.org/Review-aggregate" hidden>
+    <span itemprop="rating" hidden>5.0</span> 
+    <span itemprop="count" hidden>2</span> reviews </span>
+  <br />Prep time (including overnight rise): <time datetime="PT24H" itemprop="prepTime">24 hours</time>
+  <br />Cook time: <time datetime="PT6M" itemprop="cookTime">6 min</time>
+  <br />Total time: <time datetime="PT24H6M" itemprop="totalTime">24 hour 6 min</time>
+  <br />Yield: <span itemprop="yield">2 (medium) 14&#8221; pies </span>
+  <span itemprop="nutrition" itemscope itemtype="http://schema.org/Nutrition" hidden>
+    Serving size: <span itemprop="servingSize">1 medium pie</span>
+    Calories per serving: <span itemprop="calories">600</span>
+    Fat per serving: <span itemprop="fat">4g</span>
+  </span><br />
+  <br /><h4>Equipment:</h4>
+  Pizza Stone
+  <br /> <br /><h4>Ingredients:</h4>
+    Dough:<br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Bread Flour</span>:
+      <span itemprop="amount">390g</span> (3c)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Water</span>:
+      <span itemprop="amount">8.5oz</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Yeast</span>:
+      <span itemprop="amount">1.75g</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">8g</span> (1.5tsp)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Sugar</span>:
+      <span itemprop="amount">4g</span> (1tsp)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Olive Oil</span>:
+      <span itemprop="amount">1.5tsp</span>
+    </span><br />
+    <br />
+    Sauce: (this makes a lot, freeze extra)<br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Tomato Puree</span>:
+      <span itemprop="amount">28oz</span> (Good tomatoes = good sauce, find the one you like)
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Water</span>:
+      <span itemprop="amount">1/3c</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Garlic</span>:
+      <span itemprop="amount">1tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">3/4tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Black Pepper</span>:
+      <span itemprop="amount">Pinch</span> 
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Sugar</span>:
+      <span itemprop="amount">1tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Red Pepper</span>:
+      <span itemprop="amount">Pinch</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Olive Oil</span>:
+      <span itemprop="amount">2tsp</span>
+    </span><br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Oregano</span>:
+      <span itemprop="amount">1tsp</span>
+    </span><br /><br />
+    Cheese: <br />
+    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Mozzarella (whole milk, not part-skim &#8211; low moisture is ok &#8211; full block, not shredded)</span>:
+      <span itemprop="amount">8oz total for both pies</span> 
+    </span><br />
+          
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="instructions">
+    Dough:<br />
+      1. Mix all dry ingredients <br />
+      2. Place water (cool to room temperature) in a large bowl <br />
+      3. Add half of dry ingredients to water, mix to combine and leave alone for 10 minutes to allow flour to hydrolyze. This lets the water break the flour into its component sugars for the yeast to digest. <br />
+      4. Mix vigorously for 3 to 5 minutes. Mixing at this stage is more efficient than kneading after all the flour is incorporated. <br />
+      5. Add the rest of the dry ingredients slowly until all is incorporated into a dough ball. <br />
+      6. Add olive oil and knead in bowl for 3 to 5 minutes &#8211; while mixing was great for the first half of the flour, we still have to work the second half of the flour during this stage. <br />
+      7. Divide into 2 balls and place dough in plastic bags. Refrigerate for 24-72 hours. (Longer slow rise will yield a more flavorful dough).
+      <br /><br />
+    Sauce: <br />
+      8. Mix all sauce ingredients.
+    <br /><br />
+    Assembly:<br />
+      9. Remove dough from refrigerator at least 1 hour prior to cooking. <br />
+      10. Preheat oven with pizza stone on top shelf to 550 degrees (F) for at least 1 hour. <br />
+      11. Grate mozzarella and place in freezer while preparing dough. <br />
+      12. Stretch each dough ball to approximately 14 inches on floured pizza peel or cutting board (do not roll, the more bubbles in the dough, the better, be gentle).<br />
+      13. Top (sparingly) with sauce, too much and you will have a soggy pie. A ladle and a half is plenty. Shake peel/board to ensure dough is still loose from board.<br />
+      14. Remove cheese from freezer and sprinkle onto pies.<br />
+      15. Slide onto pizza stone in oven and cook for 5-7 minutes or until desired doneness is achieved.<br />
+      16. Thank me later.<br /><br />
+      Recipe and technique adapted from <a href="http://feelingfoodish.com/the-best-new-york-style-pizza-dough" target="_blank"/><u> feeling foodish </u></a> and <a href="http://www.varasanos.com/PizzaRecipe.htm" target="_blank"><u> Varasano&#8217;s</u></a>
+      
+      
+
+    </div>
+</div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"
+});
+</script>
+
+]]></content>
+  </entry>
+  
+</feed>
