@@ -63,27 +63,25 @@
   <link href="/stylesheets/test.css" media="screen, projection" rel="stylesheet" type="text/css">
  </head>
 
-<body   >
+<body    style="background-color:#f3f3f0">
+  <div class="dummy" style="width:100%;height:90px;z-index:998;position:fixed;background-color:black;top:0px"></div>	  
+
   <nav role="navigation"><div style="z-index:1000" class="navbar nav_post">
   <div class="navbar-inner">
-    <a class="brand" href="/">rotio/food</a>
 	 <ul class="nav">
-      <li><a style="padding-top:10px" href="/blog/archives">All Posts</a></li>
       
     </ul>
-    <ul class="nav" data-subscription="rss">
-	  <li><div class="follow">  follow on:</div></li>
-	  <li><a target="_blank" href="http://www.facebook.com/rotiofood/" rel="subscribe-facebook" title="follow on facebook"><div style="height:40px"><img src="/images/fbook.png" style="max-height:100%"/></div></a></li>
-      <li><a target="_blank" href="http://www.pinterest.com/rotiofood/" rel="subscribe-pinterest" title="follow on pinterest"><div style="height:40px"><img src="/images/pinterest.png" style="max-height:100%"/></div></a></li>
-      <li><a target="_blank" href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS"><div style="height:40px"><img src="/images/rss_icon.png" style="max-height:100%"/></div></a></li>
-      <li><a target="_blank" href="https://docs.google.com/forms/d/1yyaTIvheO6e3QZ3-sa14jBpd7C4OpVHPJZFg_Qow540/viewform" rel="subscribe-email" title="subscribe via email"><div style="height:40px"><img src="/images/email.png" style="max-height:100%"/></div></a></li>
-	  
-    </ul>
+	<div style="position:absolute;left:10px;top:10px;">
+	  <div style="position:absolute;left:10px;z-index:1002"><a target="_blank" href="http://www.facebook.com/rotiofood/" rel="subscribe-facebook" title="follow on facebook"><div style="height:40px;"><img src="/images/fbook.png" style="max-height:100%"/></div></a></div>
+      <div style="position:absolute;left:60px;z-index:1002"> <a target="_blank" href="http://www.pinterest.com/rotiofood/" rel="subscribe-pinterest" title="follow on pinterest"><div style="height:40px;"><img src="/images/pinterest.png" style="max-height:100%"/></div></a></div>
+      <div style="position:absolute;left:110px;z-index:1002"><a target="_blank" href="https://docs.google.com/forms/d/1yyaTIvheO6e3QZ3-sa14jBpd7C4OpVHPJZFg_Qow540/viewform" rel="subscribe-email" title="subscribe via email"><div style="height:40px"><img src="/images/email.png" style="max-height:100%"/></div></a></div>
+	 </div>
+  
       
     <form class="navbar-form" action="http://google.com/search" method="get">
-      <fieldset role="search">
+      <fieldset role="search" style="position:absolute;right:10px;top:-2px;">
         <input type="hidden" name="q" value="site:rotiofood.com" />
-        <input class="span2" type="text" name="q" results="0" placeholder="Search"/>
+        <input class="span2" type="text" name="q" results="0" placeholder="Search" style="min-width:160px;max-width:170px;position:fixed;right:4px"/>
       </fieldset>
     </form>
       
@@ -91,9 +89,9 @@
   </div>
 </div>
 </nav>
-  <div class="wrapper_single">
-    <div class="container">
-	  <div id="share" class="sharebar" style="z-index:1000;text-align:center">share this post
+  <div class="wrapper_single" style="background-color:#f3f3f0">
+    <div class="container" style="background-color:#f3f3f0">
+	  <div id="share" class="sharebar" style="z-index:1;text-align:center">share this post
 		<ul style="margin-left:0px">
 			<br/>
 			<li><a target="_blank" href="https://www.facebook.com/sharer.php?u=http://rotiofood.com/blog/2014/06/04/steak-tip-salad/" rel="Share on Facebook" title="Share on Facebook"><img src="/images/fbook.png" style="margin-left:30px;margin-right:30px;margin-bottom:15px;left:0px;height:40px;width:40px"/></a></li>
@@ -102,41 +100,19 @@
 			
 		</ul>
 	  </div>
-      <article class="span8 offset2" role="article">
+
+<div class="tcard" style="width:360px;height:90px;z-index:1000;position:fixed;background-color:#bfb09c;top:101px;left:50%;margin-left:-180px;border: 1px solid #bfb09c; border-radius:4px;border-bottom:1px solid #2d2d2d;font-size:72px;color:#2d2d2d;text-align:center;text-shadow: 1px 1px #f3f3f0;"><br style="line-height:40px"/><a href="http://rotiofood.com">rotio/food</a></div>
+  
+      <article class="span8" role="article" style="margin-left:5%;margin-right:5%;width:90%">
         <div class="article-format">
 
   <header>
     
-      <h1 class="entry-title">Steak Tip Salad</h1>
+      <h1 class="entry-title" style="text-align:center;">Steak Tip Salad</h1>
     
     
       <p class="meta">
-        
-  
-
-
-  
-    <span class="byline author vcard">by <span class="fn">rotio</span></span>
-  
-
- - 
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-06-04T11:07:34-05:00" pubdate data-updated="true">Jun 4<span>th</span>, 2014</time> - 
-		<a href=""><img src="" /><a>
-
-        
-
+		<a href=""><img src="" style="border-radius:3px"/><a>
 
         
       </p>
@@ -144,7 +120,7 @@
   </header>
 
 
-  <div class="entry-content"><!-- more -->
+  <div class="entry-content" style="margin-top:-30px"><!-- more -->
 
 
 <p><img src="http://rotio.net/rotiofood/2014-06-04/salad_steak.jpg"></p>
@@ -265,33 +241,7 @@
 
 
   <footer>
-    <p class="meta">
-      
-  
-
-
-  
-    <span class="byline author vcard">by <span class="fn">rotio</span></span>
-  
-
-
-      
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-06-04T11:07:34-05:00" pubdate data-updated="true">Jun 4<span>th</span>, 2014</time>
-      
-
-
-    </p>
+    
     
       <div class="sharing">
   
@@ -299,8 +249,8 @@
 
     
     
-      <a class="pull-left" href="/blog/2014/06/02/catfish-tacos/" title="Previous Post: catfish tacos">&laquo; catfish tacos</a>
     
+      <a class="pull-right" href="/blog/2014/06/02/catfish-tacos/" title="older Post: catfish tacos">catfish tacos &raquo;</a>
     
   </footer>
 
@@ -316,52 +266,24 @@
       </article>
     </div>
   </div>
-  <div id="footer-widgets">
-  <div class="container">
+  
     <div class="row">
-  <div class="span3">
-    <h2>recent posts</h2>
-    <ul class="recent_posts">
-      
-        <li>
-          <a href="/blog/2014/06/04/steak-tip-salad/">steak tip salad</a>
-        </li>
-      
-        <li>
-          <a href="/blog/2014/06/02/catfish-tacos/">catfish tacos</a>
-        </li>
-      
-        <li>
-          <a href="/blog/2014/04/06/sourdough-waffles/">sourdough waffles</a>
-        </li>
-      
-        <li>
-          <a href="/blog/2014/04/02/baguette/">baguette</a>
-        </li>
-      
-        <li>
-          <a href="/blog/2014/03/31/coconut-creme-brulee/">coconut creme brulee</a>
-        </li>
-      
-    </ul>
-    <h2><a href="/blog/archives">archives</a></h2>
-  </div>
-  <div class="span6">
+  
+  
     
 
-  </div>
+
 
 </div>
 
-  </div>
-</div>
-<footer class="footer">
+
+<footer class="footer"  style="background-color:#bfb09c; border-top: 1px solid #2d2d2d">
   <div class="container">
-    <p class="pull-left">
+    <p class="pull-left" style="color:black">
   <a href="/">rotio/food</a>
   - Copyright &copy; 2014 - Anthony Rotio
 </p>
-<p class="pull-right">
+<p class="pull-right" style="color:black">
   
     <span>Designed by <a href="http://rotiofood.com" target="_blank">Anthony Rotio</a>. Based on a design by <a href="http://blog.hyfather.com"
   target="_blank">Nikhil Mungel</a>.<br/></span><br/>
