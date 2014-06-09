@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-06-08T14:13:49-05:00</updated>
+  <updated>2014-06-08T20:28:43-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,172 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fried Game Hen]]></title>
+    <link href="http://rotiofood.com/blog/2014/06/08/fried-game-hen/"/>
+    <updated>2014-06-08T21:07:34-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/06/08/fried-game-hen</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-06-08/plated.jpg"></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+<h3><b>Story</b> </h3>
+ <div>
+    <p><img src="http://rotio.net/rotiofood/2014-06-08/two_plated.jpg"/><br/>Ever since Katie bought me a deep fryer for Christmas last year, I&#8217;ve been thinking about giving fried chicken a shot. Mom taught me how to make the best Italian style chicken cutlet but southern-style fried chicken was something I&#8217;ve never been able to master. Cornish game hens were on sale and I wondered if frying a whole one would be doable. People do whole turkeys, a little bird like a game hen had to be possible. So I bought one, some buttermilk and some brussels for a &#8220;nest&#8221; and set out to see if we could pull it off&#8230; </p>  
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Fried Cornish Game Hen over Brussels&#8217; Salad</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-06-08 21:07:34 -0500 itemprop="datePublished">
+    June 8, 2014</time>
+  <img itemprop="thumbnailUrl" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-08/two_plated.jpg" />
+  
+  <br /><span itemprop="description">Buttermilk fried cornish game hen stung with Sriracha honey in &#8220;nest&#8221; of brussels sprouts and currants</span><br />
+
+  <br />Prep time: <time datetime="PT12H0M" itemprop="prepTime">12h</time>
+  <br />Cook time: <time datetime="PT0H20M" itemprop="cookTime">20m</time>
+  <br />Total time: <time datetime="PT12H20M" itemprop="totalTime">12h 20m</time>
+  <br />Yield: <span itemprop="recipeYield">2 hens</span>
+  
+  <br />
+  <h4>Equipment:</h4>
+    Deep Cast Iron Skillet or Deep Fryer with enough Oil to fill 2/3 (peanut, canola, vegetable, something with a high smoke point)
+    <br/>
+ <h4>Ingredients:</h4>
+    
+    <h4>Birds:</h4>
+   
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Buttermilk</span>: 
+      <span itemprop="amount">2c</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Garlic</span>:
+      <span itemprop="amount">3 cloves</span>, minced
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Salt</span>: 
+      <span itemprop="amount">1 tbsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Smoked Chili Powder</span>: 
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Black pepper</span>: 
+      <span itemprop="amount">2 tsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Onion Powder</span>: 
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Rosemary</span>: 
+      <span itemprop="amount">1 tbsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Thyme</span>: 
+      <span itemprop="amount">1 tbsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Flour</span>: 
+      <span itemprop="amount">3c</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Baking Powder</span>: 
+      <span itemprop="amount">1.5 tsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Garlic Powder</span>: 
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Onion Powder</span>: 
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+     <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Cornish Game Hens</span>: 
+      <span itemprop="amount">2</span>
+    </span><br />
+    <br/>
+    <h4>Salad:</h4>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Brussels&#8217; Sprouts</span>:
+      <span itemprop="amount">1 lb</span>, shredded
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">1 tbsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Lemon</span>:
+      <span itemprop="amount">1</span>, juiced
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Dried Currants</span>:
+      <span itemprop="amount">2 tbsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Thyme</span>:
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Parmigiano Reggiano</span>:
+      <span itemprop="amount">2 tbsp</span>
+    </span><br /><br/>
+    <h4>Sting:</h4>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Honey</span>:
+      <span itemprop="amount">2 tbsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Sriracha</span>:
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    
+
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="recipeInstructions">
+      1. Combine first 8 ingredients in gallon sized freezer bag. Place hens in bag. Squeeze as much air out as possible out of the bag, place in a bowl and refrigerate 8 hours to overnight.<br />
+      2. Preheat oven to 200 F and oil to 360 F.<br />
+      3. Combine flour, baking powder, garlic powder, onion powder, and a heavy pinch of salt and pepper in a gallon freezer bag.<br />
+      4. Transfer hens (one at a time) to bag with flour. Toss to coat. Repeat with second hen. Return both to buttermilk bag to coat again. Finish one last time in flour mixture.<br />
+      5. Deep fry hens for 15-20 minutes each or until golden brown. <br />
+      6. Move birds to rack over pan in oven (see below) and place in oven for 30 minutes to finish. <br />
+      7. Mix salad ingredients. Set up &#8220;nest&#8221; on two plates.<br />
+      8. Plate hens in nests. <br />
+      9. Pour sting over birds. Grab a rag for your hands and dig in.<br/>
+     </div>
+    <br />
+    <img src="http://rotio.net/rotiofood/2014-06-08/raw.jpg"/>
+    <img src="http://rotio.net/rotiofood/2014-06-08/fry.jpg"/>
+    <img src="http://rotio.net/rotiofood/2014-06-08/spoon.jpg"/>
+    <img src="http://rotio.net/rotiofood/2014-06-08/done.jpg"/>
+    <img src="http://rotio.net/rotiofood/2014-06-08/two_plated.jpg"/>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Brunch tortellini]]></title>
