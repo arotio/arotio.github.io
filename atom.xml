@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-06-09T19:46:03-05:00</updated>
+  <updated>2014-06-09T19:47:31-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -35,7 +35,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-06-08 21:07:34 -0500 itemprop="datePublished">
     June 8, 2014</time>
-  <img itemprop="photo" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-08/two_plated.jpg" />
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-08/two_plated.jpg" />
   
   <br /><span itemprop="description">Buttermilk fried cornish game hen stung with Sriracha honey in &#8220;nest&#8221; of brussels sprouts and currants</span><br />
 
