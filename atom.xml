@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-06-09T19:41:29-05:00</updated>
+  <updated>2014-06-09T19:43:25-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -21,7 +21,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-06-08/plated.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-06-08/plated.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 <h3><b>Story</b> </h3>
@@ -31,7 +32,7 @@
 <h3><b>Recipe</b> </h3> 
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Fried Cornish Game Hen over Brussels&#8217; Salad</h3>
-  <span itemprop="author"><a href="https://plus.google.com/107103100819027957630?rel=author"> rotio</a></span>
+  <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-06-08 21:07:34 -0500 itemprop="datePublished">
     June 8, 2014</time>
   <img itemprop="thumbnailUrl" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-08/two_plated.jpg" />
