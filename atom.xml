@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-06-09T20:21:12-05:00</updated>
+  <updated>2014-06-09T20:23:27-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -690,7 +690,7 @@
     
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
       1. Mix all waffle ingredients in large bowl.<br />
       2. Preheat and grease waffle iron.<br />
       3. Beat all topping ingredients (except strawberries) until stiff peaks are formed.<br />
@@ -781,7 +781,7 @@
     
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
       1. Whisk together yeast and water in large bowl, let sit until yeast is foamy to ensure your yeast is alive.<br/>
       2. Add flour, stir vigorously, and allow to sit so the flour can hydrate (25 minutes).<br />
       3. Using a spoon, heel of your hand, or dough hook on machine, beat up the flour for about 10 minutes until the gluten is happy and the dough is elastic.<br />
@@ -882,7 +882,7 @@
     
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
       1. Cut 1/2&#8221; off each end of the coconut so you have a flat end on each side.<br/>
       2. Cut the coconut in half (parallel to the flat ends you just made). Be careful to save the coconut water and drink it, it is delicious and a great source of electrolytes.<br />
       3. Place coconut halves into a baking pan and place in oven on top rack.<br />
@@ -1014,7 +1014,7 @@
     
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
       1. Grind salt, pepper, thyme, rosemary, garlic, and olive oil together with mortar and pestle or back of spoon in a bowl.<br/>
       2. Rub pork generously with herb/garlic mixture and place in Ziplock bag, squeeze as much air out as possible and seal well.<br />
       3. Place thermometer probe in cooler.<br />
@@ -1121,7 +1121,7 @@
     
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
       1. Rub beef and place in Ziplock bags, squeeze as much air out as possible and seal well.<br />
       2. Place thermometer probe in cooler.<br />
       3. Fill cooler with water, alternate with hot tap and boiling water to achieve between 130 and 135 F. <br />
@@ -1237,7 +1237,7 @@
     
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
       1. Preheat grill (medium).<br />
       2. Combine all non chicken ingredients in a saucepan and stew on low for 20 minutes.<br />
       3. Blend ingredients from saucepan in blender, food processor or with immersion blender until smooth. <br />
@@ -1332,7 +1332,7 @@
     
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
       1. Preheat grill (medium).<br />
       2. Chop cilantro, slice lime, shred Manchego.<br />
       3. Grill chicken until cooked through (10-15 minutes). <br />
@@ -1413,7 +1413,7 @@
     
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
       1. Preheat oven to 250 degrees (F).<br />
       2. Cut potatoes into fries. These do best slightly thinner than the ones we made in the photo above. <br />
       3. Soak in cool water for 15 minutes to remove some of the starch, this will help achieve the crispy and tender textures desired in a good fry. <br />
@@ -1530,7 +1530,7 @@
     
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
       1. Preheat oven to 325 degrees (F). <br />
       2. Mix all sauce ingredients. Taste and add additional salt and lime juice if necessary.<br />
       3. Heat 1 T of Olive Oil on medium-high in an oven safe skillet. <br />
@@ -1631,7 +1631,7 @@
     
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
       1. Preheat oven to 425 degrees (F).<br />
       2. Roast potatoes for 40 minutes. <br />
       3. When cool enough to handle, remove skins and grate the potatoes. <br />
@@ -1756,7 +1756,7 @@
     
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
       1. Place beef in freezer for two hours.<br />
       2. Combine mayo and sriracha, reserve for later. <br />
       3. Remove beef from freezer. Slice as thin as possible to create large flat disks. <br />
@@ -1838,7 +1838,7 @@
     
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
       1. Place popcorn into cold saucepan.<br />
       2. Spoon coconut oil on top of popcorn as shown in image. <br />
       3. Cover saucepan and turn flame to medium. <br />
@@ -1950,7 +1950,7 @@
     
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
       1. Smash garlic cloves with side of knife and roughly chop. <br />
       2. Using salt as an abrasive, smash garlic into fine paste. <br />
       3. Heat olive oil on medium heat. <br />
@@ -2062,7 +2062,7 @@
     
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
     Brine:<br />
       1. Create a brine by mixing salt, garlic powder, and thyme into enough water to cover wings. <br />
       2. Brine chicken in refrigerator for 6 to 12 hours &#8211; if you don&#8217;t have space in your fridge, just add ice every hour or so to maintain temperature. <br />
@@ -2209,7 +2209,7 @@
           
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
     Squash:<br />
       1. Preheat oven to 450 F. <br />
       2. Split squash along the long axis and remove seeds. <br />
@@ -2362,7 +2362,7 @@
           
   <br /><h4>Directions:</h4>
     
-    <div itemprop="instructions">
+    <div itemprop="recipeInstructions">
     Dough:<br />
       1. Mix all dry ingredients <br />
       2. Place water (cool to room temperature) in a large bowl <br />
