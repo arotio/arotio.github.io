@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-06-09T20:01:06-05:00</updated>
+  <updated>2014-06-09T20:21:12-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -187,6 +187,7 @@
     <id>http://rotiofood.com/blog/2014/06/08/bacon-egg-tortellini</id>
     <content type="html"><![CDATA[<!-- more -->
 <img src="http://rotio.net/rotiofood/2014-06-08/tortellini2.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a>
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 <h3><b>Story</b> </h3>
  <div>
@@ -198,7 +199,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-06-08 15:07:34 -0500 itemprop="datePublished">
     June 8, 2014</time>
-  <img itemprop="thumbnailUrl" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-08/tortellini_small.jpg" />
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-08/tortellini_small.jpg" />
   
   <br /><span itemprop="description">Maple onion sourdough tortellini with bacon and egg</span><br />
 
@@ -291,7 +292,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-06-04/salad_steak.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-06-04/salad_steak.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 <h3><b>Story</b> </h3>
@@ -305,7 +307,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-06-04 11:07:34 -0500 itemprop="datePublished">
     June 4, 2014</time>
-  <img itemprop="thumbnailUrl" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-04/steak_salad.jpg" />
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-04/steak_salad.jpg" />
   
   <br /><span itemprop="description">Summer salad with marinated steak tips</span><br />
 
@@ -416,7 +418,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-06-02/taco.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-06-02/taco.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 <h3><b>Story</b> </h3>
@@ -430,7 +433,7 @@
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-06-02 11:07:34 -0500 itemprop="datePublished">
     June 2, 2014</time>
-  <img itemprop="thumbnailUrl" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-02/taco_good.jpg" />
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-02/taco_good.jpg" />
   
   <br /><span itemprop="description">Blackened catfish tacos with mango salsa, purple cabbage, and pineapple cilantro crema, wrapped in a homemade corn tortilla</span><br />
 
@@ -600,7 +603,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-04-06/waffle.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-04-06/waffle.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 <h3><b>Story</b> </h3>
@@ -612,72 +616,72 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Sourdough Waffles with Berries and Cream</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-04-06 08:07:34 -0500 itemprop="published">
+  <br />Published: <time datetime=2014-04-06 08:07:34 -0500 itemprop="datePublished">
     April 6, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-04-06/waffle.jpg" />
   
-  <br /><span itemprop="summary">Sourdough waffles with whipped cream and strawberries</span><br />
+  <br /><span itemprop="description">Sourdough waffles with whipped cream and strawberries</span><br />
 
   <br />Prep time: <time datetime="PT0H25M" itemprop="prepTime">25m</time> 
   <br />Cook time: <time datetime="PT0H05M" itemprop="cookTime">5m</time> each waffle
   <br />Total time: <time datetime="PT0H30M" itemprop="totalTime">30m</time>
-  <br />Yield: <span itemprop="yield">6 waffles</span>
+  <br />Yield: <span itemprop="recipeYield">6 waffles</span>
   
   <br />
   
 
   <br /><h4>Ingredients:</h4>
     <h4>Waffle:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Bread Flour</span>: 
       <span itemprop="amount">1 c</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Milk</span>:
       <span itemprop="amount">1/2 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Eggs</span>:
       <span itemprop="amount">2</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Baking Powder</span>:
       <span itemprop="amount">1 1/2 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Buddy*</span>:
       <span itemprop="amount">1/2 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Vanilla Sugar</span>:
       <span itemprop="amount">1/4 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sea Salt</span>:
       <span itemprop="amount">1/4 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Butter</span>:
       <span itemprop="amount">3 T</span>, melted
     </span><br />
     <h4>Topping:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Heavy Cream</span>:
       <span itemprop="amount">1 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sea Salt</span>:
       <span itemprop="amount">pinch</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Powdered Sugar</span>:
       <span itemprop="amount">1/4 c</span>, melted
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Vanilla Extract</span>:
       <span itemprop="amount">3 drops</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Strawberries</span>:
       <span itemprop="amount">1 c</span>, washed and cut
     </span><br /><br />
@@ -724,7 +728,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-04-02/bread_angle.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-04-02/bread_angle.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
@@ -738,35 +743,35 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">baguette</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-04-02 11:09:50 -0500 itemprop="published">
+  <br />Published: <time datetime=2014-04-02 11:09:50 -0500 itemprop="datePublished">
     April 2, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-04-02/bread_close.jpg" />
   
-  <br /><span itemprop="summary">Straightforward Baguette</span><br />
+  <br /><span itemprop="description">Straightforward Baguette</span><br />
 
   <br />Prep time: <time datetime="PT3H" itemprop="prepTime">3 h</time> 
   <br />Cook time: <time datetime="PT0H30M" itemprop="cookTime">30m</time>
   <br />Total time: <time datetime="PT3H30M" itemprop="totalTime">3h 30m</time>
-  <br />Yield: <span itemprop="yield">3 loaves</span>
+  <br />Yield: <span itemprop="recipeYield">3 loaves</span>
   
   <br />
   
 
   <br /><h4>Ingredients:</h4>
   <br /> 
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Bread Flour</span>: 
       <span itemprop="amount">3 c</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Warm Water</span>:
       <span itemprop="amount">1 and 1/4 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Active dry yeast</span>:
       <span itemprop="amount">1 packet</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">2 tsp</span>
     </span><br />
@@ -820,7 +825,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-03-31/coconut_top.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-03-31/coconut_top.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
@@ -834,16 +840,16 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Coconut Creme Brulee</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-03-31 11:09:50 -0500 itemprop="published">
+  <br />Published: <time datetime=2014-03-31 11:09:50 -0500 itemprop="datePublished">
     March 31, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-03-31/coconut_top.jpg" />
   
-  <br /><span itemprop="summary">Creme brulee cooked in a coconut</span><br />
+  <br /><span itemprop="description">Creme brulee cooked in a coconut</span><br />
 
   <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
   <br />Cook time: <time datetime="PT1H15M" itemprop="cookTime">1h 15m</time>
   <br />Total time: <time datetime="PT1H25M" itemprop="totalTime">1h 25m</time>
-  <br />Yield: <span itemprop="yield">Creme brulee for two</span>
+  <br />Yield: <span itemprop="recipeYield">Creme brulee for two</span>
   
   <br />
   
@@ -851,23 +857,23 @@
   Propane torch (from a hardware store)<br/>
   <br /><h4>Ingredients:</h4>
   <br /> 
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Fresh Coconut</span>: 
       <span itemprop="amount">1</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Heavy Cream</span>:
       <span itemprop="amount">1 pint</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Vanilla Bean</span>:
       <span itemprop="amount">1 whole</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Egg Yolks</span>:
       <span itemprop="amount">3</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sugar</span>:
       <span itemprop="amount">1/2 c</span>
     </span><br />
@@ -920,7 +926,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
@@ -935,16 +942,16 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Pork Tenderloin and Polenta</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-03-12 11:59:50 -0500 itemprop="published">
+  <br />Published: <time datetime=2014-03-12 11:59:50 -0500 itemprop="datePublished">
     March 12, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg" />
   
-  <br /><span itemprop="summary">Sous vide pork tenderloin with Gouda Polenta and Asparagus</span><br />
+  <br /><span itemprop="description">Sous vide pork tenderloin with Gouda Polenta and Asparagus</span><br />
 
   <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
   <br />Cook time: <time datetime="PT1H0M" itemprop="cookTime">1h</time>
   <br />Total time: <time datetime="PT1H10M" itemprop="totalTime">1h 10m</time>
-  <br />Yield: <span itemprop="yield">Tenderloin and Polenta for 2</span>
+  <br />Yield: <span itemprop="recipeYield">Tenderloin and Polenta for 2</span>
   
   <br />
   
@@ -954,53 +961,53 @@
   Ziplock double seal bags (splurge the extra few bucks on the double seal freezer bags, pork tenderloin isn&#8217;t cheap and you don&#8217;t want water to get in)
   <br /> <br /><h4>Ingredients:</h4>
   <br /> <br /> Pork: <br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Pork Tenderloin</span>: 
       <span itemprop="amount">1</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sea Salt</span>:
       <span itemprop="amount">1/4 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Black Pepper</span>:
       <span itemprop="amount">1 T</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Fresh Thyme</span>:
       <span itemprop="amount">1/4 c</span>, chopped
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Fresh Rosemary</span>:
       <span itemprop="amount">1/4 c</span>, chopped
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Garlic</span>:
       <span itemprop="amount">2 cloves</span>, minced
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Olive Oil</span>:
       <span itemprop="amount">1 T</span>
     </span>
     
     <br /> <br /> Polenta: <br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Yellow Corn Grits</span>:
       <span itemprop="amount">1/2 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Chicken Stock</span>:
       <span itemprop="amount">15 oz. Can</span> (a little less than 2 cups)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Thyme</span>:
       <span itemprop="amount">1/4 c</span>, chopped
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Gouda</span>:
       <span itemprop="amount">2 oz</span>, grated
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">pinch</span>
     </span><br />
@@ -1050,7 +1057,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-02-24/beef_sous_vide.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-02-24/beef_sous_vide.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
@@ -1083,16 +1091,16 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Beef Sous Vide</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-02-24 10:59:50 -0600 itemprop="published">
+  <br />Published: <time datetime=2014-02-24 10:59:50 -0600 itemprop="datePublished">
     February 24, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-24/beef_sous_vide.jpg" />
   
-  <br /><span itemprop="summary">&#8220;Sous vide&#8221; beef tenderloin without the thousand dollar equipment.</span><br />
+  <br /><span itemprop="description">&#8220;Sous vide&#8221; beef tenderloin without the thousand dollar equipment.</span><br />
 
   <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
   <br />Cook time: <time datetime="PT1H0M" itemprop="cookTime">1h</time>
   <br />Total time: <time datetime="PT1H10M" itemprop="totalTime">1h 10m</time>
-  <br />Yield: <span itemprop="yield">4 tenderloins</span>
+  <br />Yield: <span itemprop="recipeYield">4 tenderloins</span>
   
   <br />
   
@@ -1101,11 +1109,11 @@
   $10 Probe Thermometer<br/>
   Ziplock double seal bags (splurge the extra few bucks on the double seal freezer bags, this beef isn&#8217;t cheap and you don&#8217;t want water to get in)
   <br /> <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Beef Tenderloin</span>: 
       <span itemprop="amount">4</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Favorite Rub</span>:
       <span itemprop="amount">1/4 c</span>
     </span><br />
@@ -1151,7 +1159,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-02-21/chicken_close.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-02-21/chicken_close.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
@@ -1164,64 +1173,64 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Pi&ntilde;ape&ntilde;o Chicken</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-02-21 10:59:50 -0600 itemprop="published">
+  <br />Published: <time datetime=2014-02-21 10:59:50 -0600 itemprop="datePublished">
     February 21, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-21/chicken_far.jpg" />
   
-  <br /><span itemprop="summary">Pineapple Jalape&ntilde;o Barbecue Chicken.</span><br />
+  <br /><span itemprop="description">Pineapple Jalape&ntilde;o Barbecue Chicken.</span><br />
 
   <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
   <br />Cook time: <time datetime="PT45M" itemprop="cookTime">45m</time>
   <br />Total time: <time datetime="PT55M" itemprop="totalTime">55m</time>
-  <br />Yield: <span itemprop="yield">2 servings</span>
+  <br />Yield: <span itemprop="recipeYield">2 servings</span>
   
   <br />
   <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Chicken Thighs and Legs</span>: 
       <span itemprop="amount">3 lb</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Pineapple</span>:
       <span itemprop="amount">1/4 c, diced</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Jalape&ntilde;o</span>:
       <span itemprop="amount">1, diced</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Onion</span>:
       <span itemprop="amount">1, chopped</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Garlic</span>:
       <span itemprop="amount">2 cloves</span> (a very little bit)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Ketchup</span>:
       <span itemprop="amount">3/4 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Molasses</span>:
       <span itemprop="amount">1/4 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Apple Cider Vinegar</span>:
       <span itemprop="amount">1/4 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Budweiser</span>:
       <span itemprop="amount">splash</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Cumin</span>:
       <span itemprop="amount">1/4 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">1/4 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Black Pepper</span>:
       <span itemprop="amount">1/4 tsp</span>
     </span><br />
@@ -1263,7 +1272,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-02-18/pollo_asado.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-02-18/pollo_asado.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
@@ -1277,44 +1287,44 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Pollo Asado</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-02-18 09:59:50 -0600 itemprop="published">
+  <br />Published: <time datetime=2014-02-18 09:59:50 -0600 itemprop="datePublished">
     February 18, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-18/pollo_asado.jpg" />
   
-  <br /><span itemprop="summary">Pollo Asado tacos con manchego, avocado, y cilantro.</span><br />
+  <br /><span itemprop="description">Pollo Asado tacos con manchego, avocado, y cilantro.</span><br />
 
   <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
   <br />Cook time: <time datetime="PT15M" itemprop="cookTime">15m</time>
   <br />Total time: <time datetime="PT25M" itemprop="totalTime">25m</time>
-  <br />Yield: <span itemprop="yield">5 large tacos </span>
+  <br />Yield: <span itemprop="recipeYield">5 large tacos </span>
   
   <br />
   <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Pollo Asado (Chicken)</span>: 
       <span itemprop="amount">1 lb</span> thin chicken breasts, marinated (we used [<a href="http://www.cooktj.com/node/3659" target="_blank">this</a>])
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Manchego</span>:
       <span itemprop="amount">1 c, shredded</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Avocado</span>:
       <span itemprop="amount">1, sliced</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Cilantro</span>:
       <span itemprop="amount">1 bunch, chopped</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sour Cream</span>:
       <span itemprop="amount">Un Poquito</span> (a very little bit)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Lime</span>:
       <span itemprop="amount">5 wedges</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Tortillas</span>:
       <span itemprop="amount">5</span>
     </span><br />
@@ -1358,7 +1368,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-02-17/fries.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-02-17/fries.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
@@ -1372,28 +1383,28 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">French Fries</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-02-17 08:20:50 -0600 itemprop="published">
+  <br />Published: <time datetime=2014-02-17 08:20:50 -0600 itemprop="datePublished">
     February 17, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-17/fries.jpg" />
   
-  <br /><span itemprop="summary">Crispy, tender bistro fries.</span><br />
+  <br /><span itemprop="description">Crispy, tender bistro fries.</span><br />
 
   <br />Prep time: <time datetime="PT1H" itemprop="prepTime">1h</time> 
   <br />Cook time: <time datetime="PT15M" itemprop="cookTime">15m</time>
   <br />Total time: <time datetime="PT1H15M" itemprop="totalTime">1h 15m</time>
-  <br />Yield: <span itemprop="yield">2 servings </span>
+  <br />Yield: <span itemprop="recipeYield">2 servings </span>
   
   <br />
   <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Russet Potatoes</span>: 
       <span itemprop="amount">2</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Canola Oil</span>:
       <span itemprop="amount">1 gallon</span> (or enough to fill whatever you&#8217;re going to deep fry in about half way)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sea Salt</span>:
       <span itemprop="amount">1 tsp</span>
     </span><br />
@@ -1437,7 +1448,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-02-16/salmon_sliders_plated.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-02-16/salmon_sliders_plated.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
@@ -1451,66 +1463,66 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Salmon Sliders</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-02-16 09:15:50 -0600 itemprop="published">
+  <br />Published: <time datetime=2014-02-16 09:15:50 -0600 itemprop="datePublished">
     February 16, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-16/salmon_sliders_plated_2.jpg" />
   
-  <br /><span itemprop="summary">Salmon sliders with cucumber dill sauce and tomato. </span><br />
+  <br /><span itemprop="description">Salmon sliders with cucumber dill sauce and tomato. </span><br />
 
   <br />Prep time: <time datetime="PT0H5M" itemprop="prepTime">5m</time> 
   <br />Cook time: <time datetime="PT15M" itemprop="cookTime">15m</time>
   <br />Total time: <time datetime="PT20M" itemprop="totalTime">20m</time>
-  <br />Yield: <span itemprop="yield">4 sliders </span>
+  <br />Yield: <span itemprop="recipeYield">4 sliders </span>
   
   <br />
   <br /><h4>Ingredients:</h4>
   Sauce: </br>
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Light Sour Cream</span>: 
       <span itemprop="amount">1/2 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Onion</span>:
       <span itemprop="amount">1/2 small, minced</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Fresh Dill</span>:
       <span itemprop="amount">Small bunch, chopped</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Lime</span>:
       <span itemprop="amount">1/2 lime, juiced</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Cucumber</span>:
       <span itemprop="amount">1/4, chopped</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">to taste</span>
     </span><br />
     <br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salmon</span>:
       <span itemprop="amount">1 lb</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Extra Virgin Olive Oil</span>:
       <span itemprop="amount">2 T</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sea Salt</span>:
       <span itemprop="amount">pinch</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Black Pepper</span>:
       <span itemprop="amount">pinch</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Tomato, small</span>:
       <span itemprop="amount">4 slices</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Slider Buns</span>:
       <span itemprop="amount">4</span>
     </span><br />
@@ -1558,7 +1570,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-02-12/gnocci_plated.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-02-12/gnocci_plated.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
@@ -1573,44 +1586,44 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Gnocchi</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-02-12 09:15:50 -0600 itemprop="published">
+  <br />Published: <time datetime=2014-02-12 09:15:50 -0600 itemprop="datePublished">
     February 12, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-12/gnocci_assembly.gif" />
   
-  <br /><span itemprop="summary">Basic gnocchi.</span><br />
+  <br /><span itemprop="description">Basic gnocchi.</span><br />
 
   <br />Prep time: <time datetime="PT1H45M" itemprop="prepTime">1h 45m</time> 
   <br />Cook time: <time datetime="PT15M" itemprop="cookTime">15m</time>
   <br />Total time: <time datetime="PT2H" itemprop="totalTime">2h</time>
-  <br />Yield: <span itemprop="yield">2 servings </span>
+  <br />Yield: <span itemprop="recipeYield">2 servings </span>
   
   <br />
   <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Russet Potatoes</span>: 
       <span itemprop="amount">1 lb</span> (we used 2 medium potatoes)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Egg Yolks</span>:
       <span itemprop="amount">3</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Parmigiano Reggiano</span>:
       <span itemprop="amount">1/2 c, grated</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Nutmeg</span>:
       <span itemprop="amount">1/4 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">1/2 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Black Pepper</span>:
       <span itemprop="amount">1/4 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Flour</span> (all purpose):
       <span itemprop="amount">1 c</span>
     </span><br />
@@ -1661,7 +1674,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-02-09/surf_turf_rolled.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-02-09/surf_turf_rolled.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
@@ -1678,64 +1692,64 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Raw Surf and Turf</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-02-09 05:15:50 -0600 itemprop="published">
+  <br />Published: <time datetime=2014-02-09 05:15:50 -0600 itemprop="datePublished">
     February 9, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-09/surf_turf_open.jpg" />
   
-  <br /><span itemprop="summary">Tuna Tartare and Beef Carpaccio with crispy shallots.</span><br />
+  <br /><span itemprop="description">Tuna Tartare and Beef Carpaccio with crispy shallots.</span><br />
 
   <br />Prep time: <time datetime="PT2H30M" itemprop="prepTime">2h 30m</time> (including 2 hours of freezer time)
   <br />Cook time: <time datetime="PT0M" itemprop="cookTime">2m</time> (everything&#8217;s raw but the shallots!)
   <br />Total time: <time datetime="PT2H30M" itemprop="totalTime">2h 30m</time>
-  <br />Yield: <span itemprop="yield">2 servings </span>
+  <br />Yield: <span itemprop="recipeYield">2 servings </span>
   
   <br />
   <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Beef Tenderloin</span> (as fresh as possible): 
       <span itemprop="amount">1/3 lb</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Albacore or Yellowfin Tuna</span> (as fresh as possible):
       <span itemprop="amount">1/4 lb</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Kosher Salt</span>:
       <span itemprop="amount">to taste</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sesame Seeds</span>:
       <span itemprop="amount">1 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Serrano or Jalape&#241;o Pepper</span>:
       <span itemprop="amount">1/8 pepper</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sesame Oil</span>:
       <span itemprop="amount">1/2 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Lime</span>:
       <span itemprop="amount">1/4</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Shallot</span>:
       <span itemprop="amount">1/2 large</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Canola Oil</span>:
       <span itemprop="amount">2 T</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Chives</span>:
       <span itemprop="amount">small bunch</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Mayo</span>:
       <span itemprop="amount">1 T</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sriracha</span>:
       <span itemprop="amount">1 tsp</span>
     </span><br />
@@ -1780,7 +1794,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-02-05/popcorn_plated.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-02-05/popcorn_plated.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
@@ -1795,28 +1810,28 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Foolproof Popcorn</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-02-05 10:15:50 -0600 itemprop="published">
+  <br />Published: <time datetime=2014-02-05 10:15:50 -0600 itemprop="datePublished">
     February 5, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-05/popcorn_pan.jpg" />
   
-  <br /><span itemprop="summary">Simple stovetop popcorn.</span><br />
+  <br /><span itemprop="description">Simple stovetop popcorn.</span><br />
 
   <br />Prep time: <time datetime="PT1M" itemprop="prepTime">0m</time>
   <br />Cook time: <time datetime="PT5M" itemprop="cookTime">5m</time>
   <br />Total time: <time datetime="PT5M" itemprop="totalTime">5m</time>
-  <br />Yield: <span itemprop="yield">2 servings </span>
+  <br />Yield: <span itemprop="recipeYield">2 servings </span>
   
   <br />
   <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Popcorn</span>:
       <span itemprop="amount">1/2 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Coconut Oil</span>:
       <span itemprop="amount">1 T</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">to taste</span>
     </span><br />
@@ -1856,7 +1871,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-02-05/risotto_plated_top.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-02-05/risotto_plated_top.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
@@ -1870,64 +1886,64 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Chicken Sausage Risotto with Basil</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-02-05 09:15:50 -0600 itemprop="published">
+  <br />Published: <time datetime=2014-02-05 09:15:50 -0600 itemprop="datePublished">
     February 5, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-05/risotto_plated.jpg" />
   
-  <br /><span itemprop="summary">Risotto with chicken sausage, basil, garlic, and tomato.</span><br />
+  <br /><span itemprop="description">Risotto with chicken sausage, basil, garlic, and tomato.</span><br />
 
   <br />Prep time: <time datetime="PT5M" itemprop="prepTime">5m</time>
   <br />Cook time: <time datetime="PT30M" itemprop="cookTime">30m</time>
   <br />Total time: <time datetime="PT35M" itemprop="totalTime">35m</time>
-  <br />Yield: <span itemprop="yield">2 servings </span>
+  <br />Yield: <span itemprop="recipeYield">2 servings </span>
   
   <br />
   <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Chicken Sausage</span>:
       <span itemprop="amount">2 links</span> (cooked and sliced)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Tomato</span>:
       <span itemprop="amount">1</span>, chopped
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Garlic</span>:
       <span itemprop="amount">4 cloves</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Basil</span>:
       <span itemprop="amount">large bunch</span>, roughly chopped 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Kosher Salt</span>:
       <span itemprop="amount">1 T</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">White wine</span>:
       <span itemprop="amount">1 c</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Chicken Stock</span>:
       <span itemprop="amount">2 c</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Water</span>:
       <span itemprop="amount">4 c</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Arborio Rice</span>:
       <span itemprop="amount">1/2 c</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Extra Virgin Olive Oil</span>:
       <span itemprop="amount">2 T</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Crushed Red Pepper</span>:
       <span itemprop="amount">to taste</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Oregano</span>:
       <span itemprop="amount">to taste</span> 
     </span><br />
@@ -1972,7 +1988,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-02-02/wings_plated_tv.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-02-02/wings_plated_tv.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
@@ -1987,18 +2004,18 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Budweiser Baked Wings</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-02-02 09:15:50 -0600 itemprop="published">
+  <br />Published: <time datetime=2014-02-02 09:15:50 -0600 itemprop="datePublished">
     February 2, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-02/wings_in_pan.jpg" />
   
-  <br /><span itemprop="summary">Wings infused with Budweiser topped with some HOT sauce.</span><br />
+  <br /><span itemprop="description">Wings infused with Budweiser topped with some HOT sauce.</span><br />
   <span itemprop="review" itemscope itemtype="http://schema.org/Review-aggregate" hidden>
     <span itemprop="rating" hidden>5.0</span> 
     <span itemprop="count" hidden>2</span> reviews </span>
   <br />Prep time (including brine): <time datetime="PT6H" itemprop="prepTime">6h</time>
   <br />Cook time: <time datetime="PT1h" itemprop="cookTime">1h</time>
   <br />Total time: <time datetime="PT7H" itemprop="totalTime">7h</time>
-  <br />Yield: <span itemprop="yield">6 lbs </span>
+  <br />Yield: <span itemprop="recipeYield">6 lbs </span>
   <span itemprop="nutrition" itemscope itemtype="http://schema.org/Nutrition" hidden>
     Serving size: <span itemprop="servingSize">Half recipe</span>
     Calories per serving: <span itemprop="calories">500</span>
@@ -2007,38 +2024,38 @@
   <br /><h4>Equipment:</h4>
   Throw away alumninum pan or other pan with sides 
   <br /> <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Chicken wings</span>:
       <span itemprop="amount">6 lbs</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Thyme</span>:
       <span itemprop="amount">2 T</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">1/2 c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Garlic Powder</span>:
       <span itemprop="amount">1/4 c</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Budweiser</span>:
       <span itemprop="amount">8</span> (plus a few to drink)
     </span><br />
     <br />
     Sauce:<br />
     
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Chilula Chili Garlic Sauce</span>:
       <span itemprop="amount">4 T</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Agave or Honey</span>:
       <span itemprop="amount">4 T</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Butter</span>:
       <span itemprop="amount">2 T</span> (melted) 
     </span><br />
@@ -2092,7 +2109,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-01-30/pad_thai_plated_final.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-01-30/pad_thai_plated_final.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
@@ -2108,18 +2126,18 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Spaghetti Squash Shrimp Pad Thai</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-01-30 19:52:50 -0600 itemprop="published">
+  <br />Published: <time datetime=2014-01-30 19:52:50 -0600 itemprop="datePublished">
     January 30, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-01-30/pad_thai_shrimp.jpg" />
   
-  <br /><span itemprop="summary">Shrimp Pad Thai, with spaghetti squash where the noodles used to be.</span><br />
+  <br /><span itemprop="description">Shrimp Pad Thai, with spaghetti squash where the noodles used to be.</span><br />
   <span itemprop="review" itemscope itemtype="http://schema.org/Review-aggregate" hidden>
     <span itemprop="rating" hidden>5.0</span> 
     <span itemprop="count" hidden>2</span> reviews </span>
   <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10 minutes</time>
   <br />Cook time: <time datetime="PT45M" itemprop="cookTime">45 min</time>
   <br />Total time: <time datetime="PT55M" itemprop="totalTime">55 min</time>
-  <br />Yield: <span itemprop="yield">2 servings </span>
+  <br />Yield: <span itemprop="recipeYield">2 servings </span>
   <span itemprop="nutrition" itemscope itemtype="http://schema.org/Nutrition" hidden>
     Serving size: <span itemprop="servingSize">Half recipe</span>
     Calories per serving: <span itemprop="calories">500</span>
@@ -2128,62 +2146,62 @@
   <br /><h4>Equipment:</h4>
   Wok (ideally a wok but you can definitely make it work with any large pan or skillet)
   <br /> <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Spaghetti Squash</span>:
       <span itemprop="amount">1</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Large Raw Shrimp</span> (these were 16-20 per pound):
       <span itemprop="amount">8-10</span>
     </span><br /><br />
     Sauce:<br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Peanut Butter</span>:
       <span itemprop="amount">2 T</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Cholula Chili Garlic Hot Sauce</span>:
       <span itemprop="amount">4 T</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Low Sodium Soy Sauce</span>:
       <span itemprop="amount">2 T</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Rice Wine Vinegar</span>:
       <span itemprop="amount">1 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Garlic Powder</span>:
       <span itemprop="amount">1 tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Crushed Red Pepper</span>:
       <span itemprop="amount">pinch</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Agave, Honey, or Brown Sugar</span>:
       <span itemprop="amount">to taste</span>
     </span><br />
     <br />
     Stir Fry: <br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Coconut Oil</span> (canola or vegetable will also work fine):
       <span itemprop="amount">3 T</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Garlic</span>:
       <span itemprop="amount">3 cloves, minced</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sweet Cherry Peppers</span>:
       <span itemprop="amount">4 peppers, seeded and julienned</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Peanuts</span>:
       <span itemprop="amount">1/4 c, crushed</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Lime</span>:
       <span itemprop="amount">2 wedges</span> 
     </span><br />
@@ -2238,7 +2256,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://rotio.net/rotiofood/2014-01-26/Pizza_done_final.jpg"></p>
+<p><img src="http://rotio.net/rotiofood/2014-01-26/Pizza_done_final.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 
@@ -2252,18 +2271,18 @@
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">New Jersey Pizza</h3>
   <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-01-26 17:56:50 -0600 itemprop="published">
+  <br />Published: <time datetime=2014-01-26 17:56:50 -0600 itemprop="datePublished">
     January 26, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-01-26/Pizza_with_table.jpg" /> 
   
-  <br /><span itemprop="summary">This is a classic Jersey style pie. Cost for a medium comes out to about $2.50</span><br />
+  <br /><span itemprop="description">This is a classic Jersey style pie. Cost for a medium comes out to about $2.50</span><br />
   <span itemprop="review" itemscope itemtype="http://schema.org/Review-aggregate" hidden>
     <span itemprop="rating" hidden>5.0</span> 
     <span itemprop="count" hidden>2</span> reviews </span>
   <br />Prep time (including overnight rise): <time datetime="PT24H" itemprop="prepTime">24 hours</time>
   <br />Cook time: <time datetime="PT6M" itemprop="cookTime">6 min</time>
   <br />Total time: <time datetime="PT24H6M" itemprop="totalTime">24 hour 6 min</time>
-  <br />Yield: <span itemprop="yield">2 (medium) 14&#8221; pies </span>
+  <br />Yield: <span itemprop="recipeYield">2 (medium) 14&#8221; pies </span>
   <span itemprop="nutrition" itemscope itemtype="http://schema.org/Nutrition" hidden>
     Serving size: <span itemprop="servingSize">1 medium pie</span>
     Calories per serving: <span itemprop="calories">600</span>
@@ -2273,70 +2292,70 @@
   Pizza Stone
   <br /> <br /><h4>Ingredients:</h4>
     Dough:<br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Bread Flour</span>:
       <span itemprop="amount">390g</span> (3c)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Water</span>:
       <span itemprop="amount">8.5oz</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Yeast</span>:
       <span itemprop="amount">1.75g</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">8g</span> (1.5tsp)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sugar</span>:
       <span itemprop="amount">4g</span> (1tsp)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Olive Oil</span>:
       <span itemprop="amount">1.5tsp</span>
     </span><br />
     <br />
     Sauce: (this makes a lot, freeze extra)<br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Tomato Puree</span>:
       <span itemprop="amount">28oz</span> (Good tomatoes = good sauce, find the one you like)
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Water</span>:
       <span itemprop="amount">1/3c</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Garlic</span>:
       <span itemprop="amount">1tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">3/4tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Black Pepper</span>:
       <span itemprop="amount">Pinch</span> 
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Sugar</span>:
       <span itemprop="amount">1tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Red Pepper</span>:
       <span itemprop="amount">Pinch</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Olive Oil</span>:
       <span itemprop="amount">2tsp</span>
     </span><br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Oregano</span>:
       <span itemprop="amount">1tsp</span>
     </span><br /><br />
     Cheese: <br />
-    <span itemprop="ingredient" itemscope itemtype="http://schema.org/RecipeIngredient">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
       <span itemprop="name">Mozzarella (whole milk, not part-skim &#8211; low moisture is ok &#8211; full block, not shredded)</span>:
       <span itemprop="amount">8oz total for both pies</span> 
     </span><br />
