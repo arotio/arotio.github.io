@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-06-12T07:09:16-05:00</updated>
+  <updated>2014-06-12T18:54:13-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,90 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Garlic Shoot Pizza]]></title>
+    <link href="http://rotiofood.com/blog/2014/06/12/garlic-shoot-pizza/"/>
+    <updated>2014-06-12T01:19:34-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/06/12/garlic-shoot-pizza</id>
+    <content type="html"><![CDATA[<!-- more -->
+<img src="http://rotio.net/rotiofood/2014-06-11/pie2.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a>
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+<h3><b>Story</b> </h3>
+ <div>
+	<p><img src="http://rotio.net/rotiofood/2014-06-11/market.jpg"/><br/>Yesterday, I went to check out a local farmer&#8217;s market. It was a great experience where the people who grew/prepared/slaughtered the wares were actually standing there to explain to you exactly what you were getting and every step of the process. I was inspired to find some ingredients for our second sourdough pie. I found garlic shoots, which I had never worked with before, herbs de provence goat cheese, and white eggplant. I combined these with some bacon and chili oil to make a pretty tasty, if unconventional, sourdough pie.</p>  
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Garlic Shoot Pizza</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-06-12 01:19:34 -0500 itemprop="datePublished">
+    June 12, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-11/pie2.jpg" />
+  
+  <br /><span itemprop="description">Budweiser sourdough pizza with garlic shoots, bacon, and eggplant</span><br />
+
+  <br />Prep time: <time datetime="PT0H10M" itemprop="prepTime">10m</time>
+  <br />Cook time: <time datetime="PT0H5M" itemprop="cookTime">5m</time>
+  <br />Total time: <time datetime="PT0H215M" itemprop="totalTime">15m</time>
+  <br />Yield: <span itemprop="recipeYield">1 pie</span>
+  
+  <br />
+  
+ <h4>Ingredients:</h4>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Buddy Neapolitan Pizza Dough</span>: 
+      <span itemprop="amount">1 serving</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Garlic Shoots</span>: 
+      <span itemprop="amount">1 bunch</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">White eggplant</span>:
+      <span itemprop="amount">1/2</span>, thinly sliced and roasted with chili oil
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Herbs de provence goat cheese</span>:
+      <span itemprop="amount">2 oz</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Bacon</span>:
+      <span itemprop="amount">3 slices</span>, cooked and chopped
+    </span><br />
+	
+	
+  <br /><h4>Directions:</h4>
+	
+    <div itemprop="recipeInstructions">
+	  1. Remove dough from fridge at least one hour prior to preparing. Load pizza stone into oven/broiler and preheat to Broil or 550 F one hour before preparing.<br />
+	  2. Flour peel or board with flour or corn meal.<br />
+	  3. Roast eggplant slices with chili oil.<br />
+	  4. Stretch dough slowly until it just begins to become translucent. <br />
+	  5. Work quickly &#8211; the less time on the board, the easier the pie will be to remove. Add eggplant, bacon, cheese, eggplant, and, finally, garlic shoots<br />
+	  6. Transfer pie to stone and cook for 4-5 minutes or until crust is crisp and shoots are charred. <br />
+	 
+	 </div>
+	<br />
+	</div>
+<h3><b>Pairing - The Ogden</b> </h3> 
+	<div>
+	<img src="http://rotio.net/rotiofood/2014-06-11/ogden.jpg">
+	<br/>
+	We paired this pie with The Ogden from Goose Island. The Ogden is a bold, sweet, malty Tripel with a fresh black currant, citrusy aroma of Brewers Gold and Citra hops. The sweetness of the malt is very nice to cut through the spicy garlic shoots and tangy goat cheese. The aromatic yet muted-spice hop combination pick up and amplify the chili oil but also provide freshness to the dish. Oh and the Ogden is 9% and lightly carbonated. It will give you a nice buzz.. and if not careful it will put you to bed. Enjoy as often as responsibly possible. It definitely just landed itself in my top 5&#8230;
+	</div>
+</div>
+
+<script>
+    $( "#accordion" ).accordion({
+	collapsible: true,
+	active: false,
+	heightStyle: "content"});
+</script>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sourdough Margherita Pie]]></title>
@@ -2179,153 +2263,6 @@
       9. Make your favorite sauce. The best one we&#8217;ve used is Chili Garlic Sauce, Agave, and Butter (amounts listed above). The one in the photo is Sriracha and Honey. Be careful with the ratios and taste before you add to the wings to ensure your heat level is where you want it.<br />
       10. Toss wings in sauce and serve with a Budweiser.
     
-      
-      
-      
-
-    </div>
-</div>
-
-</div>
-
-
-
-
-<script>
-    $( "#accordion" ).accordion({
-    collapsible: true,
-    active: false,
-    heightStyle: "content"});
-</script>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[shrimp pad thai]]></title>
-    <link href="http://rotiofood.com/blog/2014/01/30/shrimp-pad-thai/"/>
-    <updated>2014-01-30T19:52:50-06:00</updated>
-    <id>http://rotiofood.com/blog/2014/01/30/shrimp-pad-thai</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p><img src="http://rotio.net/rotiofood/2014-01-30/pad_thai_plated_final.jpg">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
-
-<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
-
-<h3><b>Story</b></h3>
-  <div>
-    <p>
-    <img src="http://rotio.net/rotiofood/2014-01-30/pad_thai_stove.gif">
-    
-    Pad thai is delicious, but all those noodles can be a bit heavy if you&#8217;re looking for a lighter mid-week meal. I received a request from one of my best friends, Nicolai, to post something Paleo. This isn&#8217;t by any means hardcore Paleo, but swapping out the pasta for spaghetti squash definitely gets it closer than most things I cook. You&#8217;ll find that by slightly undercooking the squash you can achieve that nice level of &#8220;toothiness&#8221; of aldente noodles. We&#8217;ve done this recipe several times now, including ingredients like bacon, scrambled eggs, bean sprouts, and red onion. The combination you&#8217;ll find below is pretty hearty and delicious from the peanut butter but has a nice kick from the combination of the hot sauce and the briny pickled cherry peppers along with the lime juice. Try it out, modify it, play with it, enjoy it!
-    </p>
-  </div>
-<h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://schema.org/Recipe" >
-  <h3 itemprop="name">Spaghetti Squash Shrimp Pad Thai</h3>
-  <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-01-30 19:52:50 -0600 itemprop="datePublished">
-    January 30, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-01-30/pad_thai_shrimp.jpg" />
-  
-  <br /><span itemprop="description">Shrimp Pad Thai, with spaghetti squash where the noodles used to be.</span><br />
-  <span itemprop="review" itemscope itemtype="http://schema.org/Review-aggregate" hidden>
-    <span itemprop="rating" hidden>5.0</span> 
-    <span itemprop="count" hidden>2</span> reviews </span>
-  <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10 minutes</time>
-  <br />Cook time: <time datetime="PT45M" itemprop="cookTime">45 min</time>
-  <br />Total time: <time datetime="PT55M" itemprop="totalTime">55 min</time>
-  <br />Yield: <span itemprop="recipeYield">2 servings </span>
-  <span itemprop="nutrition" itemscope itemtype="http://schema.org/Nutrition" hidden>
-    Serving size: <span itemprop="servingSize">Half recipe</span>
-    Calories per serving: <span itemprop="calories">500</span>
-    Fat per serving: <span itemprop="fat">5g</span>
-  </span><br />
-  <br /><h4>Equipment:</h4>
-  Wok (ideally a wok but you can definitely make it work with any large pan or skillet)
-  <br /> <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Spaghetti Squash</span>:
-      <span itemprop="amount">1</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Large Raw Shrimp</span> (these were 16-20 per pound):
-      <span itemprop="amount">8-10</span>
-    </span><br /><br />
-    Sauce:<br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Peanut Butter</span>:
-      <span itemprop="amount">2 T</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Cholula Chili Garlic Hot Sauce</span>:
-      <span itemprop="amount">4 T</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Low Sodium Soy Sauce</span>:
-      <span itemprop="amount">2 T</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Rice Wine Vinegar</span>:
-      <span itemprop="amount">1 tsp</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Garlic Powder</span>:
-      <span itemprop="amount">1 tsp</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Crushed Red Pepper</span>:
-      <span itemprop="amount">pinch</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Agave, Honey, or Brown Sugar</span>:
-      <span itemprop="amount">to taste</span>
-    </span><br />
-    <br />
-    Stir Fry: <br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Coconut Oil</span> (canola or vegetable will also work fine):
-      <span itemprop="amount">3 T</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Garlic</span>:
-      <span itemprop="amount">3 cloves, minced</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Sweet Cherry Peppers</span>:
-      <span itemprop="amount">4 peppers, seeded and julienned</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Peanuts</span>:
-      <span itemprop="amount">1/4 c, crushed</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Lime</span>:
-      <span itemprop="amount">2 wedges</span> 
-    </span><br />
-    
-          
-  <br /><h4>Directions:</h4>
-    
-    <div itemprop="recipeInstructions">
-    Squash:<br />
-      1. Preheat oven to 450 F. <br />
-      2. Split squash along the long axis and remove seeds. <br />
-      3. Roast face-down on pan for 30 min . <br />
-      4. Remove squash, allow to cool until you can feel comfortable scraping it out, then scrape out the &#8220;spaghetti&#8221; with a fork. <br />
-      <br />
-    Sauce: <br />
-      5. Mix all sauce ingredients. Microwave if necessary to combine. Adjust amount of sweetener to your liking. 
-    <br /><br />
-    Stir Fry:<br />
-      6. Heat coconut oil in a wok until it begins to smoke. <br />
-      7. Fry shrimp in oil for about two minutes (tops), turning once. Remove when cooked through. <br />
-      8. Add garlic and cherry peppers to hot oil and cook for about 3 minutes until you get some solid caramelization. <br />
-      9. Add sauce and the spaghetti squash. Mix or toss to combine.<br />
-      10. Add cooked shrimp and toss to combine.<br />
-      11. Plate and top with peanuts and lime.<br />
       
       
       
