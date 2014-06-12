@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-06-11T21:39:10-05:00</updated>
+  <updated>2014-06-12T00:23:22-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,98 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sourdough Margherita Pie]]></title>
+    <link href="http://rotiofood.com/blog/2014/06/12/margherita-pizza/"/>
+    <updated>2014-06-12T01:07:34-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/06/12/margherita-pizza</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-06-11/pie1.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+<h3><b>Story</b> </h3>
+ <div>
+    <p>We love pizza. We make it quite a bit. In our kitchen I haven&#8217;t been able to nail a pizza with really good lift on the crust because we don&#8217;t have a broiler in our gas oven&#8230; or so I thought! Katie pointed out that our broiler was beneath the oven, which is, apparently, pretty conventional but something I&#8217;d never had before. Tonight I threw the stone in there, pulled out some Buddy sourdough we had working and tried our classic Margherita. In honor of the World Cup starting today and the Budweiser sourdough crust, we paired this one with a Budweiser in the World Cup Aluminum Bottle. This pairing was on point.</p>  
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Budweiser Sourdough Margherita Pizza</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-06-12 01:07:34 -0500 itemprop="datePublished">
+    June 12, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-11/pie1.jpg" />
+  
+  <br /><span itemprop="description">Budweiser sourdough margherita pizza</span><br />
+
+  <br />Prep time: <time datetime="PT0H10M" itemprop="prepTime">10m</time>
+  <br />Cook time: <time datetime="PT0H5M" itemprop="cookTime">5m</time>
+  <br />Total time: <time datetime="PT0H215M" itemprop="totalTime">15m</time>
+  <br />Yield: <span itemprop="recipeYield">1 pie</span>
+  
+  <br />
+  
+ <h4>Ingredients:</h4>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Buddy Neapolitan Pizza Dough</span>: 
+      <span itemprop="amount">1 serving</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">San Marzano Tomatoes</span>: 
+      <span itemprop="amount">9oz</span> (1/3 of a 28oz can)
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Fresh Mozzarella</span>:
+      <span itemprop="amount">3oz</span>, thickly sliced
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Fresh Basil</span>:
+      <span itemprop="amount">6 leaves</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">2 tsp</span>
+    </span><br />
+    
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="recipeInstructions">
+      1. Remove dough from fridge at least one hour prior to preparing. Load pizza stone into oven/broiler and preheat to Broil or 550 F one hour before preparing.<br />
+      2. Flour peel or board with flour or corn meal.<br />
+      3. Crush tomatoes in a bowl with salt.<br />
+      4. Stretch dough slowly until it just begins to become translucent. <br />
+      5. Work quickly &#8211; the less time on the board, the easier the pie will be to remove. Add sauce (be sparing or dough will get too soggy), basil, then mozzarella<br />
+      6. Transfer pie to stone and cook for 4-5 minutes or until crust is crisp. <br />
+     
+     </div>
+    <br />
+    </div>
+<h3><b>Pairing - Budweiser</b> </h3> 
+    <div>
+    <img src="http://rotio.net/rotiofood/2014-06-11/budweiser.jpg">
+    <br/>
+    We paired this pie with a Budweiser. Budweiser&#8217;s biscuit note picks up the breadiness of the sourdough. The balanced maltiness amplifies the sweetness of the San Marzano tomatoes. Budweiser&#8217;s crisp, clean finish (from using rice as an adjunct) helps cut the creaminess of the fresh mozz. Really nice combination and it is very cool to taste a hint of the Budweiser in the sourdough &#8211; since that is all that Buddy has been drinking since January &#8211; and then get the full punch of it in the glass.
+    </div>
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fried Game Hen]]></title>
@@ -186,12 +278,15 @@
     <updated>2014-06-08T15:07:34-05:00</updated>
     <id>http://rotiofood.com/blog/2014/06/08/bacon-egg-tortellini</id>
     <content type="html"><![CDATA[<!-- more -->
-<img src="http://rotio.net/rotiofood/2014-06-08/tortellini2.jpg">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a>
+
+
+<p><img src="http://rotio.net/rotiofood/2014-06-08/tortellini2.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
+
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 <h3><b>Story</b> </h3>
  <div>
-	<p>We couldn&#8217;t decide between sweet or salty this morning so we decided to go with both. We made a quick sourdough pasta, filled them with maple onions and ricotta, and topped with bacon and a runny egg. It was very satisfying. The salted maple-caramelized onions were delicious &#8211; we will probably end up making a large batch of these and keeping them in a jar in the fridge for everything from cheese plates to burgers. This one takes some time (and some dishes) but it was a nice splurge for a Sunday. Enjoy!</p>  
+    <p>We couldn&#8217;t decide between sweet or salty this morning so we decided to go with both. We made a quick sourdough pasta, filled them with maple onions and ricotta, and topped with bacon and a runny egg. It was very satisfying. The salted maple-caramelized onions were delicious &#8211; we will probably end up making a large batch of these and keeping them in a jar in the fridge for everything from cheese plates to burgers. This one takes some time (and some dishes) but it was a nice splurge for a Sunday. Enjoy!</p>  
   </div>
 <h3><b>Recipe</b> </h3> 
   <div itemscope itemtype="http://schema.org/Recipe" >
@@ -211,12 +306,12 @@
   <br />
   
  <h4>Ingredients:</h4>
-	<h4>Pasta:</h4>
+    <h4>Pasta:</h4>
     <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
       <span itemprop="name">Budweiser Sourdough Starter</span>: 
       <span itemprop="amount">80g</span>
     </span><br />
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
       <span itemprop="name">Durum Flour</span> (AP will work but give softer mouthfeel): 
       <span itemprop="amount">60g</span>
     </span><br />
@@ -224,62 +319,67 @@
       <span itemprop="name">Water</span>:
       <span itemprop="amount">15ml</span>
     </span><br /><br/>
-	<h4>Filling:</h4>
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+    <h4>Filling:</h4>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
       <span itemprop="name">Onion</span>:
       <span itemprop="amount">1/2</span>,chopped
     </span><br />
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
       <span itemprop="name">Salt</span>:
       <span itemprop="amount">1 tsp</span>
     </span><br />
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
       <span itemprop="name">evoo</span>:
       <span itemprop="amount">2 tsp</span>
     </span><br />
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
       <span itemprop="name">Maple Syrup</span>:
       <span itemprop="amount">1 tsp</span>
     </span><br />
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
       <span itemprop="name">Ricotta</span>:
       <span itemprop="amount">1/2c</span>
     </span><br /><br/>
-	
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+    
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
       <span itemprop="name">Bacon</span>:
       <span itemprop="amount">4 slices</span>
     </span><br />
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
       <span itemprop="name">Eggs</span>:
       <span itemprop="amount">2</span>
     </span><br /><br/>
 
-	
+    
   <br /><h4>Directions:</h4>
-	
+    
     <div itemprop="recipeInstructions">
-	  1. Preheat oven to 400 F. Fill large pot half way up with water, cover and start on high heat.<br />
-	  2. Combine water and sourdough starter (follow regular pasta recipe if no sourdough starter available).<br />
-	  3. Dump flour on board and create well in center. Dump liquid mixture into well. Combine until slightly tacky to the touch. Cover with damp towel and allow to rest on board while you continue.<br />
-	  4. Heat evoo in medium skillet on medium low heat, add onions and salt, cooking slowly until they are very tender and brown. Add maple syrup and cook for 5 more minutes. Remove from heat and combine with ricotta.<br />
-	  5. Line pan with foil, lay bacon out on pan in a single layer. Place in preheated oven for 15 minutes or until desired doneness is achieved. <br />
-	  6. Roll dough thinly (1/8&#8221;) with rolling pin or pasta roller, be sure to flour as needed and keep your board floured to avoid sticking. Cut pasta sheet into 3&#8221; (diameter) circles. I got about 10. <br />
-	  7. Place quarter sized drop of filling in center of pasta. Fold over into half moon carefully making sure edge is sealed (use a bit of water if necessary). Be careful not to rip your pasta. Fold corners of half moon to meet and press together tightly to ensure they stay together. Plenty of great videos out there to assist if you do a quick search for homemade tortellini. <br />
-	  8. Heavily salt boiling water. Boil pasta for 4 minutes. When you drop pasta begin cooking two eggs in greased pan on medium heat. <br />
-	  9. Carefully drain pasta, place in bowl, top with egg and crumbled bacon. Open Budweiser. Eat.<br/>
-	 </div>
-	<br />
-	</div>
+      1. Preheat oven to 400 F. Fill large pot half way up with water, cover and start on high heat.<br />
+      2. Combine water and sourdough starter (follow regular pasta recipe if no sourdough starter available).<br />
+      3. Dump flour on board and create well in center. Dump liquid mixture into well. Combine until slightly tacky to the touch. Cover with damp towel and allow to rest on board while you continue.<br />
+      4. Heat evoo in medium skillet on medium low heat, add onions and salt, cooking slowly until they are very tender and brown. Add maple syrup and cook for 5 more minutes. Remove from heat and combine with ricotta.<br />
+      5. Line pan with foil, lay bacon out on pan in a single layer. Place in preheated oven for 15 minutes or until desired doneness is achieved. <br />
+      6. Roll dough thinly (1/8&#8221;) with rolling pin or pasta roller, be sure to flour as needed and keep your board floured to avoid sticking. Cut pasta sheet into 3&#8221; (diameter) circles. I got about 10. <br />
+      7. Place quarter sized drop of filling in center of pasta. Fold over into half moon carefully making sure edge is sealed (use a bit of water if necessary). Be careful not to rip your pasta. Fold corners of half moon to meet and press together tightly to ensure they stay together. Plenty of great videos out there to assist if you do a quick search for homemade tortellini. <br />
+      8. Heavily salt boiling water. Boil pasta for 4 minutes. When you drop pasta begin cooking two eggs in greased pan on medium heat. <br />
+      9. Carefully drain pasta, place in bowl, top with egg and crumbled bacon. Open Budweiser. Eat.<br/>
+     </div>
+    <br />
+    </div>
 
 </div>
 
+
+
+
 <script>
     $( "#accordion" ).accordion({
-	collapsible: true,
-	active: false,
-	heightStyle: "content"});
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
 </script>
+
+
 
 ]]></content>
   </entry>
@@ -2243,165 +2343,6 @@
     collapsible: true,
     active: false,
     heightStyle: "content"});
-</script>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[new jersey pizza]]></title>
-    <link href="http://rotiofood.com/blog/2014/01/26/new-jersey-pizza/"/>
-    <updated>2014-01-26T17:56:50-06:00</updated>
-    <id>http://rotiofood.com/blog/2014/01/26/new-jersey-pizza</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p><img src="http://rotio.net/rotiofood/2014-01-26/Pizza_done_final.jpg">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
-
-<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
-
-<h3><b>Story</b></h3>
-  <div>
-    <p>
-    &#8220;I&#8217;ll take a large plain pie.&#8221; In Jersey, this statement will get you set up with a piping hot disk of deliciousness like the one above. Since moving to Saint Louis in 2013, all this request has gotten us has been puzzled looks. Best case scenario and you have someone who understands, you get a nice flat square-cut Saint Louis style pizza covered in Provel &reg (a mixture of cheddar, Swiss, and provolone) like this &#8220;beauty&#8221; below: <img src="http://www.gavinr.com/wp-content/uploads/2012/03/imos-pizza-600x450.jpg" target="_blank"/> Not being satisfied with the above, we decided to seek out a place that would make it like home. We found two spots, <a href="http://www.racanellis.com/" target="_blank"><u>Racanelli&#8217;s New York Style Pizza </u></a> and <a href="http://ferarospizza.com/"><u>Ferraro&#8217;s Jersey Style Pizza</u></a> (they even have Taylor Ham/Pork Roll!). Both places are good, but this led me to another question &#8211; if I love to cook so much, then why haven&#8217;t I mastered one of my favorite things to eat? So I set out with the initial goal to make something that tastes as good as the average at home. I think I&#8217;ve finally accomplished that, what better way to reintroduce rotio/food to the world.   
-    </p>
-  </div>
-<h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://schema.org/Recipe" >
-  <h3 itemprop="name">New Jersey Pizza</h3>
-  <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-01-26 17:56:50 -0600 itemprop="datePublished">
-    January 26, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-01-26/Pizza_with_table.jpg" /> 
-  
-  <br /><span itemprop="description">This is a classic Jersey style pie. Cost for a medium comes out to about $2.50</span><br />
-  <span itemprop="review" itemscope itemtype="http://schema.org/Review-aggregate" hidden>
-    <span itemprop="rating" hidden>5.0</span> 
-    <span itemprop="count" hidden>2</span> reviews </span>
-  <br />Prep time (including overnight rise): <time datetime="PT24H" itemprop="prepTime">24 hours</time>
-  <br />Cook time: <time datetime="PT6M" itemprop="cookTime">6 min</time>
-  <br />Total time: <time datetime="PT24H6M" itemprop="totalTime">24 hour 6 min</time>
-  <br />Yield: <span itemprop="recipeYield">2 (medium) 14&#8221; pies </span>
-  <span itemprop="nutrition" itemscope itemtype="http://schema.org/Nutrition" hidden>
-    Serving size: <span itemprop="servingSize">1 medium pie</span>
-    Calories per serving: <span itemprop="calories">600</span>
-    Fat per serving: <span itemprop="fat">4g</span>
-  </span><br />
-  <br /><h4>Equipment:</h4>
-  Pizza Stone
-  <br /> <br /><h4>Ingredients:</h4>
-    Dough:<br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Bread Flour</span>:
-      <span itemprop="amount">390g</span> (3c)
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Water</span>:
-      <span itemprop="amount">8.5oz</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Yeast</span>:
-      <span itemprop="amount">1.75g</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Salt</span>:
-      <span itemprop="amount">8g</span> (1.5tsp)
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Sugar</span>:
-      <span itemprop="amount">4g</span> (1tsp)
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Olive Oil</span>:
-      <span itemprop="amount">1.5tsp</span>
-    </span><br />
-    <br />
-    Sauce: (this makes a lot, freeze extra)<br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Tomato Puree</span>:
-      <span itemprop="amount">28oz</span> (Good tomatoes = good sauce, find the one you like)
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Water</span>:
-      <span itemprop="amount">1/3c</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Garlic</span>:
-      <span itemprop="amount">1tsp</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Salt</span>:
-      <span itemprop="amount">3/4tsp</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Black Pepper</span>:
-      <span itemprop="amount">Pinch</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Sugar</span>:
-      <span itemprop="amount">1tsp</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Red Pepper</span>:
-      <span itemprop="amount">Pinch</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Olive Oil</span>:
-      <span itemprop="amount">2tsp</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Oregano</span>:
-      <span itemprop="amount">1tsp</span>
-    </span><br /><br />
-    Cheese: <br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Mozzarella (whole milk, not part-skim &#8211; low moisture is ok &#8211; full block, not shredded)</span>:
-      <span itemprop="amount">8oz total for both pies</span> 
-    </span><br />
-          
-  <br /><h4>Directions:</h4>
-    
-    <div itemprop="recipeInstructions">
-    Dough:<br />
-      1. Mix all dry ingredients <br />
-      2. Place water (cool to room temperature) in a large bowl <br />
-      3. Add half of dry ingredients to water, mix to combine and leave alone for 10 minutes to allow flour to hydrolyze. This lets the water break the flour into its component sugars for the yeast to digest. <br />
-      4. Mix vigorously for 3 to 5 minutes. Mixing at this stage is more efficient than kneading after all the flour is incorporated. <br />
-      5. Add the rest of the dry ingredients slowly until all is incorporated into a dough ball. <br />
-      6. Add olive oil and knead in bowl for 3 to 5 minutes &#8211; while mixing was great for the first half of the flour, we still have to work the second half of the flour during this stage. <br />
-      7. Divide into 2 balls and place dough in plastic bags. Refrigerate for 24-72 hours. (Longer slow rise will yield a more flavorful dough).
-      <br /><br />
-    Sauce: <br />
-      8. Mix all sauce ingredients.
-    <br /><br />
-    Assembly:<br />
-      9. Remove dough from refrigerator at least 1 hour prior to cooking. <br />
-      10. Preheat oven with pizza stone on top shelf to 550 degrees (F) for at least 1 hour. <br />
-      11. Grate mozzarella and place in freezer while preparing dough. <br />
-      12. Stretch each dough ball to approximately 14 inches on floured pizza peel or cutting board (do not roll, the more bubbles in the dough, the better, be gentle).<br />
-      13. Top (sparingly) with sauce, too much and you will have a soggy pie. A ladle and a half is plenty. Shake peel/board to ensure dough is still loose from board.<br />
-      14. Remove cheese from freezer and sprinkle onto pies.<br />
-      15. Slide onto pizza stone in oven and cook for 5-7 minutes or until desired doneness is achieved.<br />
-      16. Thank me later.<br /><br />
-      Recipe and technique adapted from <a href="http://feelingfoodish.com/the-best-new-york-style-pizza-dough" target="_blank"/><u> feeling foodish </u></a> and <a href="http://www.varasanos.com/PizzaRecipe.htm" target="_blank"><u> Varasano&#8217;s</u></a>
-      
-      
-
-    </div>
-</div>
-
-</div>
-
-
-
-
-<script>
-    $( "#accordion" ).accordion({
-    collapsible: true,
-    active: false,
-    heightStyle: "content"
-});
 </script>
 
 ]]></content>
