@@ -8,3 +8,7 @@
 .ui-widget-content a:visited{color: #551A8B;}
 .ui-widget-content a:hover{color: #2d2d2d;}
 .ui-widget-content a:active{color: #0000FF;}
+
+.responsive { width: 320px; height: 50px; }
+@media(min-width: 400px) { .responsive { width: 468px; height: 40px; } }
+@media(min-width: 768px) { .responsive { width: 728px; height: 90px; } }
