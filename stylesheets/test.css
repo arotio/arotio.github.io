@@ -1,1 +1,10 @@
 .ui-state-default {background:#978267;border: 1px solid #ffffff; color: white}
+
+.ui-accordion-content a{color: #0000EE;}
+.ui-accordion-content a:visited{color: #551A8B;}
+.ui-accordion-content a:hover{color: #2d2d2d;}
+.ui-accordion-content a:active{color: #0000FF;}
+.ui-widget-content a{color: #0000EE;}
+.ui-widget-content a:visited{color: #551A8B;}
+.ui-widget-content a:hover{color: #2d2d2d;}
+.ui-widget-content a:active{color: #0000FF;}
