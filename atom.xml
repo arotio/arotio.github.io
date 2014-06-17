@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-06-14T15:52:41-05:00</updated>
+  <updated>2014-06-17T05:24:53-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,149 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Coconut Shrimp]]></title>
+    <link href="http://rotiofood.com/blog/2014/06/17/coconut-shrimp/"/>
+    <updated>2014-06-17T06:44:37-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/06/17/coconut-shrimp</id>
+    <content type="html"><![CDATA[<!-- more -->
+<img src="http://rotio.net/rotiofood/2014-06-17/plated_tight.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a>
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+<h3><b>Story</b> </h3>
+ <div>
+	<p><img src="http://rotio.net/rotiofood/2014-06-17/plated_two.jpg"/><br/>Sometime last week, coconut shrimp popped up on one of the cooking shows that happened to be on in the background while we were working. To my surprise, Katie said aloud, &#8220;I love coconut shrimp!&#8221; This was a dish I had completely forgotten about but was determined to try again - they are delicious when they come out right, relatively easy to prepare, and, apparently, one of Katie&#8217;s favorites. Mom used to make great coconut shrimp when we were kids, so I dug into the old memory bank and got to work.</p>  
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Coconut Shrimp</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-06-17 06:44:37 -0500 itemprop="datePublished">
+    June 17, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-17/plated_tight.jpg" />
+  
+  <br /><span itemprop="description">Coconut shrimp with sriracha molasses over pickled cucumber and grapefruit</span><br />
+
+  <br />Prep time: <time datetime="PT0H20M" itemprop="prepTime">20m</time>
+  <br />Cook time: <time datetime="PT0H5M" itemprop="cookTime">5m</time>
+  <br />Total time: <time datetime="PT0H25M" itemprop="totalTime">25m</time>
+  <br />Yield: <span itemprop="recipeYield">2 servings</span>
+  <br /><h4>Equipment:</h4>
+  Deep Fryer
+	<ul>  
+		<li><a href="http://www.amazon.com/gp/product/B005FYF7XQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FYF7XQ&linkCode=as2&tag=rotiofood-20">Presto Deep Fryer (the one we use)</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rotiofood-20&l=as2&o=1&a=B005FYF7XQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
+   </ul>
+  Deep Skillet
+    <ul>  
+		<li><a href="http://www.amazon.com/gp/product/B00006JSUB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00006JSUB&linkCode=as2&tag=rotiofood-20">Lodge Pre-Seasoned Skillet, 12-Inch</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rotiofood-20&l=as2&o=1&a=B00006JSUB" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
+   </ul>
+  Probe Thermometer
+    <ul>  
+		<li><a href="http://www.amazon.com/gp/product/B0019R4HQQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0019R4HQQ&linkCode=as2&tag=rotiofood-20">Probe Thermometer (the one we use)</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rotiofood-20&l=as2&o=1&a=B0019R4HQQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
+   </ul>
+  <br />
+  
+ <h4>Ingredients:</h4>
+ <h4>Shrimp</h4>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Large Shrimp</span>: 
+      <span itemprop="amount">10</span>, peeled and deveined
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">egg white</span>: 
+      <span itemprop="amount">2</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">flour</span>:
+      <span itemprop="amount">1 c</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">salt</span>:
+      <span itemprop="amount">1 tbsp</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">black pepper</span>:
+      <span itemprop="amount">1 tbsp</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">shredded unsweetened coconut</span>:
+      <span itemprop="amount">1 c</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">canola oil</span>:
+      <span itemprop="amount">enough to fill deep fryer or 1 inch in skillet</span>
+    </span><br /><br/>
+  <h4>Salad</h4>
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">cucumber</span>: 
+      <span itemprop="amount">1/2</span>, sliced into thin coins
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">lime juice</span>: 
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">salt</span>: 
+      <span itemprop="amount">1 tbsp</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">dill</span>: 
+      <span itemprop="amount">1 tbsp</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">garlic</span>: 
+      <span itemprop="amount">1 clove, minced</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">grapefruit</span>: 
+      <span itemprop="amount">2 cross-sections</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">black pepper</span>: 
+      <span itemprop="amount">pinch</span>
+    </span><br />
+  <h4>Sauce</h4>
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">molasses</span>: 
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">sriracha</span>: 
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Budweiser</span>: 
+      <span itemprop="amount">splash</span>
+    </span><br />
+  <br /><h4>Directions:</h4>
+	
+    <div itemprop="recipeInstructions">
+	  1. Combine all salad ingredients except pepper and grapefruit. Stir and allow to sit while you prepare shrimp.<br />
+	  2. Preheat oil in deep fryer or cast iron skillet to 350 degrees F. If you&#8217;re using a skillet use a thermometer to avoid a grease fire. The one we recommend above is less than 20 bucks and has more than paid for itself, we use it for everything from meats to poaching eggs. <br />
+	  3. Combine flour, salt, and black pepper.<br />
+	  4. Beat egg whites until thick and foamy but before peaks start to form. <br />
+	  5. Whisk together sauce ingredients<br />
+	  6. Slice grapefruit - if you think of the grapefruit as the Earth, we&#8217;re looking to slice through the equator and through another latitude to get a nice, round cross-section. Top with pinch of black pepper.<br />
+	  7. Dredge shrimp in flour mixture, coat in egg whites, cover with coconut on all sides. <br />
+	  8. Fry shrimp for 2 minutes on each side or until golden brown. Remove from oil and place on paper towels, salt immediately.<br />
+	  9. To plate: drizzle plate with sauce, place grapefruit in center of plate. With pickles, slice a radius and form cones (think little kid birthday hat or making a funnel). Place several of these on grapefruit. Plate shrimp. Enjoy<br />
+	 
+	 </div>
+	<br />
+	</div>
+
+</div>
+
+<script>
+    $( "#accordion" ).accordion({
+	collapsible: true,
+	active: false,
+	heightStyle: "content"});
+</script>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Garlic Shoot Pizza]]></title>
@@ -2148,127 +2291,6 @@
       11. Plate, garnish with basil leaves and enjoy.<br />
     </div>
     </div>
-
-</div>
-
-
-
-
-<script>
-    $( "#accordion" ).accordion({
-    collapsible: true,
-    active: false,
-    heightStyle: "content"});
-</script>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[budweiser wings]]></title>
-    <link href="http://rotiofood.com/blog/2014/02/02/budweiser-wings/"/>
-    <updated>2014-02-02T09:15:50-06:00</updated>
-    <id>http://rotiofood.com/blog/2014/02/02/budweiser-wings</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p><img src="http://rotio.net/rotiofood/2014-02-02/wings_plated_tv.jpg">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
-
-<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
-
-<h3><b>Story</b></h3>
-  <div>
-    <p>
-    
-    Wings and Budweiser. Do we really need much more of a story than that? Generally I&#8217;d say no, but we had a trial by fire experience that I think it would be good to share for safety&#8217;s sake. We had some friends over last night, had the wings going in the oven after the parboil (you&#8217;ll find out about that part below), and the apartment began to fill with smoke. I opened the oven and was met a grease fire &#8211; so this is trial by fire in the most literal sense. I dove in, potholder first and pulled out the flaming pan, set it down on the stove and got it to go out, switched to a throwaway aluminum pan instead of a cookie sheet wrapped with foil and we were back in business. Hopefully by us going through that, no one else has to to enjoy these delicious wings infused with Budweiser.
-    </p>
-  </div>
-<h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://schema.org/Recipe" >
-  <h3 itemprop="name">Budweiser Baked Wings</h3>
-  <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-02-02 09:15:50 -0600 itemprop="datePublished">
-    February 2, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-02/wings_in_pan.jpg" />
-  
-  <br /><span itemprop="description">Wings infused with Budweiser topped with some HOT sauce.</span><br />
-  <span itemprop="review" itemscope itemtype="http://schema.org/Review-aggregate" hidden>
-    <span itemprop="rating" hidden>5.0</span> 
-    <span itemprop="count" hidden>2</span> reviews </span>
-  <br />Prep time (including brine): <time datetime="PT6H" itemprop="prepTime">6h</time>
-  <br />Cook time: <time datetime="PT1h" itemprop="cookTime">1h</time>
-  <br />Total time: <time datetime="PT7H" itemprop="totalTime">7h</time>
-  <br />Yield: <span itemprop="recipeYield">6 lbs </span>
-  <span itemprop="nutrition" itemscope itemtype="http://schema.org/Nutrition" hidden>
-    Serving size: <span itemprop="servingSize">Half recipe</span>
-    Calories per serving: <span itemprop="calories">500</span>
-    Fat per serving: <span itemprop="fat">5g</span>
-  </span><br />
-  <br /><h4>Equipment:</h4>
-  Throw away alumninum pan or other pan with sides 
-  <br /> <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Chicken wings</span>:
-      <span itemprop="amount">6 lbs</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Thyme</span>:
-      <span itemprop="amount">2 T</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Salt</span>:
-      <span itemprop="amount">1/2 c</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Garlic Powder</span>:
-      <span itemprop="amount">1/4 c</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Budweiser</span>:
-      <span itemprop="amount">8</span> (plus a few to drink)
-    </span><br />
-    <br />
-    Sauce:<br />
-    
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Chilula Chili Garlic Sauce</span>:
-      <span itemprop="amount">4 T</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Agave or Honey</span>:
-      <span itemprop="amount">4 T</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Butter</span>:
-      <span itemprop="amount">2 T</span> (melted) 
-    </span><br />
-    
-  <br /><h4>Directions:</h4>
-    
-    <div itemprop="recipeInstructions">
-    Brine:<br />
-      1. Create a brine by mixing salt, garlic powder, and thyme into enough water to cover wings. <br />
-      2. Brine chicken in refrigerator for 6 to 12 hours &#8211; if you don&#8217;t have space in your fridge, just add ice every hour or so to maintain temperature. <br />
-      3. Remove chicken from brine. <br />
-      <br /><br />
-    Cook:<br />
-      4. Preheat oven to 450 F<br />
-      5. Bring Budweiser to a boil in a pot large enough to fit the beer plus your wings. I know it&#8217;s hard to dump the Budweiser into a pot instead of drinking them but that&#8217;s why the recipe calls for a few extra to dirnk. Now&#8217;s a good time to pour one of those for yourself if you haven&#8217;t yet.<br />
-      6. Boil wings for 8 minutes, turning regularly to ensure even cooking. <br />
-      7. Remove from pot and dry thoroughly. Place in sprayed throwaway aluminum pan or other pan with high edges. Once that fat starts rendering in the oven, you don&#8217;t want the drippings going everywhere and lighting on fire like mine did. A wire rack in a pan with high edges is even better. <br />
-      8. Bake for 40 minutes or until wings are very crispy. Flip the wings once at about 30 minutes to ensure even crisping. <br />
-     <br />
-    Sauce: <br />
-      9. Make your favorite sauce. The best one we&#8217;ve used is Chili Garlic Sauce, Agave, and Butter (amounts listed above). The one in the photo is Sriracha and Honey. Be careful with the ratios and taste before you add to the wings to ensure your heat level is where you want it.<br />
-      10. Toss wings in sauce and serve with a Budweiser.
-    
-      
-      
-      
-
-    </div>
-</div>
 
 </div>
 
