@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-06-17T05:24:53-05:00</updated>
+  <updated>2014-06-19T20:39:14-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,132 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sourdough Garlic Knots]]></title>
+    <link href="http://rotiofood.com/blog/2014/06/19/sourdought-garlic-knots/"/>
+    <updated>2014-06-19T21:44:37-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/06/19/sourdought-garlic-knots</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-06-19/final_top_far_wb.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+<h3><b>Story</b> </h3>
+ <div>
+    <p><img src="http://rotio.net/rotiofood/2014-06-19/knot.gif"/><br/>Ah the humble garlic knot. These are a sure-to-find on the menu of any good pizza place. The concept is simple and they&#8217;re simple to make once you have the pizza dough. You start with the dough, tie a knot, bake it, toss it in some garlic, butter, oil, and salt - and that&#8217;s it, you&#8217;re done&#8230; Bread, butter, and garlic &#8211; what else do you need. I never started ordering garlic knots regularly until sophomore year of college. We found a pizza place in Harvard Square that served $5 pitchers of beer, which, for Cambridge, was one hell of a deal. The roommates and I partook often. The caveat was that you had to order food to be able to drink. No one wanted to spend 15 bucks on a pie so we defaulted to the cheapest item on the menu: garlic knots. Tasting these brought me right back to that little &#8220;Crazy Dough&#8217;s&#8221; restaurant, up the escalator, in &#8220;The Garage.&#8221;<br/><br/><img src="http://rotio.net/rotiofood/2014-06-19/final_wb.jpg"/></p>  
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Sourdough Garlic Knots</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-06-19 21:44:37 -0500 itemprop="datePublished">
+    June 19, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-19/final_top_far_wb.jpg" />
+  
+  <br /><span itemprop="description">Garlic knots made from Budweiser sourdough starter</span><br />
+
+  <br />Prep time: <time datetime="PT24H20M" itemprop="prepTime">1 day (for dough) + 20m</time>
+  <br />Cook time: <time datetime="PT0H5M" itemprop="cookTime">5m</time>
+  <br />Total time: <time datetime="PT0H25M" itemprop="totalTime">25m</time>
+  <br />Yield: <span itemprop="recipeYield">10 knots</span>
+  <br /><h4>Equipment:</h4>
+  Pizza Stone
+    <ul>  
+        <li><a href="http://www.amazon.com/gp/product/B0000E1FDA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000E1FDA&linkCode=as2&tag=rotiofood-20">Large Square Stone</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rotiofood-20&l=as2&o=1&a=B0000E1FDA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
+    
+        <br/>
+        <li><a href="http://www.amazon.com/gp/product/B006JIGM5O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006JIGM5O&linkCode=as2&tag=rotiofood-20">Large Round Stone</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rotiofood-20&l=as2&o=1&a=B006JIGM5O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
+    </ul>
+  Kitchen Scale (essential for consistency when baking)
+    <ul>  
+        <li><a href="http://www.amazon.com/gp/product/B00FE8QXT0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FE8QXT0&linkCode=as2&tag=rotiofood-20&linkId=XEQR6LBLV2J7I4LH">Thin Kitchen Scale</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rotiofood-20&l=as2&o=1&a=B00FE8QXT0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
+    </ul>
+  <br />
+  <br/>
+ <h4>Ingredients:</h4>
+ <h4>Buddy Jersey Pizza Dough</h4>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <a href="http://www.rotiofood.com/buddy/"><span itemprop="name">Buddy</span>:</a> 
+      <span itemprop="amount">80g</span>
+    </span><br />
+     <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Active Dry Yeast</span>:
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">water</span>: 
+      <span itemprop="amount">300g</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">flour</span>:
+      <span itemprop="amount">450g</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">salt</span>:
+      <span itemprop="amount">2 tbsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">olive oil</span>:
+      <span itemprop="amount">1 tbsp</span>
+    </span><br />
+    
+  <h4>Garlic Butter</h4>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Garlic</span>: 
+      <span itemprop="amount">2 cloves</span>, minced
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Butter</span>: 
+      <span itemprop="amount">2 tbsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Olive Oil</span>: 
+      <span itemprop="amount">1 tbsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Salt</span>: 
+      <span itemprop="amount">1 tbsp</span>
+    </span><br />
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="recipeInstructions">
+      1. Combine water, buddy, oil, and yeast in a large bowl. Add salt. Slowly alternate adding flour and mixing until dough forms a ball. Continue adding flour until you have formed a ball that is soft but not sticky. Turn out onto floured board and knead with floured hands for 10 minutes (or use dough hook on machine at lowest setting for 5 minutes).<br />
+      2. Coat dough in olive oil, place in bowl, cover with plastic wrap and refrigerate overnight. <br />
+      3. Remove dough from fridge 1 hour before you are ready to begin cooking.<br />
+      4. Place stone on top rack and preheat oven to broil (also one hour before cook time). <br />
+      5. Gently stretch dough by hand into a the best pizza you can make, use as much flour as you need (mine came out like an ugly egg).<br />
+      6. Using a pizza cutter or floured sharp knife, cut 4in by 2in strips or as close to those measurements as possible.<br />
+      7. Flour a strip and stretch to about 8 inches. Tie a knot in dough (see gif below for demo). Tuck ends back into knot. Repeat for all strips<br />
+      8. Place all sauce ingredients into microwave safe bowl, cover and microwave for 2-3 minutes.<br />
+      9. Place knots on stone. Check in 3 minutes. If golden brown, remove from oven - if not, check again every minute until they are.<br />
+      10. Toss with garlic butter and enjoy.<br /><br/>
+      Note: If you have a favorite pizza dough, you can definitely start with that to save yourself some time. I encourage you to try the homemade sourdough, though - it is worth the time investment.<br />
+     
+     </div>
+     
+    <br />
+    <img src="http://rotio.net/rotiofood/2014-06-19/knot.gif"/><br/>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Coconut Shrimp]]></title>
@@ -2172,123 +2298,6 @@
       4. Popping will begin about 2 minutes in. Don&#8217;t touch until pops are at least two seconds apart (listen closely). <br />
       5. Give pan a quick shake, remove from heat, and dump into serving bowl.<br />
       6. Toss with salt and serve immediately.<br />
-    </div>
-    </div>
-
-</div>
-
-
-
-
-<script>
-    $( "#accordion" ).accordion({
-    collapsible: true,
-    active: false,
-    heightStyle: "content"});
-</script>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[basil risotto]]></title>
-    <link href="http://rotiofood.com/blog/2014/02/05/chicken-sausage-risotto/"/>
-    <updated>2014-02-05T09:15:50-06:00</updated>
-    <id>http://rotiofood.com/blog/2014/02/05/chicken-sausage-risotto</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p><img src="http://rotio.net/rotiofood/2014-02-05/risotto_plated_top.jpg">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
-
-<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
-
-<h3><b>Story</b></h3>
-  <div>
-    <p>
-    I got home last night, opened the fridge, and the options were limited. Chicken sausage stuck out as the main protein that we had on hand. That usually gets eaten with some Brussels&#8217; sprouts and pasta but we were out of Brussels&#8217; and two pots (one for pasta and one for some sort of sauce) seemed too daunting so I decided to go the Risotto route. We had some fresh basil that needed to be used, a tomato, some white wine that was about to turn into vinegar, and tons of garlic so I grabbed all of that and set to work. Risotto is a nice &#8220;one pan&#8221; vehicle when you have some ingredients that seem like they go together but you just need something to bind them. This version was very tasty.
-    </p>
-  </div>
-<h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://schema.org/Recipe" >
-  <h3 itemprop="name">Chicken Sausage Risotto with Basil</h3>
-  <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-02-05 09:15:50 -0600 itemprop="datePublished">
-    February 5, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-05/risotto_plated.jpg" />
-  
-  <br /><span itemprop="description">Risotto with chicken sausage, basil, garlic, and tomato.</span><br />
-
-  <br />Prep time: <time datetime="PT5M" itemprop="prepTime">5m</time>
-  <br />Cook time: <time datetime="PT30M" itemprop="cookTime">30m</time>
-  <br />Total time: <time datetime="PT35M" itemprop="totalTime">35m</time>
-  <br />Yield: <span itemprop="recipeYield">2 servings </span>
-  
-  <br />
-  <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Chicken Sausage</span>:
-      <span itemprop="amount">2 links</span> (cooked and sliced)
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Tomato</span>:
-      <span itemprop="amount">1</span>, chopped
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Garlic</span>:
-      <span itemprop="amount">4 cloves</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Basil</span>:
-      <span itemprop="amount">large bunch</span>, roughly chopped 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Kosher Salt</span>:
-      <span itemprop="amount">1 T</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">White wine</span>:
-      <span itemprop="amount">1 c</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Chicken Stock</span>:
-      <span itemprop="amount">2 c</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Water</span>:
-      <span itemprop="amount">4 c</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Arborio Rice</span>:
-      <span itemprop="amount">1/2 c</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Extra Virgin Olive Oil</span>:
-      <span itemprop="amount">2 T</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Crushed Red Pepper</span>:
-      <span itemprop="amount">to taste</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Oregano</span>:
-      <span itemprop="amount">to taste</span> 
-    </span><br />
-    
-  <br /><h4>Directions:</h4>
-    
-    <div itemprop="recipeInstructions">
-      1. Smash garlic cloves with side of knife and roughly chop. <br />
-      2. Using salt as an abrasive, smash garlic into fine paste. <br />
-      3. Heat olive oil on medium heat. <br />
-      4. Add chicken sausage, tomato and garlic and saute until tomato breaks down into sauce, about 5 minutes<br />
-      5. Add white wine and half of chicken stock while, stirring constantly.<br />
-      6. After two minutes, add rice and stir constantly.<br />
-      7. When most of the liquid has cooked out and rice begins to stick, add second half of chicken stock and continue stirring.<br />
-      8. When rice begins to stick again, add a cup of water. <br />
-      9. Continue repeating step 8, tasting every time to gauge when rice has almost reached the desired mouthfeel.<br />
-      10. When rice is aldente, add chopped basil and season to taste with crushed red pepper, oregano, and salt.<br />
-      11. Plate, garnish with basil leaves and enjoy.<br />
     </div>
     </div>
 
