@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-06-21T11:14:56-05:00</updated>
+  <updated>2014-06-29T18:59:59-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,124 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Maple Cheddar Biscuits]]></title>
+    <link href="http://rotiofood.com/blog/2014/06/29/maple-cheddar-biscuits/"/>
+    <updated>2014-06-29T21:44:37-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/06/29/maple-cheddar-biscuits</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://rotio.net/rotiofood/2014-06-29/biscuit_2.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+<h3><b>Story</b> </h3>
+ <div>
+    <p><img src="http://rotio.net/rotiofood/2014-06-29/biscuit.gif"/><br/>You&#8217;ve had them out to dinner before: flaky, tender, buttery cheddar biscuits. Making anything bread-like seems intimidating at first but I&#8217;ll tell you a secret - biscuits are quick and easy. We needed an excuse to have them for breakfast so we added some maple syrup. A touch of some smoked chipotle powder put these over the top. These were like Cheddar Bay Biscuits on steroids&#8230; for breakfast. We used some whole wheat flour in place of half of the all purpose flour, whole wheat flour tends to make things a bit chewier which helped get the right consistency in these - but you can definitely use all AP flour. Feel free to use cayenne in place of the chipotle powder, or leave it out completely - it just adds a little extra kick if you choose to add it. While I put these together, Katie made an omelette with pancetta and provolone. Great meal to start off the weekend that kept us full til dinner time. <br/><br/><img src="http://rotio.net/rotiofood/2014-06-29/biscuit_omelette.jpg"/></p>  
+  </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Maple Cheddar Biscuits</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-06-29 21:44:37 -0500 itemprop="datePublished">
+    June 29, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-29/biscuit_2.jpg" />
+  
+  <br /><span itemprop="description">Maple cheddar biscuits with a hint a chipotle.</span><br />
+
+  <br />Prep time: <time datetime="PT0H10M" itemprop="prepTime">10m</time>
+  <br />Cook time: <time datetime="PT0H10M" itemprop="cookTime">10m</time>
+  <br />Total time: <time datetime="PT0H20M" itemprop="totalTime">20m</time>
+  <br />Yield: <span itemprop="recipeYield">4 large biscuits</span>
+
+  <br/>
+ <h4>Ingredients:</h4>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">AP Flour</span>:
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+     <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Whole Wheat Flour</span>:
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Baking Powder</span>: 
+      <span itemprop="amount">1 tbsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Garlic Powder</span>: 
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Salt</span>: 
+      <span itemprop="amount">1/2 tsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Smoked Chipotle Powder</span>: 
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Butter</span>: 
+      <span itemprop="amount">1/4 c</span>, cubed and chilled
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Maple Syrup</span>: 
+      <span itemprop="amount">1 tbsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Buttermilk</span>: 
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Shredded Cheddar Cheese</span>: 
+      <span itemprop="amount">3/4 c</span>
+    </span><br />
+  <h4>Topping</h4>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Butter</span>: 
+      <span itemprop="amount">1 tbsp</span>, melted
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Garlic</span>: 
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+    
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="recipeInstructions">
+      1. Preheat oven to 425 F.<br />
+      2. In a large bowl, mix first 6 ingredients. <br />
+      3. Add butter to bowl. Using your fingers pinch butter into flour until it looks crumbly, like below. This will allow the butter to melt and leave layers in the biscuits, creating the flakiness that we&#8217;re after:<br /><img src="http://rotio.net/rotiofood/2014-06-29/biscuit_butter.jpg"/><br/>
+      4. Whisk together buttermilk and maple syrup. If you don&#8217;t have buttermilk on hand, drop a teaspoon of vinegar into milk and let sit for 5 minutes for a buttermilk replacement.<br />
+      5. Mix wet into dry ingredients. Fold in cheese. Consistency should be sticky but should also hold shape when you roll into a ball. If too wet, add flour.<br />
+      6. Grease a pan or cover in parchment paper. Drop four equal sized balls of the mix onto the sheet.<br />
+      7. Bake for 10 minutes or until golden brown, mix topping together and brush onto the biscuits. Enjoy.<br />
+    <br/>
+     </div>
+     
+    <br />
+    <img src="http://rotio.net/rotiofood/2014-06-29/biscuit_omelette.jpg" /><br/><br/>
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Gluten-Free Cheesesteak]]></title>
@@ -2259,126 +2377,6 @@
       12. If desired, top with cheese and broil for 5 minutes.<br />
       <br /> <br />
       This recipe was adapted from recipes by Michael Chiarello and Mario Batali of the Food Network.
-    </div>
-    </div>
-
-</div>
-
-
-
-
-<script>
-    $( "#accordion" ).accordion({
-    collapsible: true,
-    active: false,
-    heightStyle: "content"});
-</script>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[raw surf and turf]]></title>
-    <link href="http://rotiofood.com/blog/2014/02/09/raw-surf-and-turf/"/>
-    <updated>2014-02-09T05:15:50-06:00</updated>
-    <id>http://rotiofood.com/blog/2014/02/09/raw-surf-and-turf</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p><img src="http://rotio.net/rotiofood/2014-02-09/surf_turf_rolled.jpg">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
-
-<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
-
-<h3><b>Story</b></h3>
-  <div>
-    
-    <p>
-    Beef Carpaccio: raw beef tenderloin flattened and served with salt pepper and olive oil. There&#8217;s something about gnawing on raw beef that just feels so satisfyingly primal. It reminds me of one winter when pops brought home a buck and my brother, LJ, and I helped him break it down. We had a fire going to stay warm while we worked. LJ and I decided to take advantage of the heat and started roasting and eating some of the venison we were cutting. It was delicious &#8211; I ended up passing out ten minutes later from the combination of the smell of blood and the history lesson my brother was giving about Mayan sacrifices &#8211; but that&#8217;s beside the point. Red meat, as close to nature as possible, is always the best. Period. Hands down.<br/><br/>
-    The same can be said for fish. The most delicious fish I&#8217;ve tasted has tended to be raw or close to it. The flavors and smells of really fresh fish are the antithesis of that rotting &#8220;fishy&#8221; smell that can drive so many people away from fish. Tuna tartare is simple: some fresh raw tuna, diced with acid, oil, salt, and any other desired flavors. <br /> <br />
-    We decided to take these two simple interpretations of surf and turf and see if we could get them to harmonize. As &#8220;fancy&#8221; as this might look it&#8217;s really simple to prepare. Enjoy.
-    </p>
-  </div>
-<h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://schema.org/Recipe" >
-  <h3 itemprop="name">Raw Surf and Turf</h3>
-  <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-02-09 05:15:50 -0600 itemprop="datePublished">
-    February 9, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-09/surf_turf_open.jpg" />
-  
-  <br /><span itemprop="description">Tuna Tartare and Beef Carpaccio with crispy shallots.</span><br />
-
-  <br />Prep time: <time datetime="PT2H30M" itemprop="prepTime">2h 30m</time> (including 2 hours of freezer time)
-  <br />Cook time: <time datetime="PT0M" itemprop="cookTime">2m</time> (everything&#8217;s raw but the shallots!)
-  <br />Total time: <time datetime="PT2H30M" itemprop="totalTime">2h 30m</time>
-  <br />Yield: <span itemprop="recipeYield">2 servings </span>
-  
-  <br />
-  <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Beef Tenderloin</span> (as fresh as possible): 
-      <span itemprop="amount">1/3 lb</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Albacore or Yellowfin Tuna</span> (as fresh as possible):
-      <span itemprop="amount">1/4 lb</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Kosher Salt</span>:
-      <span itemprop="amount">to taste</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Sesame Seeds</span>:
-      <span itemprop="amount">1 tsp</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Serrano or Jalape&#241;o Pepper</span>:
-      <span itemprop="amount">1/8 pepper</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Sesame Oil</span>:
-      <span itemprop="amount">1/2 tsp</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Lime</span>:
-      <span itemprop="amount">1/4</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Shallot</span>:
-      <span itemprop="amount">1/2 large</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Canola Oil</span>:
-      <span itemprop="amount">2 T</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Chives</span>:
-      <span itemprop="amount">small bunch</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Mayo</span>:
-      <span itemprop="amount">1 T</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Sriracha</span>:
-      <span itemprop="amount">1 tsp</span>
-    </span><br />
-    
-  <br /><h4>Directions:</h4>
-    
-    <div itemprop="recipeInstructions">
-      1. Place beef in freezer for two hours.<br />
-      2. Combine mayo and sriracha, reserve for later. <br />
-      3. Remove beef from freezer. Slice as thin as possible to create large flat disks. <br />
-      4. Place beef disks between plastic wrap and pound until paper thin but not separating at the fat seams (these will be pretty delicate so be careful). Place beef sheets back in freezer between plastic wrap. <br />
-      5. Finely chop shallots and fry in canola oil on high heat. Remove as soon as they reach a dark brown and place on paper towel to absorb oil. <br />
-      6. Carefully chop tuna into quarter inch cubes - try to handle these as little as possible, you are looking for cubes not mush and they break down pretty easily. <br />
-      7. Chop chile pepper and half of chives very finely. Combine these with tuna, shallots, juice from the lime, sesame oil, salt, sesame seeds. Taste this and adjust flavors to your liking.<br />
-      8. Remove beef sheets from freezer. Place a chive onto your working area. Top this with a sheet of beef. Spoon about a tablespoon of the tuna mixture into the center of the beef. <br />
-      9. You have two options here, you can garnish with spicy mayo and sesame seeds and serve open like the photo in the recipe, or you can roll and tie with the chive like those seen at the top of the page. <br />
     </div>
     </div>
 
