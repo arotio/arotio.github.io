@@ -4,7 +4,7 @@
   <title><![CDATA[Category: buddy | rotio/food]]></title>
   <link href="http://rotiofood.com/blog/categories/buddy/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-07-14T07:19:32-05:00</updated>
+  <updated>2014-07-20T10:15:34-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,92 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bacon Blue Burger]]></title>
+    <link href="http://rotiofood.com/blog/2014/07/20/bacon-blue-burger/"/>
+    <updated>2014-07-20T06:30:37-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/07/20/bacon-blue-burger</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img class="<a" src="href="http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_1.jpg">http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_1.jpg</a>">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none"></a></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+<h3><b>Story</b> </h3>
+ <div>
+    <p>
+    <img src="http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_2.jpg"/>In our quest for the perfect burger, the classic bacon blue cheese burger had to make an appearance. It took me about 20 years to finally get to the place where I could honestly say that I enjoy blue cheese - either that or enough taste buds have died that I can no longer taste what I didn't like about it. Blue cheese on a cracker with something sweet is great, Uncle John and Aunt Patti have a killer gorgonzola sauce that they serve with prime rib every Christmas Eve, buffalo anything with blue cheese keeps me coming back for more. I'm still a classicist when it comes to burgers, though - I usually like American cheese or cheddar, some sauteed onions, and ketchup with the beef served practically still Mooing. Bacon is a nice bonus. Bacon blue cheese is a nice change-up though and it's one of Katie's favorites so we whipped one up while testing our new <a target="_blank" href="http://www.rotiofood.com/blog/2014/07/15/sourdough-hamburger-buns/">sourdough hamburger buns</a>.
+
+    </p> 
+ </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Sourdough Hamburger Buns</h3>
+  <span itemprop="author"> </span>
+  <br />Published: <time datetime= itemprop="datePublished">
+    July 15, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_1.jpg" />
+  
+  <br /><span itemprop="description">Category: buddy</span><br />
+
+  <br />Prep time: <time datetime="PT0H10M" itemprop="prepTime">10m</time>
+  <br />Cook time: <time datetime="PT0H8M" itemprop="cookTime">8m</time>
+  <br />Total time: <time datetime="PT0H25M" itemprop="totalTime">18m</time>
+  <br />Yield: <span itemprop="recipeYield">1 burger</span>
+  
+  <br/>
+ <h4>Ingredients:</h4>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name"><a href="http://www.rotiofood.com/blog/2014/07/15/sourdough-hamburger-buns/">Budweiser Sourdough Hamburger Bun</a></span>: 
+      <span itemprop="amount">1</span> (350g)
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">ground beef</span>: 
+      <span itemprop="amount">1/4 lb</span>, (80/20 lean/fat gives a good level of juiciness while not being overkill on the fat)
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">blue cheese</span>: 
+      <span itemprop="amount">enough to top</span>, (softer blue like gorgonzola or an older stilton melts nicely)
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">bacon</span>: 
+      <span itemprop="amount">1 strip</span>, cooked and halved
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">ketchup</span>: 
+      <span itemprop="amount">2 tbl</span>, (optional)
+    </span><br />
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="recipeInstructions">
+    1. Form ground beef into patty. Make center of patty thinner than edges because middle tends to puff up. <br/>
+    2. Preheat grill on high for at least 10 minutes, lid closed.<br/>
+    3. Grill beef (open lid) for 3-4 minutes on each side for the lower end of medium rare. Longer if you like it overdone.<br/>
+    4. Top with blue cheese and close lid for a minute or two to soften cheese.<br/>
+    5. Place on split bun (toast if desired), top with bacon and ketchup, and enjoy.<br/></div>
+     <br/> 
+     <br />
+    </div>
+
+</div>
+
+
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sourdough Hamburger Buns]]></title>
@@ -423,98 +509,6 @@ Like I said, most "mothers" begin with just water and flour. Sometimes random ju
     <img src="http://rotio.net/rotiofood/2014-06-11/ogden.jpg">
     <br/>
     We paired this pie with The Ogden from Goose Island. The Ogden is a bold, sweet, malty Tripel with a fresh black currant, citrusy aroma of Brewers Gold and Citra hops. The sweetness of the malt is very nice to cut through the spicy garlic shoots and tangy goat cheese. The aromatic yet muted-spice hop combination pick up and amplify the chili oil but also provide freshness to the dish. Oh and the Ogden is 9% and lightly carbonated. It will give you a nice buzz.. and if not careful it will put you to bed. Enjoy as often as responsibly possible. It definitely just landed itself in my top 5...
-    </div>
-</div>
-
-
-
-
-<script>
-    $( "#accordion" ).accordion({
-    collapsible: true,
-    active: false,
-    heightStyle: "content"});
-</script>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Sourdough Margherita Pie]]></title>
-    <link href="http://rotiofood.com/blog/2014/06/12/margherita-pizza/"/>
-    <updated>2014-06-12T01:07:34-05:00</updated>
-    <id>http://rotiofood.com/blog/2014/06/12/margherita-pizza</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p><img class="<a" src="href="http://rotio.net/rotiofood/2014-06-11/pie1.jpg">http://rotio.net/rotiofood/2014-06-11/pie1.jpg</a>">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none"></a></p>
-
-<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
-<h3><b>Story</b> </h3>
- <div>
-    <p>We love pizza. We make it quite a bit. In our kitchen I haven't been able to nail a pizza with really good lift on the crust because we don't have a broiler in our gas oven... or so I thought! Katie pointed out that our broiler was beneath the oven, which is, apparently, pretty conventional but something I'd never had before. Tonight I threw the stone in there, pulled out some Buddy sourdough we had working and tried our classic Margherita. In honor of the World Cup starting today and the Budweiser sourdough crust, we paired this one with a Budweiser in the World Cup Aluminum Bottle. This pairing was on point.</p>  
-  </div>
-<h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://schema.org/Recipe" >
-  <h3 itemprop="name">Budweiser Sourdough Margherita Pizza</h3>
-  <span itemprop="author"> </span>
-  <br />Published: <time datetime= itemprop="datePublished">
-    June 12, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-11/pie1.jpg" />
-  
-  <br /><span itemprop="description">Budweiser sourdough margherita pizza</span><br />
-
-  <br />Prep time: <time datetime="PT0H10M" itemprop="prepTime">10m</time>
-  <br />Cook time: <time datetime="PT0H5M" itemprop="cookTime">5m</time>
-  <br />Total time: <time datetime="PT0H215M" itemprop="totalTime">15m</time>
-  <br />Yield: <span itemprop="recipeYield">1 pie</span>
-  
-  <br />
-  
- <h4>Ingredients:</h4>
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
-      <span itemprop="name">Buddy Neapolitan Pizza Dough</span>: 
-      <span itemprop="amount">1 serving</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
-      <span itemprop="name">San Marzano Tomatoes</span>: 
-      <span itemprop="amount">9oz</span> (1/3 of a 28oz can)
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
-      <span itemprop="name">Fresh Mozzarella</span>:
-      <span itemprop="amount">3oz</span>, thickly sliced
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
-      <span itemprop="name">Fresh Basil</span>:
-      <span itemprop="amount">6 leaves</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
-      <span itemprop="name">Salt</span>:
-      <span itemprop="amount">2 tsp</span>
-    </span><br />
-    
-    
-  <br /><h4>Directions:</h4>
-    
-    <div itemprop="recipeInstructions">
-      1. Remove dough from fridge at least one hour prior to preparing. Load pizza stone into oven/broiler and preheat to Broil or 550 F one hour before preparing.<br />
-      2. Flour peel or board with flour or corn meal.<br />
-      3. Crush tomatoes in a bowl with salt.<br />
-      4. Stretch dough slowly until it just begins to become translucent. <br />
-      5. Work quickly -- the less time on the board, the easier the pie will be to remove. Add sauce (be sparing or dough will get too soggy), basil, then mozzarella<br />
-      6. Transfer pie to stone and cook for 4-5 minutes or until crust is crisp. <br />
-     
-     </div>
-    <br />
-    </div>
-<h3><b>Pairing - Budweiser</b> </h3> 
-    <div>
-    <img src="http://rotio.net/rotiofood/2014-06-11/budweiser.jpg">
-    <br/>
-    We paired this pie with a Budweiser. Budweiser's biscuit note picks up the breadiness of the sourdough. The balanced maltiness amplifies the sweetness of the San Marzano tomatoes. Budweiser's crisp, clean finish (from using rice as an adjunct) helps cut the creaminess of the fresh mozz. Really nice combination and it is very cool to taste a hint of the Budweiser in the sourdough -- since that is all that Buddy has been drinking since January -- and then get the full punch of it in the glass.
     </div>
 </div>
 
