@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-07-21T19:22:32-05:00</updated>
+  <updated>2014-07-24T19:52:16-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,101 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Peanut Butter Bacon Burger]]></title>
+    <link href="http://rotiofood.com/blog/2014/07/24/pb-bacon-burger/"/>
+    <updated>2014-07-24T09:10:37-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/07/24/pb-bacon-burger</id>
+    <content type="html"><![CDATA[<!-- more -->
+<img src="http://rotio.net/rotiofood/2014-07-24/burger_2.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a>
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+<h3><b>Story</b> </h3>
+ <div>
+	<p>
+	Bacon-Honey Peanut Butter. That is one ingredient. Let that sink in for a second. Bacon. Honey. Peanut. Butter. While combining this with bananas on a sandwich was one of Elvis&#8217; favorites, we encountered this wonderful combination as a burger topping on <a target="_blank" href="http://pornburger.me">this beautiful burger blog</a>. The sweet and smoky combination provided a nice contrast to the umami of the burger/cheese and the tang of the <a target="_blank" href="http://www.rotiofood.com/blog/2014/07/15/sourdough-hamburger-buns/">Budweiser sourdough hamburger buns</a>. Even though peanut butter on a burger seemed crazy at first, after tasting I realized this was a combination I could get behind. The flavors balance really nicely. Enjoy ferociously but sparingly.
+
+	</p> 
+ </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Peanut Butter Bacon Burger</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-07-24 09:10:37 -0500 itemprop="datePublished">
+    July 24, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-07-24/burger_2.jpg" />
+  
+  <br /><span itemprop="description">Bacon Cheeseburger with Bacon-Honey Peanut Butter on Budweiser sourdough buns</span><br />
+
+  <br />Prep time: <time datetime="PT0H10M" itemprop="prepTime">15m</time>
+  <br />Cook time: <time datetime="PT0H8M" itemprop="cookTime">8m</time>
+  <br />Total time: <time datetime="PT0H25M" itemprop="totalTime">18m</time>
+  <br />Yield: <span itemprop="recipeYield">1 burger</span>
+  
+  <br/>
+ <h4>Ingredients:</h4>
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+	  <span itemprop="name"><a href="http://www.rotiofood.com/blog/2014/07/15/sourdough-hamburger-buns/">Budweiser Sourdough Hamburger Bun</a></span>: 
+	  <span itemprop="amount">1</span>
+	</span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+	  <span itemprop="name">ground beef</span>: 
+	  <span itemprop="amount">1/4 lb</span>, (80/20 lean/fat gives a good level of juiciness while not being overkill on the fat)
+	</span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+	  <span itemprop="name">American or cheddar cheese</span>: 
+	  <span itemprop="amount">one slice</span>
+	</span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+	  <span itemprop="name">bacon</span>: 
+	  <span itemprop="amount">1 strip</span>, cooked and halved
+	</span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+	  <span itemprop="name">bacon</span>: 
+	  <span itemprop="amount">1 strip</span>, cooked and crumbled
+	</span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+	  <span itemprop="name">peanut butter</span>: 
+	  <span itemprop="amount">2 tsp</span>
+	</span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+	  <span itemprop="name">honey</span>: 
+	  <span itemprop="amount">1/2 tsp</span>
+	</span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+	  <span itemprop="name">Budweiser</span>: 
+	  <span itemprop="amount">splash</span>
+	</span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+	  <span itemprop="name">black pepper</span>: 
+	  <span itemprop="amount">pinch</span>
+	</span><br />
+	
+  <br /><h4>Directions:</h4>
+	
+    <div itemprop="recipeInstructions">
+	1. Form ground beef into patty. Make center of patty thinner than edges because middle tends to puff up.<br/>
+	2. Preheat grill on high for at least 10 minutes, lid closed.<br/>
+	3. Grill beef (open lid) for 3-4 minutes on each side for the lower end of medium rare. Longer if you like it overdone.<br/>
+	4. Top with cheese and close lid for a minute to melt.<br/>
+	5. Combine last five ingredients. Microwave for 15 seconds to soften peanut butter and mix to incorporate well.<br/>
+	6. Place burger on split bun (toast if desired), top with bacon and peanut butter sauce, enjoy.<br/>
+	<br/> 
+	<br />
+	</div>
+
+</div>
+</div>
+<script>
+	$( "#accordion" ).accordion({
+	collapsible: true,
+	active: false,
+	heightStyle: "content"});
+</script>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sourdough Cinnamon Rolls]]></title>
@@ -137,10 +232,10 @@
  </div>
 <h3><b>Recipe</b> </h3> 
   <div itemscope itemtype="http://schema.org/Recipe" >
-  <h3 itemprop="name">Sourdough Hamburger Buns</h3>
+  <h3 itemprop="name">Bacon Blue Burger</h3>
   <span itemprop="author"> rotio</span>
   <br />Published: <time datetime=2014-07-20 06:30:37 -0500 itemprop="datePublished">
-    July 15, 2014</time>
+    July 20, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_1.jpg" />
   
   <br /><span itemprop="description">Bacon blue cheese burger on Budweiser sourdough buns</span><br />
@@ -154,7 +249,7 @@
  <h4>Ingredients:</h4>
     <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
       <span itemprop="name"><a href="http://www.rotiofood.com/blog/2014/07/15/sourdough-hamburger-buns/">Budweiser Sourdough Hamburger Bun</a></span>: 
-      <span itemprop="amount">1</span> (350g)
+      <span itemprop="amount">1</span>
     </span><br />
     <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
       <span itemprop="name">ground beef</span>: 
@@ -2277,119 +2372,6 @@ Like I said, most &#8220;mothers&#8221; begin with just water and flour. Sometim
 </script>
 
 
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[pi&ntilde;ape&ntilde;o chicken]]></title>
-    <link href="http://rotiofood.com/blog/2014/02/21/pinapeno-chicken/"/>
-    <updated>2014-02-21T10:59:50-06:00</updated>
-    <id>http://rotiofood.com/blog/2014/02/21/pinapeno-chicken</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p><img src="http://rotio.net/rotiofood/2014-02-21/chicken_close.jpg">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
-
-<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
-
-<h3><b>Story</b></h3>
-  <div>
-    <p>
-    Fancy food can be delicious.. it has its place &#8211; But nothing is better than what you grew up with. I&#8217;m talking about the things you grew up with in your home as a kid that mom made, the food Aunt Patti grilled on the deck that you ate with your first beer, the foods that you can smell that bring you right back to age 14 and a simpler time. These are the most important foods to me, and there are definitely a few that bring me back to that place. Barbecue chicken is certainly one of those foods. I smelled my jacket today, two days after making this chicken, and closing my eyes and taking that smell in brought me back and immediately lit up a smile on my face. We didn&#8217;t have any barbecue sauce so i made one up with pineapple and jalape&ntilde;o. The best foods are the ones you grew up with and the best barbecue sauce is the one you make with what you have in the house. Those are the most important things you can take from this post.</p>
-  </div>
-<h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://schema.org/Recipe" >
-  <h3 itemprop="name">Pi&ntilde;ape&ntilde;o Chicken</h3>
-  <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-02-21 10:59:50 -0600 itemprop="datePublished">
-    February 21, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-21/chicken_far.jpg" />
-  
-  <br /><span itemprop="description">Pineapple Jalape&ntilde;o Barbecue Chicken.</span><br />
-
-  <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
-  <br />Cook time: <time datetime="PT45M" itemprop="cookTime">45m</time>
-  <br />Total time: <time datetime="PT55M" itemprop="totalTime">55m</time>
-  <br />Yield: <span itemprop="recipeYield">2 servings</span>
-  
-  <br />
-  <br /><h4>Ingredients:</h4>
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Chicken Thighs and Legs</span>: 
-      <span itemprop="amount">3 lb</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Pineapple</span>:
-      <span itemprop="amount">1/4 c, diced</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Jalape&ntilde;o</span>:
-      <span itemprop="amount">1, diced</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Onion</span>:
-      <span itemprop="amount">1, chopped</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Garlic</span>:
-      <span itemprop="amount">2 cloves</span> (a very little bit)
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Ketchup</span>:
-      <span itemprop="amount">3/4 c</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Molasses</span>:
-      <span itemprop="amount">1/4 c</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Apple Cider Vinegar</span>:
-      <span itemprop="amount">1/4 c</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Budweiser</span>:
-      <span itemprop="amount">splash</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Cumin</span>:
-      <span itemprop="amount">1/4 tsp</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Salt</span>:
-      <span itemprop="amount">1/4 tsp</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Black Pepper</span>:
-      <span itemprop="amount">1/4 tsp</span>
-    </span><br />
-    
-  <br /><h4>Directions:</h4>
-    
-    <div itemprop="recipeInstructions">
-      1. Preheat grill (medium).<br />
-      2. Combine all non chicken ingredients in a saucepan and stew on low for 20 minutes.<br />
-      3. Blend ingredients from saucepan in blender, food processor or with immersion blender until smooth. <br />
-      4. Sear chicken on grill on each side for 10 minutes. <br />
-      5. Brush with BBQ sauce and cook for 5 minutes. <br />
-      6. Flip and repeat step 5 four times. <br />
-      7. Remove from grill and enjoy. <br />
-
-    </div>
-    </div>
-
-</div>
-
-
-
-
-<script>
-    $( "#accordion" ).accordion({
-    collapsible: true,
-    active: false,
-    heightStyle: "content"});
-</script>
 
 ]]></content>
   </entry>
