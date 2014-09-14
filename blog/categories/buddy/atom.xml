@@ -4,7 +4,7 @@
   <title><![CDATA[Category: buddy | rotio/food]]></title>
   <link href="http://rotiofood.com/blog/categories/buddy/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-07-24T19:52:16-05:00</updated>
+  <updated>2014-09-14T12:10:04-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -21,8 +21,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img class="<a" src="href="http://rotio.net/rotiofood/2014-07-24/burger_2.jpg">http://rotio.net/rotiofood/2014-07-24/burger_2.jpg</a>">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none"></a></p>
+<p>{% img <a href="http://rotio.net/rotiofood/2014-07-24/burger_2.jpg">http://rotio.net/rotiofood/2014-07-24/burger_2.jpg</a> %}
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 <h3><b>Story</b> </h3>
@@ -35,12 +35,12 @@
 <h3><b>Recipe</b> </h3> 
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Peanut Butter Bacon Burger</h3>
-  <span itemprop="author"> </span>
-  <br />Published: <time datetime= itemprop="datePublished">
+  <span itemprop="author"> {{page.author }}</span>
+  <br />Published: <time datetime={{page.date}} itemprop="datePublished">
     July 24, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-07-24/burger_2.jpg" />
   
-  <br /><span itemprop="description">Category: buddy</span><br />
+  <br /><span itemprop="description">{{page.description }}</span><br />
 
   <br />Prep time: <time datetime="PT0H10M" itemprop="prepTime">15m</time>
   <br />Cook time: <time datetime="PT0H8M" itemprop="cookTime">8m</time>
@@ -123,8 +123,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img class="<a" src="href="http://rotio.net/rotiofood/2014-07-21/rolls_1.jpg">http://rotio.net/rotiofood/2014-07-21/rolls_1.jpg</a>">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none"></a></p>
+<p>{% img <a href="http://rotio.net/rotiofood/2014-07-21/rolls_1.jpg">http://rotio.net/rotiofood/2014-07-21/rolls_1.jpg</a> %}
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 <h3><b>Story</b> </h3>
@@ -137,12 +137,12 @@
 <h3><b>Recipe</b> </h3> 
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Sourdough Cinnamon Rolls</h3>
-  <span itemprop="author"> </span>
-  <br />Published: <time datetime= itemprop="datePublished">
+  <span itemprop="author"> {{page.author }}</span>
+  <br />Published: <time datetime={{page.date}} itemprop="datePublished">
     July 21, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-07-21/rolls_1.jpg" />
   
-  <br /><span itemprop="description">Category: buddy</span><br />
+  <br /><span itemprop="description">{{page.description }}</span><br />
 
   <br />Prep time: <time datetime="PT2H10M" itemprop="prepTime">2h10m</time>
   <br />Cook time: <time datetime="PT0H25M" itemprop="cookTime">25m</time>
@@ -226,8 +226,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img class="<a" src="href="http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_1.jpg">http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_1.jpg</a>">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none"></a></p>
+<p>{% img <a href="http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_1.jpg">http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_1.jpg</a> %}
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 <h3><b>Story</b> </h3>
@@ -240,12 +240,12 @@
 <h3><b>Recipe</b> </h3> 
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Bacon Blue Burger</h3>
-  <span itemprop="author"> </span>
-  <br />Published: <time datetime= itemprop="datePublished">
+  <span itemprop="author"> {{page.author }}</span>
+  <br />Published: <time datetime={{page.date}} itemprop="datePublished">
     July 20, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_1.jpg" />
   
-  <br /><span itemprop="description">Category: buddy</span><br />
+  <br /><span itemprop="description">{{page.description }}</span><br />
 
   <br />Prep time: <time datetime="PT0H10M" itemprop="prepTime">10m</time>
   <br />Cook time: <time datetime="PT0H8M" itemprop="cookTime">8m</time>
@@ -312,8 +312,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img class="<a" src="href="http://rotio.net/rotiofood/2014-07-15/buns_done.jpg">http://rotio.net/rotiofood/2014-07-15/buns_done.jpg</a>">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none"></a></p>
+<p>{% img <a href="http://rotio.net/rotiofood/2014-07-15/buns_done.jpg">http://rotio.net/rotiofood/2014-07-15/buns_done.jpg</a> %}
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a></p>
 
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 <h3><b>Story</b> </h3>
@@ -326,12 +326,12 @@
 <h3><b>Recipe</b> </h3> 
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Sourdough Hamburger Buns</h3>
-  <span itemprop="author"> </span>
-  <br />Published: <time datetime= itemprop="datePublished">
+  <span itemprop="author"> {{page.author }}</span>
+  <br />Published: <time datetime={{page.date}} itemprop="datePublished">
     July 15, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-07-15/buns_done.jpg" />
   
-  <br /><span itemprop="description">Category: buddy</span><br />
+  <br /><span itemprop="description">{{page.description }}</span><br />
 
   <br />Prep time: <time datetime="PT2H0M" itemprop="prepTime">2h</time>
   <br />Cook time: <time datetime="PT0H25M" itemprop="cookTime">25m</time>
@@ -426,8 +426,8 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img class="<a" src="href="http://rotio.net/rotiofood/2014-07-13/buddy_top.jpg">http://rotio.net/rotiofood/2014-07-13/buddy_top.jpg</a>">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none"></a></p>
+<p>{% img <a href="http://rotio.net/rotiofood/2014-07-13/buddy_top.jpg">http://rotio.net/rotiofood/2014-07-13/buddy_top.jpg</a> %}
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a></p>
 
 <div>You should really just make a starter right now. It's flour and Budweiser (or water if you're short on the beer). It takes 60 seconds. Make it, you won't regret it.</div>
 
@@ -452,12 +452,12 @@ Like I said, most "mothers" begin with just water and flour. Sometimes random ju
 <h3><b>Recipe</b> </h3> 
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h3 itemprop="name">Budweiser Sourdough Starter</h3>
-  <span itemprop="author"> </span>
-  <br />Published: <time datetime= itemprop="datePublished">
+  <span itemprop="author"> {{page.author }}</span>
+  <br />Published: <time datetime={{page.date}} itemprop="datePublished">
     July 13, 2014</time>
   <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-07-13/buddy_close.jpg" />
   
-  <br /><span itemprop="description">Category: buddy</span><br />
+  <br /><span itemprop="description">{{page.description }}</span><br />
 
   <br />Prep time: <time datetime="PT0H1M" itemprop="prepTime">1m</time>
   <br />Cook time: <time datetime="PT0H0M" itemprop="cookTime">0m</time>
