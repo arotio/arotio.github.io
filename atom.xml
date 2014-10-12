@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-09-14T12:09:18-05:00</updated>
+  <updated>2014-10-12T17:52:43-05:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,130 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Head Cheese]]></title>
+    <link href="http://rotiofood.com/blog/2014/10/12/head-cheese/"/>
+    <updated>2014-10-12T07:10:37-05:00</updated>
+    <id>http://rotiofood.com/blog/2014/10/12/head-cheese</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<center><iframe width="80%" height="600" src="http://rotiofood.com//www.youtube.com/embed/FrxGD3B5K7g" frameborder="0" allowfullscreen></iframe></center>
+
+
+<p><a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+<h3><b>Story</b> </h3>
+ <div>
+    <p>
+      <center><img itemprop="image" src="http://rotio.net/rotiofood/2014-10-11/pig-full-1.jpg" /></center>
+    Through a colleague at Goose Island, we were fortunate enough to attend <a href="http://cochon555.com/">Cochon555</a> in St. Louis this year. Cochon was an incredible collision of the pig roasts I experienced growing up in Hope, NJ and some of the technical, high end cooking techniques I&#8217;ve been exploring in my adult life. I closed my eyes when I walked through the doors into the event and inhaled deeply. The smells of smoky, charred pork led my mind to the conclusion that I was outside, turning a spit to rotate a hog over a mound of ashy charcoal in a grill in the back yard. I opened my eyes to reveal, instead, a ballroom bustling with chefs, brewers, judges, and common folk in jeans like me there to take it all in. The plates of food were varied and delicious - from pork belly tacos topped with chicharron to home-cured charcuterie.
+<br/><br/>Though it was an area at the center of the room that caught our eye. Sprawled out on a table was a full heritage hog with a sign reading &#8220;Pop Up Butcher Shop&#8221; (see above). The table was surrounded by CIA students ready to go to work when the time was right. They interrupted the event about half way through to announce that the pop up butchering was about to commence. The format was simple: as a cut of pork came off of the hog, it was placed on the table along with a price tag. The first of the crowd to shove cash in the money-man&#8217;s hands for an item got it. Katie and I had our eyes out for the best cuts - the cheeks didn&#8217;t even hit the table before someone had managed to pay for those. I landed a fattier than usual jowl (guanciale) and &#8220;secreto&#8221; which I had to look up later but it looked like a nice cut (give it a Google, it&#8217;s pretty interesting). One of the girls with our group said to me &#8220;You&#8217;ve gotta buy the head, right?&#8221;
+<br/><br/> I hadn&#8217;t even realized it was for sale but there it was staring up at me, with a $5 price tag. I had to take him home&#8230; 
+<br/><br/>So here is my first shot at head cheese - which is not cheese at all but a delicious combination of tender pork and reduced pork stock. It is a bit laborious to create but it feels as if I have discovered a lost art, a craft I hope to improve with time. Hopefully you can enjoy the recipe and the video - which is intentionally a bit creepy - just in time for Halloween!
+<br/><br/><center><img itemprop="image" src="http://rotio.net/rotiofood/2014-10-11/head-cheese-plated.jpg" /></center>
+<center><img itemprop="image" src="http://rotio.net/rotiofood/2014-10-11/pig-head-cheese.jpg" /></center>
+
+</p> 
+ </div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Pig Head Cheese</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-10-12 07:10:37 -0500 itemprop="datePublished">
+    October 12, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-10-11/head-cheese-plated.jpg" />
+  
+  <br /><span itemprop="description">Pig&#8217;s head to head cheese in 24 hours</span><br />
+
+  <br />Prep time: <time datetime="PT0H30M" itemprop="prepTime">30m</time>
+  <br />Cook time: <time datetime="PT20H0M" itemprop="cookTime">20h</time>
+  <br />Total time: <time datetime="PT20H30M" itemprop="totalTime">One day</time>
+  <br />Yield: <span itemprop="recipeYield">One loaf of head cheese, will last a few cheese plates</span>
+  
+  <br/>
+ <h4>Ingredients:</h4>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Hog&#8217;s Head</span>: 
+      <span itemprop="amount">1</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Extra Virgin Olive Oil</span>: 
+      <span itemprop="amount">2 tbl</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Onion</span>: 
+      <span itemprop="amount">1</span>, roughly chopped
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Carrot</span>: 
+      <span itemprop="amount">1</span>, roughly chopped
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">smoked chili powder</span>: 
+      <span itemprop="amount">4 tbl</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">garlic</span>: 
+      <span itemprop="amount">1 head</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">salt</span>: 
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">black pepper</span>: 
+      <span itemprop="amount">3 tbl</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">water</span>: 
+      <span itemprop="amount">enough to cover</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">oregano</span>: 
+      <span itemprop="amount">2 tbl</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">sage</span>: 
+      <span itemprop="amount">1 big bunch</span>, roughly chopped
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">lemon juice</span>: 
+      <span itemprop="amount">2 lemons worth</span>
+    </span><br />
+    
+  <br /><h4>Directions:</h4>
+    
+    <div itemprop="recipeInstructions">
+    1. In a stock pot large enough to fit your hog&#8217;s head, sautee onions, carrot, and smoked chili powder in olive oil on medium high heat until onions begin to brown on the edges.<br/>
+    2. Add Pig&#8217;s head, pickle juice, and enough water to fill to about 4 inches below the top of the pot.<br/>
+    3. Add Garlic, salt, black pepper and oregano. Cover loosely with foil. Turn heat all the way up, keep an eye on it to make sure you do not boil over.<br/>
+    4. Once a boil is achieved, reduce heat to medium to maintain a steady boil. Boil for 5-7 hours or until all meat has fallen off of the bone and meat is cooked. You should add water and rotate pig head as needed to ensure most of meat is covered throughout the process.<br/>
+    5. Remove skull from pot. Strain meat from the liquid - retaining both liquid and the meat. Return liquid to high heat and boil uncovered. Reduce until about a quarter of its volume is all that remains.<br/>
+    6. Meanwhile, pick out as many of the best, biggest chunks of meat from what you strained out of the liquid and place in a bowl. Taste a piece and season with more salt and pepper if preferred. Add sage and lemon juice, mix to distribute evenly.<br/>
+    7. Press meat into loaf pan or terrine. Ladle reduced stock over meat, pressing down with ladle to ensure the liquid gets throughout the whole pan and all the way to the bottom.<br/>
+    8. Press plastic wrap down onto top of meat, refrigerate overnight, turn out the next day and serve immediately, with a cracker, mustard or horseradish, and a nice dry cider like Stella Artois Cidre.<br/>
+    <br/> 
+    <br />
+    </div>
+
+</div>
+</div>
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Buffalo Wings]]></title>
@@ -28,7 +152,7 @@
 <h3><b>Story</b> </h3>
  <div>
     <p>
-    It&#8217;s Sunday. Kickoff is in 5 minutes. Time to end the hiatus. We bought a whole chicken for 5 bucks, broke it down and fried it up into a huge pile of buffalo style chicken. Less money, more food, flavor dialed in just to your liking. This one a no brainer. We added in a link to the deep fryer that we use. One of those kitchen tools that isn&#8217;t terribly expensive but makes all the difference. <br/><iframe style="width:120px;height:240px;margin-left:40%" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="http://rotiofood.com//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=rotiofood-20&marketplace=amazon&region=US&placement=B005FYF7XQ&asins=B005FYF7XQ&linkId=V2OQO6MWTXD3Q576&show_border=true&link_opens_in_new_window=true">
+    It&#8217;s Sunday. Kickoff is in 5 minutes. Time to end the hiatus. We bought a whole chicken for 5 bucks, broke it down and fried it up into a huge pile of buffalo style chicken. Less money, more food, flavor dialed in just to your liking. This one is a no brainer. We added in a link to the deep fryer that we use. One of those kitchen tools that isn&#8217;t terribly expensive but makes all the difference. <br/><iframe style="width:120px;height:240px;margin-left:40%" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="http://rotiofood.com//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=rotiofood-20&marketplace=amazon&region=US&placement=B005FYF7XQ&asins=B005FYF7XQ&linkId=V2OQO6MWTXD3Q576&show_border=true&link_opens_in_new_window=true">
 </iframe>
     </p> 
  </div>
@@ -50,7 +174,7 @@
   <br/>
  <h4>Ingredients:</h4>
     <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
-      <span itemprop="name"><a href="http://www.rotiofood.com/blog/2014/07/15/sourdough-hamburger-buns/">Chicken</a></span>, whole: 
+      <span itemprop="name">Chicken</span>, whole: 
       <span itemprop="amount">1</span>
     </span><br />
     <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
@@ -101,7 +225,7 @@
   <br /><h4>Directions:</h4>
     
     <div itemprop="recipeInstructions">
-    1. Remove wings and legs from chicken. Break down thighs and breasts into bite size chunks.<br/>
+    1. Remove wings and legs from chicken. Break down thighs and breasts into bite size chunks. We&#8217;ll have some boneless wings and some traditional wings with this method.<br/>
     2. Preheat oil to 350 degrees F in your <a href="http://www.amazon.com/gp/product/B005FYF7XQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FYF7XQ&linkCode=as2&tag=rotiofood-20&linkId=OWEWSCISTCMUPPDO">Deep Fryer</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rotiofood-20&l=as2&o=1&a=B005FYF7XQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> or cast iron.<br/>
     3. Mix flour, cornstarch, and all spices. Dredge chicken pieces in flour mixture, be sure to coat all surfaces.<br/>
     4. Whisk together eggs and milk. Dunk chicken in egg and milk mixture, be sure to cover all surfaces. At this point, I like to take a few spoonfuls of the milk mixture and drizzle them into flour, this will create crunchy chunks on the exterior of the chicken.<br/>
@@ -129,20 +253,23 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Peanut Butter Bacon Burger]]></title>
+    <title type="html"><![CDATA[PB & Bacon Burger]]></title>
     <link href="http://rotiofood.com/blog/2014/07/24/pb-bacon-burger/"/>
     <updated>2014-07-24T09:10:37-05:00</updated>
     <id>http://rotiofood.com/blog/2014/07/24/pb-bacon-burger</id>
     <content type="html"><![CDATA[<!-- more -->
-<img src="http://rotio.net/rotiofood/2014-07-24/burger_2.jpg">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a>
+
+
+<p><img src="http://rotio.net/rotiofood/2014-07-24/burger_2.jpg">
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
+
 <div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
 <h3><b>Story</b> </h3>
  <div>
-	<p>
-	Bacon-Honey Peanut Butter. That is one ingredient. Let that sink in for a second. Bacon. Honey. Peanut. Butter. While combining this with bananas on a sandwich was one of Elvis&#8217; favorites, we encountered this wonderful combination as a burger topping on <a target="_blank" href="http://pornburger.me">this beautiful burger blog</a>. The sweet and smoky combination provided a nice contrast to the umami of the burger/cheese and the tang of the <a target="_blank" href="http://www.rotiofood.com/blog/2014/07/15/sourdough-hamburger-buns/">Budweiser sourdough hamburger buns</a>. Even though peanut butter on a burger seemed crazy at first, after tasting I realized this was a combination I could get behind. The flavors balance really nicely. Enjoy ferociously but sparingly.
+    <p>
+    Bacon-Honey Peanut Butter. That is one ingredient. Let that sink in for a second. Bacon. Honey. Peanut. Butter. While combining this with bananas on a sandwich was one of Elvis&#8217; favorites, we encountered this wonderful combination as a burger topping on <a target="_blank" href="http://pornburger.me">this beautiful burger blog</a>. The sweet and smoky combination provided a nice contrast to the umami of the burger/cheese and the tang of the <a target="_blank" href="http://www.rotiofood.com/blog/2014/07/15/sourdough-hamburger-buns/">Budweiser sourdough hamburger buns</a>. Even though peanut butter on a burger seemed crazy at first, after tasting I realized this was a combination I could get behind. The flavors balance really nicely. Enjoy ferociously but sparingly.
 
-	</p> 
+    </p> 
  </div>
 <h3><b>Recipe</b> </h3> 
   <div itemscope itemtype="http://schema.org/Recipe" >
@@ -161,64 +288,68 @@
   
   <br/>
  <h4>Ingredients:</h4>
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
-	  <span itemprop="name"><a href="http://www.rotiofood.com/blog/2014/07/15/sourdough-hamburger-buns/">Budweiser Sourdough Hamburger Bun</a></span>: 
-	  <span itemprop="amount">1</span>
-	</span><br />
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
-	  <span itemprop="name">ground beef</span>: 
-	  <span itemprop="amount">1/4 lb</span>, (80/20 lean/fat gives a good level of juiciness while not being overkill on the fat)
-	</span><br />
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
-	  <span itemprop="name">American or cheddar cheese</span>: 
-	  <span itemprop="amount">one slice</span>
-	</span><br />
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
-	  <span itemprop="name">bacon</span>: 
-	  <span itemprop="amount">1 strip</span>, cooked and halved
-	</span><br />
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
-	  <span itemprop="name">bacon</span>: 
-	  <span itemprop="amount">1 strip</span>, cooked and crumbled
-	</span><br />
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
-	  <span itemprop="name">peanut butter</span>: 
-	  <span itemprop="amount">2 tsp</span>
-	</span><br />
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
-	  <span itemprop="name">honey</span>: 
-	  <span itemprop="amount">1/2 tsp</span>
-	</span><br />
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
-	  <span itemprop="name">Budweiser</span>: 
-	  <span itemprop="amount">splash</span>
-	</span><br />
-	<span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
-	  <span itemprop="name">black pepper</span>: 
-	  <span itemprop="amount">pinch</span>
-	</span><br />
-	
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name"><a href="http://www.rotiofood.com/blog/2014/07/15/sourdough-hamburger-buns/">Budweiser Sourdough Hamburger Bun</a></span>: 
+      <span itemprop="amount">1</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">ground beef</span>: 
+      <span itemprop="amount">1/4 lb</span>, (80/20 lean/fat gives a good level of juiciness while not being overkill on the fat)
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">American or cheddar cheese</span>: 
+      <span itemprop="amount">one slice</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">bacon</span>: 
+      <span itemprop="amount">1 strip</span>, cooked and halved
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">bacon</span>: 
+      <span itemprop="amount">1 strip</span>, cooked and crumbled
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">peanut butter</span>: 
+      <span itemprop="amount">2 tsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">honey</span>: 
+      <span itemprop="amount">1/2 tsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Budweiser</span>: 
+      <span itemprop="amount">splash</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">black pepper</span>: 
+      <span itemprop="amount">pinch</span>
+    </span><br />
+    
   <br /><h4>Directions:</h4>
-	
+    
     <div itemprop="recipeInstructions">
-	1. Form ground beef into patty. Make center of patty thinner than edges because middle tends to puff up.<br/>
-	2. Preheat grill on high for at least 10 minutes, lid closed.<br/>
-	3. Grill beef (open lid) for 3-4 minutes on each side for the lower end of medium rare. Longer if you like it overdone.<br/>
-	4. Top with cheese and close lid for a minute to melt.<br/>
-	5. Combine last five ingredients. Microwave for 15 seconds to soften peanut butter and mix to incorporate well.<br/>
-	6. Place burger on split bun (toast if desired), top with bacon and peanut butter sauce, enjoy.<br/>
-	<br/> 
-	<br />
-	</div>
+    1. Form ground beef into patty. Make center of patty thinner than edges because middle tends to puff up.<br/>
+    2. Preheat grill on high for at least 10 minutes, lid closed.<br/>
+    3. Grill beef (open lid) for 3-4 minutes on each side for the lower end of medium rare. Longer if you like it overdone.<br/>
+    4. Top with cheese and close lid for a minute to melt.<br/>
+    5. Combine last five ingredients. Microwave for 15 seconds to soften peanut butter and mix to incorporate well.<br/>
+    6. Place burger on split bun (toast if desired), top with bacon and peanut butter sauce, enjoy.<br/>
+    <br/> 
+    <br />
+    </div>
 
 </div>
 </div>
+
+
 <script>
-	$( "#accordion" ).accordion({
-	collapsible: true,
-	active: false,
-	heightStyle: "content"});
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
 </script>
+
+
 
 ]]></content>
   </entry>
@@ -2235,137 +2366,6 @@ Like I said, most &#8220;mothers&#8221; begin with just water and flour. Sometim
       10. When all cream is combined, pour into coconut shells and bake for 60 minutes or until custard is set but center still jiggles slightly - this may take up to 90 minutes depending on how warm your coconut is.<br/>
       11. Chill for at least 3 hours before serving. <br />
       12. Immediately before serving, sprinkle sugar on top of custard and hit it with the torch until all sugar is melted, swirl to coat top of custard with liquid sugar. <br />
-      </div>
-
-    
-
-    </div>
-
-</div>
-
-
-
-
-<script>
-    $( "#accordion" ).accordion({
-    collapsible: true,
-    active: false,
-    heightStyle: "content"});
-</script>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[pork and polenta]]></title>
-    <link href="http://rotiofood.com/blog/2014/03/12/pork-and-polenta/"/>
-    <updated>2014-03-12T11:59:50-05:00</updated>
-    <id>http://rotiofood.com/blog/2014/03/12/pork-and-polenta</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p><img src="http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
-
-<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
-
-<h3><b>Story</b> </h3>
-  <div>
-    <p>
-    We introduced our beer cooler and plastic bag Sous Vide technique in our Beef Sous Vide post. We always overcook pork tenderloin so we decided to try to see if we could nail it with a Sous Vide approach. To go with the pork, we roasted some asparagus and took a shot at something we&#8217;ve never made before - Polenta! (which, to our surprise, is just corn grits prepared differently than you do for breakfast). We added some gouda and thyme to the polenta which really went well with the pork.
-    </p>
-  </div>
-
-<h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://schema.org/Recipe" >
-  <h3 itemprop="name">Pork Tenderloin and Polenta</h3>
-  <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-03-12 11:59:50 -0500 itemprop="datePublished">
-    March 12, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg" />
-  
-  <br /><span itemprop="description">Sous vide pork tenderloin with Gouda Polenta and Asparagus</span><br />
-
-  <br />Prep time: <time datetime="PT10M" itemprop="prepTime">10m</time> 
-  <br />Cook time: <time datetime="PT1H0M" itemprop="cookTime">1h</time>
-  <br />Total time: <time datetime="PT1H10M" itemprop="totalTime">1h 10m</time>
-  <br />Yield: <span itemprop="recipeYield">Tenderloin and Polenta for 2</span>
-  
-  <br />
-  
-  <br /><h4>Equipment:</h4>
-  Styrofoam or plastic cooler (dense foam works best)<br/>
-  $10 Probe Thermometer<br/>
-  Ziplock double seal bags (splurge the extra few bucks on the double seal freezer bags, pork tenderloin isn&#8217;t cheap and you don&#8217;t want water to get in)
-  <br /> <br /><h4>Ingredients:</h4>
-  <br /> <br /> Pork: <br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Pork Tenderloin</span>: 
-      <span itemprop="amount">1</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Sea Salt</span>:
-      <span itemprop="amount">1/4 c</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Black Pepper</span>:
-      <span itemprop="amount">1 T</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Fresh Thyme</span>:
-      <span itemprop="amount">1/4 c</span>, chopped
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Fresh Rosemary</span>:
-      <span itemprop="amount">1/4 c</span>, chopped
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Garlic</span>:
-      <span itemprop="amount">2 cloves</span>, minced
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Olive Oil</span>:
-      <span itemprop="amount">1 T</span>
-    </span>
-    
-    <br /> <br /> Polenta: <br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Yellow Corn Grits</span>:
-      <span itemprop="amount">1/2 c</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Chicken Stock</span>:
-      <span itemprop="amount">15 oz. Can</span> (a little less than 2 cups)
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Thyme</span>:
-      <span itemprop="amount">1/4 c</span>, chopped
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Gouda</span>:
-      <span itemprop="amount">2 oz</span>, grated
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Salt</span>:
-      <span itemprop="amount">pinch</span>
-    </span><br />
-    
-  <br /><h4>Directions:</h4>
-    
-    <div itemprop="recipeInstructions">
-      1. Grind salt, pepper, thyme, rosemary, garlic, and olive oil together with mortar and pestle or back of spoon in a bowl.<br/>
-      2. Rub pork generously with herb/garlic mixture and place in Ziplock bag, squeeze as much air out as possible and seal well.<br />
-      3. Place thermometer probe in cooler.<br />
-      4. Fill cooler with water, alternate with hot tap and boiling water to achieve about 150 degrees. <br />
-      5. Drop Ziplock bag containing pork into the water and cover cooler. Leave alone for at least 50 minutes *(if you use a pork loin or larger cut of pork, leave in for at least 90 minutes)*. If at any time the water temperature drops below 145, add more boiling water to bring back up to temp. The beautiful thing about sous vide is that removing the air and setting the water temp to the final temp that you want your meat allows you to be able to leave alone without the fear of overcooking (we recommend 1-6 hours, as long as you maintain water temp)<br />
-      6. About 20 minutes before you are ready to eat, start the polenta by bringing the stock and thyme to a boil.<br />
-      7. Whisk in grits (polenta), turn the heat to low and cover. Let cook for 15 minutes, stirring occasionally.<br/>
-      8. Heat grill or pan with oil to very high heat. <br />
-      9. Remove pork from bag and sear for one minute on each side. <br />
-      10. Remove polenta from heat, stir in gouda and salt.<br/>
-      11. Remove pork from heat, slice, plate, and feast. <br />
       </div>
 
     
