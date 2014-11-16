@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-11-11T12:15:26-06:00</updated>
+  <updated>2014-11-16T12:50:17-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,150 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pork Roll Benedict]]></title>
+    <link href="http://rotiofood.com/blog/2014/11/16/pork-roll-benedict/"/>
+    <updated>2014-11-16T06:10:37-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/11/16/pork-roll-benedict</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<center><img src="http://rotio.net/rotiofood/2014-11-16/pork-roll-benedict-plated.jpg"></center>
+
+
+<p><a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+<h3><b>Story</b> </h3>
+ <div>
+    <p>
+      Taylor ham, pork roll, whatever you decide to call it, it is one of those things that is a staple in New Jersey but relatively unknown throughout the rest of the US. Jersey friends, in the comments, let me us what you call it and why. We call it pork roll, and we think it was time to take the humble pork roll into the spotlight. For those who don&#8217;t know, it is a tangy cured pork that is usually pan fried and served on a sandwich with cheese, an egg, salt, pepper and ketchup on an everything bagel or hard roll. We took those root components and built up a seriously hearty benedect preserving all of those flavors. We started with a sriracha ketchup sauce on the plate, an everything bagel flavored bread pudding, pork roll and a bit of cheddar, a runny egg, and classic hollandaise with salt and cayenne pepper. 
+      <br/><br/><center><img itemprop="image" src="http://rotio.net/rotiofood/2014-11-16/pork-roll-benedict.gif" /></center>
+      <br/><br/><center><img itemprop="image" src="http://rotio.net/rotiofood/2014-11-16/pork-roll-benedict-plated-tight.jpg" /></center>
+    </p> 
+</div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Pork Roll Benedict</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-11-16 06:10:37 -0600 itemprop="datePublished">
+    November 16, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-11-16/pork-roll-benedict-plated-tight.jpg" />
+  
+  <br /><span itemprop="description">Everything bagel bread pudding, pork roll, sriracha ketchup, runny egg, and hollandaise</span><br />
+
+  <br />Prep time: <time datetime="PT0H30M" itemprop="prepTime">30m</time>
+  <br />Cook time: <time datetime="PT0H30M" itemprop="cookTime">30m</time> 
+  <br />Total time: <time datetime="PT1H0M" itemprop="totalTime">1h</time>
+  <br />Yield: <span itemprop="recipeYield">2</span>
+  
+  <br/>
+ <u><h4>Ingredients</h4></u>
+ <em><h4>Everything Bagel Bread Pudding:</h4></em>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Stale bread</span>: 
+      <span itemprop="amount">4 slices</span>, cubed
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Minced Garlic</span>: 
+      <span itemprop="amount">1/4 c</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Minced Onion</span>: 
+      <span itemprop="amount">1/4 c</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Sesame Seed</span>: 
+      <span itemprop="amount">1/4 c</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Poppy Seed</span>: 
+      <span itemprop="amount">1/4 c</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Milk</span>: 
+      <span itemprop="amount">1 c</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Egg</span>: 
+      <span itemprop="amount">1</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Butter</span>: 
+      <span itemprop="amount">1 pat</span>
+    </span><br />
+    
+    <em><h4>Everything Else:</h4></em>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Egg</span>: 
+      <span itemprop="amount">2</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Pork Roll</span>: 
+      <span itemprop="amount">4 slices</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Egg yolk</span>: 
+      <span itemprop="amount">2</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Butter</span>: 
+      <span itemprop="amount">3 tbl</span>, melted
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Cayenne pepper</span>: 
+      <span itemprop="amount">pinch</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Salt</span>: 
+      <span itemprop="amount">pinch</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Ketchup</span>: 
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Sriracha</span>: 
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    
+    
+    
+  <br /><u><h4>Directions</h4></u>
+  <div itemprop="recipeInstructions">
+    <em><h4>Everything Bagel Bread Pudding:</h4></em>
+    1. Preheat oven to 325 F. Beat eggs into milk, add garlic, onion, poppy seeds, and sesame seeds to liquid. Dried minced onion and garlic are ideal.<br/>
+    2. Butter <a href="http://www.amazon.com/gp/product/B00061N0QO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00061N0QO&linkCode=as2&tag=rotiofood-20&linkId=BEXDBRKALY23MKNA">two ramekins</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rotiofood-20&l=as2&o=1&a=B00061N0QO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.<br/>
+    3. Pour liquid over cubed bread and press into ramekins. Dump any remaining liquid over bread pudding.<br/>
+    4. Bake at 325 F for 25 minutes then crank the heat to 450 F to brown the top of the puddings. Protip: if you have a <a href="http://www.amazon.com/gp/product/B000MPA044/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000MPA044&linkCode=as2&tag=rotiofood-20&linkId=MW2KE57C6R7MPWKU">pressure cooker</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rotiofood-20&l=as2&o=1&a=B000MPA044" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, you can cook them in the pressure cooker for 10 minutes with a little bit of water in the base of the cooker, then quickly brown the tops in the oven.
+    <em><h4>Everything else:</h4></em>
+    5. Slice three cuts in the edge of the pork roll (like the edges of a peace sign, see photos above). This will allow them to cook flat and avoid bubbling up in the pan. Pan fry for 5 minutes on each side, on medium, to brown. Top with cheese, if desired and set aside.<br/>
+    6. Poach egg or soft cook eggs in <a href="http://www.amazon.com/gp/product/B00061N0QO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00061N0QO&linkCode=as2&tag=rotiofood-20&linkId=BEXDBRKALY23MKNA">two ramekins</a>.<br/>
+    7. Whisk egg yolks in a large bowl and slowly drizzle in butter, whisking continuously. Add cayenne and salt.<br/>
+    8. Mix ketchup and sriracha, add a splash of milk to thin sauce.<br/>
+    <em><h4>Assembly:</h4></em>
+    9. Spread sauce on plate. Place bread pudding on sauce. Top with pork roll, egg, and hollandaise. See gif below for example. Devour<br/>
+    <br/><br/><center><img itemprop="image" src="http://rotio.net/rotiofood/2014-11-16/pork-roll-benedict.gif" /></center>
+    <br/> 
+    <br />
+    </div>
+
+</div>
+</div>
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Korean Cuban Sandwich]]></title>
@@ -2364,103 +2508,6 @@ Like I said, most &#8220;mothers&#8221; begin with just water and flour. Sometim
      </div>
     <br />
     <span>* &#8220;Buddy&#8221; is our pet. He&#8217;s a sourdough starter that we only feed Budweiser and bread flour. He&#8217;s a lot of fun and has a great personality. He&#8217;s been working on his own page on the blog and a Twitter account&#8230; keep an eye out, they&#8217;re coming soon!</span>
-    
-
-    </div>
-
-</div>
-
-
-
-
-<script>
-    $( "#accordion" ).accordion({
-    collapsible: true,
-    active: false,
-    heightStyle: "content"});
-</script>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[baguette]]></title>
-    <link href="http://rotiofood.com/blog/2014/04/02/baguette/"/>
-    <updated>2014-04-02T11:09:50-05:00</updated>
-    <id>http://rotiofood.com/blog/2014/04/02/baguette</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p><img src="http://rotio.net/rotiofood/2014-04-02/bread_angle.jpg">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
-
-<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
-
-<h3><b>Story</b> </h3>
-  <div>
-    <p>
-    <img src="http://rotio.net/rotiofood/2014-04-02/bread_all.jpg" />Good bread is up there with water on my &#8220;need it to live&#8221; list. There&#8217;s just something about breaking bread that has a nice crunchy crust and a light airy center that is incredibly satisfying. When you can make your own and serve it warm, butter half melts and seeps into all of the nooks and crannies like it was made to settle in there. Usually, we serve these baguettes with something saucy and a hunk lives in our left hand as we eat, serving as an &#8220;Italian napkin&#8221; to sop up all of the goodness left on the plate. Bread is easier than you think. If you fail the first time, try and try again. Once you nail it, you won&#8217;t go back.</p>  
-  </div>
-
-<h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://schema.org/Recipe" >
-  <h3 itemprop="name">baguette</h3>
-  <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-04-02 11:09:50 -0500 itemprop="datePublished">
-    April 2, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-04-02/bread_close.jpg" />
-  
-  <br /><span itemprop="description">Straightforward Baguette</span><br />
-
-  <br />Prep time: <time datetime="PT3H" itemprop="prepTime">3 h</time> 
-  <br />Cook time: <time datetime="PT0H30M" itemprop="cookTime">30m</time>
-  <br />Total time: <time datetime="PT3H30M" itemprop="totalTime">3h 30m</time>
-  <br />Yield: <span itemprop="recipeYield">3 loaves</span>
-  
-  <br />
-  
-
-  <br /><h4>Ingredients:</h4>
-  <br /> 
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Bread Flour</span>: 
-      <span itemprop="amount">3 c</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Warm Water</span>:
-      <span itemprop="amount">1 and 1/4 c</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Active dry yeast</span>:
-      <span itemprop="amount">1 packet</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Salt</span>:
-      <span itemprop="amount">2 tsp</span>
-    </span><br />
-
-    
-
-    
-  <br /><h4>Directions:</h4>
-    
-    <div itemprop="recipeInstructions">
-      1. Whisk together yeast and water in large bowl, let sit until yeast is foamy to ensure your yeast is alive.<br/>
-      2. Add flour, stir vigorously, and allow to sit so the flour can hydrate (25 minutes).<br />
-      3. Using a spoon, heel of your hand, or dough hook on machine, beat up the flour for about 10 minutes until the gluten is happy and the dough is elastic.<br />
-      4. Lightly spray or grease a bowl, add dough, cover tightly with plastic wrap and allow to rise until doubled (about 50 minutes). <br />
-      5. Turn out dough and shape into a rectangle (about 8&#8221; x 5&#8221;). Fold the long edges in to meet at the middle and lightly press down with the heel of your hand. Now fold short sides in to meet in middle and again, lightly press down with the heel of your hand. Return to bowl (seam side down) and allow to rise again until doubled (about 1 hour).<br />
-      6. Place baking stone in oven on top shelf and preheat to 475 F.<br />
-      7. Divide dough into 3 pieces and gently roll into 12 - 16 inch ropes (try not to crush the air bubbles if possible, they are your friends).<br/>
-      8. Place cast iron skillet in base of oven. <br />
-      9. Let dough rise, covered tightly with plastic, on floured parchment paper or pan for about 50 minutes. <br />
-      10. Slash top of dough with razor or sharp knife in three or four lines, diagonal to the length of the loaf. <br />
-      11. Transfer dough to baking stone, gently (use spatulas or parchment paper as a guide to transfer) &#8211; immediately place three ice cubes in cast iron skillet and shut the oven door to create a humid environment.<br/>
-      12. Bake until dark golden brown (about 35 minutes). <br />
-     </div>
-
     
 
     </div>
