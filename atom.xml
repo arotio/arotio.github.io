@@ -4,7 +4,7 @@
   <title><![CDATA[rotio/food]]></title>
   <link href="http://rotiofood.com/atom.xml" rel="self"/>
   <link href="http://rotiofood.com/"/>
-  <updated>2014-11-16T12:50:17-06:00</updated>
+  <updated>2014-11-25T23:49:40-06:00</updated>
   <id>http://rotiofood.com/</id>
   <author>
     <name><![CDATA[Anthony Rotio]]></name>
@@ -12,6 +12,118 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sweet Potato Skins]]></title>
+    <link href="http://rotiofood.com/blog/2014/11/25/sweet-potato-skins/"/>
+    <updated>2014-11-25T11:59:37-06:00</updated>
+    <id>http://rotiofood.com/blog/2014/11/25/sweet-potato-skins</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<center><img src="http://rotio.net/rotiofood/2014-11-25/potato-skin-single.jpg"></center>
+
+
+<p><a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
+
+<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
+<h3><b>Story</b> </h3>
+ <div>
+    <p>
+      Sweet potatoes were on sale at the grocery store, so I thought I&#8217;d take an old family favorite - sweet potatoes with marshmallows and brown sugar - and see if we could make them work in a bar food favorite - potato skins! We fried the skins, puree&#8217;d the filling with molasses, added brown sugar and butter, and topped with a marshmallow and bacon. Truly decadent for the holidays!
+      <br/><br/><center><img itemprop="image" src="http://rotio.net/rotiofood/2014-11-25/potato-skins-top.jpg" /></center>
+    </p> 
+</div>
+<h3><b>Recipe</b> </h3> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h3 itemprop="name">Sweet Potato Skins</h3>
+  <span itemprop="author"> rotio</span>
+  <br />Published: <time datetime=2014-11-25 11:59:37 -0600 itemprop="datePublished">
+    November 25, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-11-25/potato-skin-single.jpg" />
+  
+  <br /><span itemprop="description">Fried sweet potato skin, sweet potato molasses puree, marshmallow, bacon, brown sugar, pine nuts</span><br />
+
+  <br />Prep time: <time datetime="PT0H45M" itemprop="prepTime">45m</time>
+  <br />Cook time: <time datetime="PT0H45M" itemprop="cookTime">45m</time> 
+  <br />Total time: <time datetime="PT1H30M" itemprop="totalTime">1h 30m</time>
+  <br />Yield: <span itemprop="recipeYield">4</span>
+  
+  <br/>
+ <u><h4>Ingredients</h4></u>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Sweet Potatoes</span>: 
+      <span itemprop="amount">2</span>, baked
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Half and Half</span>: 
+      <span itemprop="amount">1/2 c</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Butter</span>: 
+      <span itemprop="amount">4 tbl</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Molasses</span>: 
+      <span itemprop="amount">1/4 c</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Cinnamon</span>: 
+      <span itemprop="amount">1 tsp</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Marshmallow</span>: 
+      <span itemprop="amount">4</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Bacon</span>: 
+      <span itemprop="amount">2 slices</span>, cooked
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Brown Sugar</span>: 
+      <span itemprop="amount">2 tbl</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Flour</span>: 
+      <span itemprop="amount">2 tbl</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Fry oil</span>: 
+      <span itemprop="amount">3 c</span>
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/ingredients">
+      <span itemprop="name">Pine Nuts</span>: 
+      <span itemprop="amount">1/2 c</span>, optional
+    </span><br />
+    
+    
+  <br /><u><h4>Directions</h4></u>
+  <div itemprop="recipeInstructions">
+    1. Preheat oil to 375 F. Preheat oven to 375 F. Scoop out baked sweet potatoes, reserve filling in bowl.<br/>
+    2. Deep fry potato skins in oil. Allow to drip and dry on drying rack over paper towels.<br/>
+    3. Beat sweet potato filling with half and half, half of butter, molasses, and pine nuts (if using) <br/>
+    4. Cube other half of butter and pinch with brown sugar and cinnamon into thick paste.<br/>
+    5. Place marshmallow in center of each potato skin, fill remaining skin with potato filling, top with crumbled brown sugar mixture and bacon.<br/>
+    6. Bake until marshmallow is soft. Remove from oven, toast top of skins and marshmallow with kitchen torch, if available. Serve immediately.<br/>
+    
+    <br />
+    </div>
+
+</div>
+</div>
+
+
+<script>
+    $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"});
+</script>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Pork Roll Benedict]]></title>
@@ -30,7 +142,7 @@
 <h3><b>Story</b> </h3>
  <div>
     <p>
-      Taylor ham, pork roll, whatever you decide to call it, it is one of those things that is a staple in New Jersey but relatively unknown throughout the rest of the US. Jersey friends, in the comments, let me us what you call it and why. We call it pork roll, and we think it was time to take the humble pork roll into the spotlight. For those who don&#8217;t know, it is a tangy cured pork that is usually pan fried and served on a sandwich with cheese, an egg, salt, pepper and ketchup on an everything bagel or hard roll. We took those root components and built up a seriously hearty benedect preserving all of those flavors. We started with a sriracha ketchup sauce on the plate, an everything bagel flavored bread pudding, pork roll and a bit of cheddar, a runny egg, and classic hollandaise with salt and cayenne pepper. 
+      Taylor ham, pork roll, whatever you decide to call it, it is one of those things that is a staple in New Jersey but relatively unknown throughout the rest of the US. Jersey friends, in the comments, let us what you call it and why. We call it pork roll, and we think it was time to take the humble pork roll into the spotlight. For those who don&#8217;t know, it is a tangy cured pork that is usually pan fried and served on a sandwich with cheese, an egg, salt, pepper and ketchup on an everything bagel or hard roll. We took those root components and built up a seriously hearty benedect preserving all of those flavors. We started with a sriracha ketchup sauce on the plate, an everything bagel flavored bread pudding, pork roll and a bit of cheddar, a runny egg, and classic hollandaise with salt and cayenne pepper. 
       <br/><br/><center><img itemprop="image" src="http://rotio.net/rotiofood/2014-11-16/pork-roll-benedict.gif" /></center>
       <br/><br/><center><img itemprop="image" src="http://rotio.net/rotiofood/2014-11-16/pork-roll-benedict-plated-tight.jpg" /></center>
     </p> 
@@ -2385,131 +2497,6 @@ Like I said, most &#8220;mothers&#8221; begin with just water and flour. Sometim
     <img src="http://rotio.net/rotiofood/2014-06-02/tortilla_stack.jpg">
     <img src="http://rotio.net/rotiofood/2014-06-02/platter.jpg">
     <img src="http://rotio.net/rotiofood/2014-06-02/taco.jpg">
-    </div>
-
-</div>
-
-
-
-
-<script>
-    $( "#accordion" ).accordion({
-    collapsible: true,
-    active: false,
-    heightStyle: "content"});
-</script>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[sourdough waffles]]></title>
-    <link href="http://rotiofood.com/blog/2014/04/06/sourdough-waffles/"/>
-    <updated>2014-04-06T08:07:34-05:00</updated>
-    <id>http://rotiofood.com/blog/2014/04/06/sourdough-waffles</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p><img src="http://rotio.net/rotiofood/2014-04-06/waffle.jpg">
-<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">rotio</a></p>
-
-<div id="accordion" style="font-family: 'Alegreya Sans SC', sans-serif;" >
-<h3><b>Story</b> </h3>
- <div>
-    <p>
-    <img src="http://rotio.net/rotiofood/2014-04-06/waffle.gif" />This morning I woke up and asked Katie &#8220;If you could eat anything, what would it be?&#8221; Katie is a member of Leverage Dance Theater and this weekend was opening weekend of their latest show &#8220;Am I the Only One.&#8221; The show has been great and they have two more performances next Saturday! Today was her first day off of work and dance in quite some time so I thought we should have a nice brunch. She picked Belgian Waffles with whipped cream and strawberries. The whole foundational premise of rotio/food is that &#8220;food, like life, is meant to be shared.&#8221; My passion is feeding the people I love food that they love and sharing a meal with them. Sourdough belgian waffles with berries, whipped cream, and a Budweiser at the table with my fiancee on our Sunday off was perfect, and I&#8217;m so happy to be able to share that here.</p>  
-  </div>
-<h3><b>Recipe</b> </h3> 
-  <div itemscope itemtype="http://schema.org/Recipe" >
-  <h3 itemprop="name">Sourdough Waffles with Berries and Cream</h3>
-  <span itemprop="author"> rotio</span>
-  <br />Published: <time datetime=2014-04-06 08:07:34 -0500 itemprop="datePublished">
-    April 6, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-04-06/waffle.jpg" />
-  
-  <br /><span itemprop="description">Sourdough waffles with whipped cream and strawberries</span><br />
-
-  <br />Prep time: <time datetime="PT0H25M" itemprop="prepTime">25m</time> 
-  <br />Cook time: <time datetime="PT0H05M" itemprop="cookTime">5m</time> each waffle
-  <br />Total time: <time datetime="PT0H30M" itemprop="totalTime">30m</time>
-  <br />Yield: <span itemprop="recipeYield">6 waffles</span>
-  
-  <br />
-  
-
-  <br /><h4>Ingredients:</h4>
-    <h4>Waffle:</h4>
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Bread Flour</span>: 
-      <span itemprop="amount">1 c</span> 
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Milk</span>:
-      <span itemprop="amount">1/2 c</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Eggs</span>:
-      <span itemprop="amount">2</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Baking Powder</span>:
-      <span itemprop="amount">1 1/2 tsp</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Buddy*</span>:
-      <span itemprop="amount">1/2 c</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Vanilla Sugar</span>:
-      <span itemprop="amount">1/4 c</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Sea Salt</span>:
-      <span itemprop="amount">1/4 tsp</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Butter</span>:
-      <span itemprop="amount">3 T</span>, melted
-    </span><br />
-    <h4>Topping:</h4>
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Heavy Cream</span>:
-      <span itemprop="amount">1 c</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Sea Salt</span>:
-      <span itemprop="amount">pinch</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Powdered Sugar</span>:
-      <span itemprop="amount">1/4 c</span>, melted
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Vanilla Extract</span>:
-      <span itemprop="amount">3 drops</span>
-    </span><br />
-    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
-      <span itemprop="name">Strawberries</span>:
-      <span itemprop="amount">1 c</span>, washed and cut
-    </span><br /><br />
-    
-
-    
-  <br /><h4>Directions:</h4>
-    
-    <div itemprop="recipeInstructions">
-      1. Mix all waffle ingredients in large bowl.<br />
-      2. Preheat and grease waffle iron.<br />
-      3. Beat all topping ingredients (except strawberries) until stiff peaks are formed.<br />
-      4. Ladle 1 cup of waffle batter into greased waffle iron and spread with ladle. Close and cook for 4-5 minutes until golden brown. <br />
-      5. Remove waffle from iron, top with whipped cream, strawberries, and powdered sugar. Serve immediately. <br />
-     </div>
-    <br />
-    <span>* &#8220;Buddy&#8221; is our pet. He&#8217;s a sourdough starter that we only feed Budweiser and bread flour. He&#8217;s a lot of fun and has a great personality. He&#8217;s been working on his own page on the blog and a Twitter account&#8230; keep an eye out, they&#8217;re coming soon!</span>
-    
-
     </div>
 
 </div>
