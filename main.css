@@ -1,0 +1,194 @@
+body {
+  /*font-family: RobotoDraft, sans-serif;*/
+  font-weight: 300;
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: inherit;
+  margin: 0;
+  font-weight: 300;
+  color: #333;
+}
+
+.title, .title a  {
+  font-size: 2.5rem;
+}
+
+.title a {
+  color: #fff;
+}
+
+.title a:hover, core-menu paper-item a:hover {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 4.5rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 2.25rem;
+}
+
+h4 {
+  font-size: 2rem;
+}
+
+h5 {
+  font-size: 1.75rem;
+}
+
+h6 {
+  font-size: 1.5rem;
+}
+
+p, a {
+  font-size: 1rem;
+}
+
+p {
+  padding-left: 16px;
+  color: #444;
+}
+
+a {
+  text-decoration: none;
+  color: #3f51b5;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.content {
+  margin: 4%;
+  padding: 2%;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
+
+core-header-panel {
+  background-color: #795548;
+}
+
+html /deep/ core-toolbar {
+  background-color: #5D4037;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  /*height: 128px;*/
+  z-index: 1;
+  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+}
+
+.title-container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.panel-toolbar {
+  box-shadow: none;
+}
+
+core-menu paper-item a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 16px;
+}
+
+core-menu paper-item, core-menu paper-item a {
+  color: #fff;
+}
+
+.download-button {
+  margin-left: 16px;
+}
+
+h2 a {
+	font-size: 1.5rem;
+}
+
+paper-item a {
+	font-size: 1rem;
+}
+.fluidMedia {
+    position: relative;
+    padding-bottom: 56.25%; /* proportion value to aspect ratio 16:9 (9 / 16 = 0.5625 or 56.25%) */
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+.fluidMedia iframe {
+    position: absolute;
+    top: 0; 
+    left: 5%;
+    width: 90%;
+    height: 100%;
+}
+
+
+img {
+    top: 0; 
+    left: 1%;
+    width: 90%;
+    height: 100%;
+}
+img[style] {
+    height: 1px !important;
+    width: 1px !important;
+}
+
+article div center img{
+    width: 50%;
+}
+
+article div img{
+    width: 50%;
+	
+}
+
+@media screen and (max-width: 768px){
+	.content {
+		margin: 2%;
+		padding: 1%;
+	}
+	section h2 {
+		font-size: 1.5rem;
+	}
+	section h2 a {
+		font-size: 1.25rem;
+	}
+	html /deep/ core-toolbar {
+		height: 10%
+	}
+	article div center img{
+    width: 80%;
+	}
+
+	article div img{
+		width: 80%;
+	}
+	
+	h1{
+		font-size: 2rem;
+	}
+}
