@@ -41,7 +41,7 @@ Oh and for anyone who was at our wedding, this recipe uses the Rotio/Spice mix w
 <center>
   <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2015-01-10/homemade-crackers.jpg" />
   
-  <br /><span itemprop="description">{{page.description }}</span><br />
+  <br /><span itemprop="description">{{page.description }}</span><br />Adapted from a recipe from <a href="http://smittenkitchen.com/blog/2012/09/homemade-wheat-thins/">Smitten Kitchen</a><br/>
 
   <br />Prep time: <time datetime="PT0H20M" itemprop="prepTime">20m</time>
   <br />Cook time: <time datetime="PT0H8M" itemprop="cookTime">8m</time> 
