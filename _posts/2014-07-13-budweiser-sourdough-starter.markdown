@@ -28,11 +28,12 @@ I remember one time, we were whooping it up about America and how amazing the US
 
 Like I said, most "mothers" begin with just water and flour. Sometimes random juices and scraps are added from the counter to maintain them. <a target="_blank" href="https://www.youtube.com/user/LauraVitalesKitchen">Laura Vitale from Laura in the Kitchen</a> told me that her grandmother would throw in the scraps from pizza dough and pineapple juice occasionally to keep hers going. I decided my starter would have a very strict diet. I started it back in January 2014 and the only two things it's ever been fed are Budweiser and bread flour. Buddy has great willpower and is very good at sticking to his diet. 
 <br/><br/>Below, some shots of some of the roommates throughout the years, and throughout various stages of sobriety <br/><br/> 
+<center>
 <img class="fullimg" src="http://rotio.net/rotiofood/2014-07-13/roommates_1.jpg" /> <br/><em style="text-align:center;font-size:.8em">Nicolai, Ozzy, Sid, Rotio, Kyle, and Simpson - bodyguards for Anne Hathaway.</em> <br/><br/><br/>
 <img class="fullimg" src="http://rotio.net/rotiofood/2014-07-13/roommates_2.jpg"/><br/> <em style="text-align:center;font-size:.8em">Rotio, Ray, Sid, David, Benji, Kyle, Nicolai - Mayan ballgame court, Chichen Itza.</em> <br/><br/><br/>
 <img class="fullimg" src="http://rotio.net/rotiofood/2014-07-13/roommates_3.jpg"/><br/> <em style="text-align:center;font-size:.8em">David, Kyle, Simpson, Nicolai, Ozzy, Rotio - Border Cafe, Harvard Square.</em> <br/><br/><br/>
 <img class="fullimg" src="http://rotio.net/rotiofood/2014-07-13/roommates_4.jpg"/><br/> <em style="text-align:center;font-size:.8em">Rotio, Ozzy, David, Simpson, Nicolai, Tim, Scott, Kyle - Harvard Graduation (there is a story behind my pained look, that is for another day - thanks Nicolai).</em> <br/><br/><br/>
-</p> </div>
+</center></p> </div>
 <h4>Recipe</b> </h4> 
   <div itemscope itemtype="http://schema.org/Recipe" >
   <h4 itemprop="name">Budweiser Sourdough Starter</h4>
