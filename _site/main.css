@@ -1,6 +1,7 @@
 body {
-  font-family: RobotoDraft, sans-serif;
+  /*font-family: RobotoDraft, sans-serif;*/
   font-weight: 300;
+  font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -47,7 +48,7 @@ h6 {
 }
 
 p, a {
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 p {
@@ -65,18 +66,18 @@ a:hover {
 }
 
 .content {
-  margin: 2%;
+  margin: 4%;
   padding: 2%;
   background-color: #f9f9f9;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
 }
 
 core-header-panel {
-  background-color: #00bcd4;
+  background-color: #795548;
 }
 
 html /deep/ core-toolbar {
-  background-color: #00acc1;
+  background-color: #5D4037;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -85,7 +86,7 @@ html /deep/ core-toolbar {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  height: 128px;
+  /*height: 128px;*/
   z-index: 1;
   box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
 }
@@ -139,21 +140,35 @@ paper-item a {
 .fluidMedia iframe {
     position: absolute;
     top: 0; 
-    left: 1%;
-    width: 98%;
+    left: 5%;
+    width: 90%;
     height: 100%;
 }
+
 
 img {
     top: 0; 
     left: 1%;
-    width: 98%;
+    width: 90%;
     height: 100%;
+}
+img[style] {
+    height: 1px !important;
+    width: 1px !important;
+}
+
+article div center img{
+    width: 50%;
+}
+
+article div img{
+    width: 50%;
+	
 }
 
 @media screen and (max-width: 768px){
 	.content {
-		margin: 1%;
+		margin: 2%;
 		padding: 1%;
 	}
 	section h2 {
@@ -164,5 +179,16 @@ img {
 	}
 	html /deep/ core-toolbar {
 		height: 10%
+	}
+	article div center img{
+    width: 80%;
+	}
+
+	article div img{
+		width: 80%;
+	}
+	
+	h1{
+		font-size: 2rem;
 	}
 }
