@@ -87,12 +87,11 @@ buddy: 1
 	 <br/> 
 	 <br />
 	
-	<div><img src="http://rotio.net/rotiofood/2014-07-21/rolls_rolling.jpg" /> <em style="text-align:center;font-size:.8em">Dough being rolled up with butter, cinnamon, and sugar already added.</em> <br/><br/><br/>
+	<center><div><img src="http://rotio.net/rotiofood/2014-07-21/rolls_rolling.jpg" /> <em style="text-align:center;font-size:.8em">Dough being rolled up with butter, cinnamon, and sugar already added.</em> <br/><br/><br/>
 	<img src="http://rotio.net/rotiofood/2014-07-21/rolls_raw.jpg" /> <em style="text-align:center;font-size:.8em">Rolls cut and spaced, before the rise.</em> <br/><br/><br/>
-	<img src="http://rotio.net/rotiofood/2014-07-21/rolls_baked.jpg" style="margin-left:auto;margin-right:auto"/> <em style="text-align:center;font-size:.8em">Rolls baked and ready to be iced.</em> <br/><br/><br/>
-	<img src="http://rotio.net/rotiofood/2014-07-21/rolls_1.jpg" style="margin-left:auto;margin-right:auto"/> <em style="text-align:center;font-size:.8em">The final product - Budweiser Sourdough Cinnamon Rolls.</em> <br/><br/><br/>
-	</div>
-	</div>
+	<img src="http://rotio.net/rotiofood/2014-07-21/rolls_baked.jpg"/> <em style="text-align:center;font-size:.8em">Rolls baked and ready to be iced.</em> <br/><br/><br/>
+	<img src="http://rotio.net/rotiofood/2014-07-21/rolls_1.jpg" /> <em style="text-align:center;font-size:.8em">The final product - Budweiser Sourdough Cinnamon Rolls.</em> <br/><br/><br/>
+	</div></center>
 </div>
 
 
