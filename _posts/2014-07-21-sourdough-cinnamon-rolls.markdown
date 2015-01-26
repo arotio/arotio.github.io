@@ -21,7 +21,7 @@ buddy: 1
 <h4>Story</b> </h4>
  <div>
 	<p>
-	<img src="http://rotio.net/rotiofood/2014-07-21/rolls_baked.jpg"/>The smell of cinnamon rolls in the morning is nearly as powerful as the smell of bacon in the morning. It's that magic spell that seems to automatically levitate you out of bed. My mom used to make these when my siblings and I were little as an occasional treat. Katie and I decided to take a crack at making them homemade with our <a target="_blank" href="http://www.rotiofood.com/buddy/">Buddy Sourdough.</a> The smell of cinnamon wafting through the apartment brought us right back to when we were kids.  The simple answer to your question is, "Yes, Budweiser can make cinnamon buns even better."
+	<img src="http://rotio.net/rotiofood/2014-07-21/rolls_baked.jpg"/><br/>The smell of cinnamon rolls in the morning is nearly as powerful as the smell of bacon in the morning. It's that magic spell that seems to automatically levitate you out of bed. My mom used to make these when my siblings and I were little as an occasional treat. Katie and I decided to take a crack at making them homemade with our <a target="_blank" href="http://www.rotiofood.com/buddy/">Buddy Sourdough.</a> The smell of cinnamon wafting through the apartment brought us right back to when we were kids.  The simple answer to your question is, "Yes, Budweiser can make cinnamon buns even better."
 
 	</p> 
  </div>
@@ -87,8 +87,8 @@ buddy: 1
 	 <br/> 
 	 <br />
 	
-	<div style="width:60%;margin-left:auto;margin-right:auto"><img style="margin-left:auto;margin-right:auto" src="http://rotio.net/rotiofood/2014-07-21/rolls_rolling.jpg" /> <em style="text-align:center;font-size:.8em">Dough being rolled up with butter, cinnamon, and sugar already added.</em> <br/><br/><br/>
-	<img src="http://rotio.net/rotiofood/2014-07-21/rolls_raw.jpg" style="margin-left:auto;margin-right:auto"/> <em style="text-align:center;font-size:.8em">Rolls cut and spaced, before the rise.</em> <br/><br/><br/>
+	<div><img src="http://rotio.net/rotiofood/2014-07-21/rolls_rolling.jpg" /> <em style="text-align:center;font-size:.8em">Dough being rolled up with butter, cinnamon, and sugar already added.</em> <br/><br/><br/>
+	<img src="http://rotio.net/rotiofood/2014-07-21/rolls_raw.jpg" /> <em style="text-align:center;font-size:.8em">Rolls cut and spaced, before the rise.</em> <br/><br/><br/>
 	<img src="http://rotio.net/rotiofood/2014-07-21/rolls_baked.jpg" style="margin-left:auto;margin-right:auto"/> <em style="text-align:center;font-size:.8em">Rolls baked and ready to be iced.</em> <br/><br/><br/>
 	<img src="http://rotio.net/rotiofood/2014-07-21/rolls_1.jpg" style="margin-left:auto;margin-right:auto"/> <em style="text-align:center;font-size:.8em">The final product - Budweiser Sourdough Cinnamon Rolls.</em> <br/><br/><br/>
 	</div>
