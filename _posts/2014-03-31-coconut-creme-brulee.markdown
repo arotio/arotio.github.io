@@ -4,8 +4,8 @@ title: "coconut creme brulee"
 date: 2014-03-31 10:09:50 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-03-31/coconut_top.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-03-31%2Fcoconut_top.jpg
+image: http://anthonyrotio.com/rotiofood/2014-03-31/coconut_top.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-03-31%2Fcoconut_top.jpg
 author: rotio
 keywords: creme brulee in coconut, creme brulee, coconut, coconut shell
 description: Creme brulee cooked in a coconut
@@ -14,14 +14,14 @@ twitter-text: Creme%20brulee%20cooked%20in%20a%20coconut%20on%20rotio%2Ffood%20%
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-03-31/coconut_top.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-03-31/coconut_top.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 
 <h4>Story</b> </h4>
   <div>
 	<p>
-	Simple custard (four ingredients) cooked inside of a fresh coconut. The flavors of the coconut flesh permeated the custard as it cooked for a nice lightly flavored coconut creme brulee. Finishing this off with some sugar and a blowtorch gave a nice thick shell that every creme brulee needs! Added bonus (thank you Alton Brown) save the pods from your vanilla bean and store them in sugar - the sugar will pick up quite a bit of vanilla flavor.<img src="http://rotio.net/rotiofood/2014-03-31/vanilla.jpg" /></p>  
+	Simple custard (four ingredients) cooked inside of a fresh coconut. The flavors of the coconut flesh permeated the custard as it cooked for a nice lightly flavored coconut creme brulee. Finishing this off with some sugar and a blowtorch gave a nice thick shell that every creme brulee needs! Added bonus (thank you Alton Brown) save the pods from your vanilla bean and store them in sugar - the sugar will pick up quite a bit of vanilla flavor.<img src="http://anthonyrotio.com/rotiofood/2014-03-31/vanilla.jpg" /></p>  
   </div>
 
 <h4>Recipe</b> </h4> 
@@ -31,7 +31,7 @@ buddy: 0
   <br />
     March 31, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-03-31/coconut_top.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-03-31/coconut_top.jpg" />
   
   <br /><span itemprop="description">Creme brulee cooked in a coconut</span><br />
 

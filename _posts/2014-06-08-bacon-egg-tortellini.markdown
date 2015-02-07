@@ -5,8 +5,8 @@ date: 2014-06-08 14:07:34 -0600
 comments: true
 categories: 
 - buddy
-image: http://rotio.net/rotiofood/2014-06-08/tortellini2.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-06-08%2Ftortellini2.jpg
+image: http://anthonyrotio.com/rotiofood/2014-06-08/tortellini2.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-06-08%2Ftortellini2.jpg
 author: rotio
 keywords: breakfast tortellini, maple, bacon, egg, tortellini, ricotta
 description: Maple onion tortellini with bacon and egg
@@ -15,7 +15,7 @@ twitter-text: Maple%20onion%20tortellini%20with%20bacon%20and%20egg%20on%20%23ro
 buddy: 1
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-06-08/tortellini2.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-06-08/tortellini2.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
@@ -29,7 +29,7 @@ buddy: 1
   <br />
     June 8, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-08/tortellini_small.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-06-08/tortellini_small.jpg" />
   
   <br /><span itemprop="description">Maple onion sourdough tortellini with bacon and egg</span><br />
 

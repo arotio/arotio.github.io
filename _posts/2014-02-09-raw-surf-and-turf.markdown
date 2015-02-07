@@ -4,8 +4,8 @@ title: "raw surf and turf"
 date: 2014-02-09 5:15:50 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-02-09/surf_turf_rolled.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-02-09%2Fsurf_turf_rolled.jpg
+image: http://anthonyrotio.com/rotiofood/2014-02-09/surf_turf_rolled.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-02-09%2Fsurf_turf_rolled.jpg
 author: rotio
 keywords: raw surf and turf, tuna tartare, beef carpaccio, carpaccio tartare, tuna beef
 description: Tuna Tartare and Beef Carpaccio with crispy shallots. 
@@ -14,7 +14,7 @@ twitter-text: Tuna%20Tartare%20and%20Beef%20Carpaccio%20with%20crispy%20shallots
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-02-09/surf_turf_rolled.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-02-09/surf_turf_rolled.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 
@@ -34,7 +34,7 @@ buddy: 0
   <br />
     February 9, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-09/surf_turf_open.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-02-09/surf_turf_open.jpg" />
   
   <br /><span itemprop="description">Tuna Tartare and Beef Carpaccio with crispy shallots.</span><br />
 

@@ -4,8 +4,8 @@ title: "Pork Roll Benedict"
 date: 2014-11-16 6:10:37 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-11-16/pork-roll-benedict-plated.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-11-16%2Fpork-roll-benedict-plated.jpg
+image: http://anthonyrotio.com/rotiofood/2014-11-16/pork-roll-benedict-plated.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-11-16%2Fpork-roll-benedict-plated.jpg
 author: rotio
 keywords: pork roll, everything bagel, benedict, hollandaise, taylor ham
 description: Everything bagel bread pudding, pork roll, sriracha ketchup, runny egg, and hollandaise
@@ -14,15 +14,15 @@ twitter-text: Pork%20roll%20%23Benedict%20Everything%20bagel%20bread%20pudding%2
 buddy: 0
 ---
 <!-- more -->
-<center><img src="http://rotio.net/rotiofood/2014-11-16/pork-roll-benedict-plated.jpg" /></center>
+<center><img src="http://anthonyrotio.com/rotiofood/2014-11-16/pork-roll-benedict-plated.jpg" /></center>
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
  <div>
 	<p>
 	  Taylor ham, pork roll, whatever you decide to call it, it is one of those things that is a staple in New Jersey but relatively unknown throughout the rest of the US. Jersey friends, in the comments, let us what you call it and why. We call it pork roll, and we think it was time to take the humble pork roll into the spotlight. For those who don't know, it is a tangy cured pork that is usually pan fried and served on a sandwich with cheese, an egg, salt, pepper and ketchup on an everything bagel or hard roll. We took those root components and built up a seriously hearty benedect preserving all of those flavors. We started with a sriracha ketchup sauce on the plate, an everything bagel flavored bread pudding, pork roll and a bit of cheddar, a runny egg, and classic hollandaise with salt and cayenne pepper. 
-	  <br/><br/><center><img itemprop="image" src="http://rotio.net/rotiofood/2014-11-16/pork-roll-benedict.gif" /></center>
-	  <br/><br/><center><img itemprop="image" src="http://rotio.net/rotiofood/2014-11-16/pork-roll-benedict-plated-tight.jpg" /></center>
+	  <br/><br/><center><img itemprop="image" src="http://anthonyrotio.com/rotiofood/2014-11-16/pork-roll-benedict.gif" /></center>
+	  <br/><br/><center><img itemprop="image" src="http://anthonyrotio.com/rotiofood/2014-11-16/pork-roll-benedict-plated-tight.jpg" /></center>
 	</p> 
 </div>
 <h4>Recipe</b> </h4> 
@@ -32,7 +32,7 @@ buddy: 0
   <br />
     November 16, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-11-16/pork-roll-benedict-plated-tight.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-11-16/pork-roll-benedict-plated-tight.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 
@@ -127,7 +127,7 @@ buddy: 0
 	8. Mix ketchup and sriracha, add a splash of milk to thin sauce.<br/>
 	<em><h5>Assembly:</h5></em>
     9. Spread sauce on plate. Place bread pudding on sauce. Top with pork roll, egg, and hollandaise. See gif below for example. Devour<br/>
-	<br/><br/><center><img itemprop="image" src="http://rotio.net/rotiofood/2014-11-16/pork-roll-benedict.gif" /></center>
+	<br/><br/><center><img itemprop="image" src="http://anthonyrotio.com/rotiofood/2014-11-16/pork-roll-benedict.gif" /></center>
 	<br/> 
 	<br />
 	</div>

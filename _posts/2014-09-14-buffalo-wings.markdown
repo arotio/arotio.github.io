@@ -4,8 +4,8 @@ title: "Buffalo Wings"
 date: 2014-09-14 12:10:37 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-09-14/buffalo-wings-top.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-09-14%2Fbuffalo-wings-top.jpg
+image: http://anthonyrotio.com/rotiofood/2014-09-14/buffalo-wings-top.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-09-14%2Fbuffalo-wings-top.jpg
 author: rotio
 keywords: chicken, buffalo, boneless 
 description: Turn a whole chicken into a heaping pile of buffalo wings on the cheap
@@ -14,7 +14,7 @@ twitter-text: Turn%20a%20whole%20chicken%20into%20a%20heaping%20pile%20of%20buff
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-09-14/buffalo-wings-top.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-09-14/buffalo-wings-top.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
@@ -31,7 +31,7 @@ buddy: 0
   <br />
     September 14, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-09-14/buffalo-wings.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-09-14/buffalo-wings.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 

@@ -4,8 +4,8 @@ title: "budweiser wings"
 date: 2014-02-02 9:15:50 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-02-02/wings_plated_tv.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-02-02%2Fwings_plated_full.jpg
+image: http://anthonyrotio.com/rotiofood/2014-02-02/wings_plated_tv.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-02-02%2Fwings_plated_full.jpg
 author: rotio
 keywords: budweiser, hot wings, budweiser wings, crispy baked wings
 description: Wings parboiled in Budweiser then baked hot until crispy. 
@@ -14,7 +14,7 @@ twitter-text: Wings%20parboiled%20in%20Budweiser%20then%20baked%20hot%20until%20
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-02-02/wings_plated_tv.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-02-02/wings_plated_tv.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 
@@ -32,7 +32,7 @@ buddy: 0
   <br />
     February 2, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-02/wings_in_pan.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-02-02/wings_in_pan.jpg" />
   
   <br /><span itemprop="description">Wings infused with Budweiser topped with some HOT sauce.</span><br />
   <span itemprop="review" itemscope itemtype="http://schema.org/Review-aggregate" hidden>

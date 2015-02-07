@@ -4,8 +4,8 @@ title: "salmon sliders"
 date: 2014-02-16 9:15:50 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-02-16/salmon_sliders_plated.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-02-16%2Fsalmon_sliders_plated.jpg
+image: http://anthonyrotio.com/rotiofood/2014-02-16/salmon_sliders_plated.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-02-16%2Fsalmon_sliders_plated.jpg
 author: rotio
 keywords: salmon sliders, cucumber dill, salmon cucumber dill, salmon
 description: Salmon sliders with cucumber dill sauce and tomato. 
@@ -14,7 +14,7 @@ twitter-text: Salmon%20sliders%20with%20cucumber%20dill%20sauce%20and%20tomato.%
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-02-16/salmon_sliders_plated.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-02-16/salmon_sliders_plated.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 
@@ -31,7 +31,7 @@ buddy: 0
   <br />
     February 16, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-16/salmon_sliders_plated_2.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-02-16/salmon_sliders_plated_2.jpg" />
   
   <br /><span itemprop="description">Salmon sliders with cucumber dill sauce and tomato. </span><br />
 

@@ -5,8 +5,8 @@ date: 2014-07-20 05:30:37 -0600
 comments: true
 categories: 
 - buddy
-image: http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_1.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-07-20%2Fbacon_blue_burger_1.jpg
+image: http://anthonyrotio.com/rotiofood/2014-07-20/bacon_blue_burger_1.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-07-20%2Fbacon_blue_burger_1.jpg
 author: rotio
 keywords: sourdough, sourdough hamburger buns, bacon, blue cheese, budweiser, burger
 description: Bacon blue cheese burger on Budweiser sourdough buns
@@ -15,13 +15,13 @@ twitter-text: Bacon%20blue%20cheese%20burger%20on%20Budweiser%20%20sourdough%20b
 buddy: 1
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_1.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-07-20/bacon_blue_burger_1.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
  <div>
 	<p>
-	<img src="http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_2.jpg"/>In our quest for the perfect burger, the classic bacon blue cheese burger had to make an appearance. It took me about 20 years to finally get to the place where I could honestly say that I enjoy blue cheese - either that or enough taste buds have died that I can no longer taste what I didn't like about it. Blue cheese on a cracker with something sweet is great, Uncle John and Aunt Patti have a killer gorgonzola sauce that they serve with prime rib every Christmas Eve, buffalo anything with blue cheese keeps me coming back for more. I'm still a classicist when it comes to burgers, though - I usually like American cheese or cheddar, some sauteed onions, and ketchup with the beef served practically still Mooing. Bacon is a nice bonus. Bacon blue cheese is a nice change-up though and it's one of Katie's favorites so we whipped one up while testing our new <a target="_blank" href="http://www.rotiofood.com/blog/2014/07/15/sourdough-hamburger-buns/">sourdough hamburger buns</a>.
+	<img src="http://anthonyrotio.com/rotiofood/2014-07-20/bacon_blue_burger_2.jpg"/>In our quest for the perfect burger, the classic bacon blue cheese burger had to make an appearance. It took me about 20 years to finally get to the place where I could honestly say that I enjoy blue cheese - either that or enough taste buds have died that I can no longer taste what I didn't like about it. Blue cheese on a cracker with something sweet is great, Uncle John and Aunt Patti have a killer gorgonzola sauce that they serve with prime rib every Christmas Eve, buffalo anything with blue cheese keeps me coming back for more. I'm still a classicist when it comes to burgers, though - I usually like American cheese or cheddar, some sauteed onions, and ketchup with the beef served practically still Mooing. Bacon is a nice bonus. Bacon blue cheese is a nice change-up though and it's one of Katie's favorites so we whipped one up while testing our new <a target="_blank" href="http://www.rotiofood.com/blog/2014/07/15/sourdough-hamburger-buns/">sourdough hamburger buns</a>.
 
 	</p> 
  </div>
@@ -32,7 +32,7 @@ buddy: 1
   <br />
     July 20, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_1.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-07-20/bacon_blue_burger_1.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 

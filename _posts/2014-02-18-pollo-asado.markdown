@@ -4,8 +4,8 @@ title: "pollo asado"
 date: 2014-02-18 9:59:50 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-02-18/pollo_asado.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-02-18%2Fpollo_asado.jpg
+image: http://anthonyrotio.com/rotiofood/2014-02-18/pollo_asado.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-02-18%2Fpollo_asado.jpg
 author: rotio
 keywords: pollo asado, pollo asado tacos, manchego, manchego avocado, pollo asado manchego
 description: Pollo Asado tacos con manchego, avocado, y cilantro. 
@@ -14,7 +14,7 @@ twitter-text: Pollo%20Asado%20tacos%20con%20manchego%2C%20avocado%2C%20y%20cilan
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-02-18/pollo_asado.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-02-18/pollo_asado.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 
@@ -31,7 +31,7 @@ buddy: 0
   <br />
     February 18, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-18/pollo_asado.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-02-18/pollo_asado.jpg" />
   
   <br /><span itemprop="description">Pollo Asado tacos con manchego, avocado, y cilantro.</span><br />
 

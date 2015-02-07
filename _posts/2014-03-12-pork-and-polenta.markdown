@@ -4,8 +4,8 @@ title: "pork and polenta"
 date: 2014-03-12 10:59:50 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-03-12%2Fpork_plated.jpg
+image: http://anthonyrotio.com/rotiofood/2014-03-12/pork_plated.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-03-12%2Fpork_plated.jpg
 author: rotio
 keywords: pork tenderloin, sous vide cheap, sous vide at home, pork sous vide, gouda, polenta
 description: Sous vide pork tenderloin with Gouda Polenta and Asparagus
@@ -14,7 +14,7 @@ twitter-text: Sous%20vide%20pork%20tenderloin%20with%20Gouda%20Polenta%20on%20ro
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-03-12/pork_plated.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 
@@ -32,7 +32,7 @@ buddy: 0
   <br />
     March 12, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-03-12/pork_plated.jpg" />
   
   <br /><span itemprop="description">Sous vide pork tenderloin with Gouda Polenta and Asparagus</span><br />
 

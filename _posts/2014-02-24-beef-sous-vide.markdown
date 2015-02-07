@@ -4,8 +4,8 @@ title: "beef sous vide"
 date: 2014-02-24 10:59:50 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-02-24/beef_sous_vide.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-02-24%2Fbeef_sous_vide.jpg
+image: http://anthonyrotio.com/rotiofood/2014-02-24/beef_sous_vide.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-02-24%2Fbeef_sous_vide.jpg
 author: rotio
 keywords: beef tenderloin, sous vide cheap, sous vide at home, beef sous vide, filet mignon
 description: Sous vide beef tenderloin without the thousand dollar equipment. 
@@ -14,7 +14,7 @@ twitter-text: Beef%20Sous%20Vide%20Easy%2C%20Cheap%2C%20and%20Delicious%20on%20r
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-02-24/beef_sous_vide.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-02-24/beef_sous_vide.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 
@@ -39,7 +39,7 @@ buddy: 0
 
 	To hell with all that. I'm going to show you how to do it with a throwaway (or reusable) beer cooler, a $10 thermometer, and some Ziplock bags. It's easy and it's awesome.<br /><br />
 
-	<img src="http://rotio.net/rotiofood/2014-02-24/beef_comp.jpg"/>
+	<img src="http://anthonyrotio.com/rotiofood/2014-02-24/beef_comp.jpg"/>
 	<em>Take a look at the difference here: the filet on the left was grilled, see how the interior looks just about perfect but the exterior is overdone? The filet on the right was made using the technique below. Perfectly juicy medium rare right out to the seared edge. NOTE: special thanks to Carol Rosseland and John Egan for the beef! Great birthday present and I was even able to use the cooler it came in as a cooking vessel!</em>
 	</p>
   </div>
@@ -50,7 +50,7 @@ buddy: 0
   <br />
     February 24, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-24/beef_sous_vide.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-02-24/beef_sous_vide.jpg" />
   
   <br /><span itemprop="description">"Sous vide" beef tenderloin without the thousand dollar equipment.</span><br />
 
@@ -88,7 +88,7 @@ buddy: 0
 	  7. Remove from heat and feast. <br />
 
 	</div>
-	<img src="http://rotio.net/rotiofood/2014-02-24/beef_gif.gif"/>
+	<img src="http://anthonyrotio.com/rotiofood/2014-02-24/beef_gif.gif"/>
 	</div>
 
 

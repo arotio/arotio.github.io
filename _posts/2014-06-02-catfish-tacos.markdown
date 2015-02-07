@@ -4,8 +4,8 @@ title: "catfish tacos"
 date: 2014-06-02 10:07:34 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-06-02/taco.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-06-02%2Ftaco.jpg
+image: http://anthonyrotio.com/rotiofood/2014-06-02/taco.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-06-02%2Ftaco.jpg
 author: rotio
 keywords: blackened catfish, catfish taco, taco, mango salsa, homemade tortilla
 description: Blackened catfish taco, mango salsa, homemade corn tortilla
@@ -14,13 +14,13 @@ twitter-text: Blackened%20catfish%20taco%2C%20mango%20salsa%2C%20homemade%20corn
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-06-02/taco.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-06-02/taco.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
  <div>
 	<p>
-	<img src="http://rotio.net/rotiofood/2014-06-02/platter.jpg" />As anyone in my family will tell you, I grew up not really a fan of white fish. Mom used to make little delicious grilled packets ("Papillote's") of fish, lemon, herbs, salt and pepper on the grill all the time and I liked them -- but I always wished they were chicken. Looking back, I was missing out! As I've grown older, my taste buds have come to enjoy the taste of fish, especially blackened catfish. This probably has something to do with the number of times I sat next to Nicolai chowing down on the blackened catfish at Border Cafe in Harvard Square or all of the Fish Tacos that Katie has ordered over the years. Either way, I'm thankful that I can enjoy this great little menu item, and when Katie said, "Let's make corn tortillas and fish tacos!" I was more than game. Check out the teamwork photos below that helped make these a reality!</p>  
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-02/platter.jpg" />As anyone in my family will tell you, I grew up not really a fan of white fish. Mom used to make little delicious grilled packets ("Papillote's") of fish, lemon, herbs, salt and pepper on the grill all the time and I liked them -- but I always wished they were chicken. Looking back, I was missing out! As I've grown older, my taste buds have come to enjoy the taste of fish, especially blackened catfish. This probably has something to do with the number of times I sat next to Nicolai chowing down on the blackened catfish at Border Cafe in Harvard Square or all of the Fish Tacos that Katie has ordered over the years. Either way, I'm thankful that I can enjoy this great little menu item, and when Katie said, "Let's make corn tortillas and fish tacos!" I was more than game. Check out the teamwork photos below that helped make these a reality!</p>  
   </div>
 <h4>Recipe</b> </h4> 
   <div itemscope itemtype="http://schema.org/Recipe" >
@@ -29,7 +29,7 @@ buddy: 0
   <br />
     June 2, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-02/taco_good.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-06-02/taco_good.jpg" />
   
   <br /><span itemprop="description">Blackened catfish tacos with mango salsa, purple cabbage, and pineapple cilantro crema, wrapped in a homemade corn tortilla</span><br />
 
@@ -164,14 +164,14 @@ buddy: 0
 	  13. Slice fish, assemble tacos, and enjoy<br />
 	 </div>
 	<br />
-	<img src="http://rotio.net/rotiofood/2014-06-02/salsa.jpg" />
-	<img src="http://rotio.net/rotiofood/2014-06-02/tortilla_pre.jpg" />
-	<img src="http://rotio.net/rotiofood/2014-06-02/tortilla_during.jpg" />
-	<img src="http://rotio.net/rotiofood/2014-06-02/tortilla_raw.jpg" />
-	<img src="http://rotio.net/rotiofood/2014-06-02/tortilla_skillet.jpg" />
-	<img src="http://rotio.net/rotiofood/2014-06-02/tortilla_stack.jpg" />
-	<img src="http://rotio.net/rotiofood/2014-06-02/platter.jpg" />
-	<img src="http://rotio.net/rotiofood/2014-06-02/taco.jpg" />
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-02/salsa.jpg" />
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-02/tortilla_pre.jpg" />
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-02/tortilla_during.jpg" />
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-02/tortilla_raw.jpg" />
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-02/tortilla_skillet.jpg" />
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-02/tortilla_stack.jpg" />
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-02/platter.jpg" />
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-02/taco.jpg" />
 	</div>
 
 

@@ -4,8 +4,8 @@ title: "Korean Cuban Sandwich"
 date: 2014-11-11 10:10:37 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-11-11/korean-cuban-plated.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-11-11%2Fkorean-cuban-plated.jpg
+image: http://anthonyrotio.com/rotiofood/2014-11-11/korean-cuban-plated.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-11-11%2Fkorean-cuban-plated.jpg
 author: rotio
 keywords: korean, cuban, sandwich, bulgogi, gochujang
 description: Traditional Cuban sandwich meets Korean pork and kimchi
@@ -14,7 +14,7 @@ twitter-text: Traditional%20Cuban%20sandwich%20meets%20Korean%20pork%20and%20kim
 buddy: 0
 ---
 <!-- more -->
-<center><img src="http://rotio.net/rotiofood/2014-11-11/korean-cuban-plated.jpg" /></center>
+<center><img src="http://anthonyrotio.com/rotiofood/2014-11-11/korean-cuban-plated.jpg" /></center>
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
@@ -22,10 +22,10 @@ buddy: 0
 	<p>
 	  A lot of you have been insisting that we finally get around to watching the recent Jon Favreau film, <a href="http://www.amazon.com/gp/product/B00KQTGWPC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KQTGWPC&linkCode=as2&tag=rotiofood-20&linkId=3XV6KUIRSC3BXQAL">Chef</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rotiofood-20&l=as2&o=1&a=B00KQTGWPC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. We finally got to it last week and it was inspiring! I knew that the next day we had to take a shot at our own twist on his signature Cuban. We went back and forth on some concepts and finally landed on a Korean-inspired sandwich with a bulgogi-style pork replacing the traditional mojo pork, quick kimchi pickles replacing the pickles, and a gochujang mustard replacing the standard yellow mustard. The rest we left as is: simple swiss, ham, and nice crusty bread. The combination was ridiculous: Salty ham, sweet and garlicky pork, the tang and heat of the kimchi pickle and gochujang mustard balanced by the creaminess of the swiss, all wrapped up in a crusty pressed baguette. One note on this, there are a lot of ingredients and a lot of crock pot time to this recipe, we recommend making a big batch for a group or making the pork and kimchi a day in advance. Once, you've got the pork and kimchi, assembly is a breeze. This would be great for a tailgate or other outdoor party, as well. We made extra so we'd each have one to eat on the way to the airport the next day on our flight to our wedding! 
 	  <br/><br/>It's official, we are Mr. and Mrs. Rotio after a wonderful food-themed wedding, with an amazing group of people, plenty of Budweiser, great music, delicious farm-to-table food, and amazing decor by <a href="http://katherineelizabethevents.com">Katherine Elizabeth Events.</a> More photos to come but we've included a little preview of the best day of our lives so far after the images of one of the best sandwiches we've had so far - enjoy!
-<br/><br/><center><img itemprop="image" src="http://rotio.net/rotiofood/2014-11-11/pork.jpg" /></center>
-<br/><br/><center><img itemprop="image" src="http://rotio.net/rotiofood/2014-11-11/cubano.gif" /></center>
-<br/><br/><center><img itemprop="image" src="http://rotio.net/rotiofood/2014-11-11/korean-cuban-plated-top.jpg" /></center>
-<br/><br/><center><img itemprop="image" src="http://rotio.net/rotiofood/2014-11-11/rotio-wedding-dip.jpg" /></center>
+<br/><br/><center><img itemprop="image" src="http://anthonyrotio.com/rotiofood/2014-11-11/pork.jpg" /></center>
+<br/><br/><center><img itemprop="image" src="http://anthonyrotio.com/rotiofood/2014-11-11/cubano.gif" /></center>
+<br/><br/><center><img itemprop="image" src="http://anthonyrotio.com/rotiofood/2014-11-11/korean-cuban-plated-top.jpg" /></center>
+<br/><br/><center><img itemprop="image" src="http://anthonyrotio.com/rotiofood/2014-11-11/rotio-wedding-dip.jpg" /></center>
 
 </p> 
  </div>
@@ -36,7 +36,7 @@ buddy: 0
   <br />
     November 11, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-11-11/korean-cuban-plated-top.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-11-11/korean-cuban-plated-top.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 

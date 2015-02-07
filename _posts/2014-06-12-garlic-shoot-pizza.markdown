@@ -5,8 +5,8 @@ date: 2014-06-12 00:19:34 -0600
 comments: true
 categories: 
 - buddy
-image: http://rotio.net/rotiofood/2014-06-11/pie2.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-06-11%2Fpie2.jpg
+image: http://anthonyrotio.com/rotiofood/2014-06-11/pie2.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-06-11%2Fpie2.jpg
 author: rotio
 keywords: sourdough, neapolitan, garlic shoots, bacon, cheese, eggplant
 description: Budweiser sourdough pizza with garlic shoots, bacon, and eggplant
@@ -15,12 +15,12 @@ twitter-text: Budweiser%20sourdough%20pizza%20with%20garlic%20shoots%2C%20bacon%
 buddy: 1
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-06-11/pie2.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-06-11/pie2.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
  <div>
-	<p><img src="http://rotio.net/rotiofood/2014-06-11/market.jpg"/><br/>Yesterday, I went to check out a local farmer's market. It was a great experience where the people who grew/prepared/slaughtered the wares were actually standing there to explain to you exactly what you were getting and every step of the process. I was inspired to find some ingredients for our second sourdough pie. I found garlic shoots, which I had never worked with before, herbs de provence goat cheese, and white eggplant. I combined these with some bacon and chili oil to make a pretty tasty, if unconventional, sourdough pie.</p>  
+	<p><img src="http://anthonyrotio.com/rotiofood/2014-06-11/market.jpg"/><br/>Yesterday, I went to check out a local farmer's market. It was a great experience where the people who grew/prepared/slaughtered the wares were actually standing there to explain to you exactly what you were getting and every step of the process. I was inspired to find some ingredients for our second sourdough pie. I found garlic shoots, which I had never worked with before, herbs de provence goat cheese, and white eggplant. I combined these with some bacon and chili oil to make a pretty tasty, if unconventional, sourdough pie.</p>  
   </div>
 <h4>Recipe</b> </h4> 
   <div itemscope itemtype="http://schema.org/Recipe" >
@@ -29,7 +29,7 @@ buddy: 1
   <br />
     June 12, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-11/pie2.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-06-11/pie2.jpg" />
   
   </center>
 <br /><span itemprop="description">Budweiser sourdough pizza with garlic shoots, bacon, and eggplant</span><br />
@@ -79,7 +79,7 @@ buddy: 1
 	</div>
 <h4>Pairing - The Ogden</b> </h4> 
 	<div>
-	<img src="http://rotio.net/rotiofood/2014-06-11/ogden.jpg" />
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-11/ogden.jpg" />
 	<br/>
 	We paired this pie with The Ogden from Goose Island. The Ogden is a bold, sweet, malty Tripel with a fresh black currant, citrusy aroma of Brewers Gold and Citra hops. The sweetness of the malt is very nice to cut through the spicy garlic shoots and tangy goat cheese. The aromatic yet muted-spice hop combination pick up and amplify the chili oil but also provide freshness to the dish. Oh and the Ogden is 9% and lightly carbonated. It will give you a nice buzz.. and if not careful it will put you to bed. Enjoy as often as responsibly possible. It definitely just landed itself in my top 5...
 	</div>

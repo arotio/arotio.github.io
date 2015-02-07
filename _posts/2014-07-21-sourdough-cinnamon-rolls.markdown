@@ -5,8 +5,8 @@ date: 2014-07-21 07:30:37 -0600
 comments: true
 categories: 
 - buddy
-image: http://rotio.net/rotiofood/2014-07-21/rolls_1.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-07-21%2Frolls_1.jpg
+image: http://anthonyrotio.com/rotiofood/2014-07-21/rolls_1.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-07-21%2Frolls_1.jpg
 author: rotio
 keywords: sourdough, cinnamon rolls, buns, cinnamon, budweiser, breakfast
 description: Sourdough cinnamon rolls made with Budweiser sourdough starter
@@ -15,13 +15,13 @@ twitter-text: Sourdough%20cinnamon%20rolls%20made%20with%20Budweiser%20sourdough
 buddy: 1
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-07-21/rolls_1.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-07-21/rolls_1.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
  <div>
 	<p>
-	<img src="http://rotio.net/rotiofood/2014-07-21/rolls_baked.jpg"/><br/>The smell of cinnamon rolls in the morning is nearly as powerful as the smell of bacon in the morning. It's that magic spell that seems to automatically levitate you out of bed. My mom used to make these when my siblings and I were little as an occasional treat. Katie and I decided to take a crack at making them homemade with our <a target="_blank" href="http://www.rotiofood.com/buddy/">Buddy Sourdough.</a> The smell of cinnamon wafting through the apartment brought us right back to when we were kids.  The simple answer to your question is, "Yes, Budweiser can make cinnamon buns even better."
+	<img src="http://anthonyrotio.com/rotiofood/2014-07-21/rolls_baked.jpg"/><br/>The smell of cinnamon rolls in the morning is nearly as powerful as the smell of bacon in the morning. It's that magic spell that seems to automatically levitate you out of bed. My mom used to make these when my siblings and I were little as an occasional treat. Katie and I decided to take a crack at making them homemade with our <a target="_blank" href="http://www.rotiofood.com/buddy/">Buddy Sourdough.</a> The smell of cinnamon wafting through the apartment brought us right back to when we were kids.  The simple answer to your question is, "Yes, Budweiser can make cinnamon buns even better."
 
 	</p> 
  </div>
@@ -32,7 +32,7 @@ buddy: 1
   <br />
     July 21, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-07-21/rolls_1.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-07-21/rolls_1.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 
@@ -87,10 +87,10 @@ buddy: 1
 	 <br/> 
 	 <br />
 	
-	<center><div><img src="http://rotio.net/rotiofood/2014-07-21/rolls_rolling.jpg" /> <em style="text-align:center;font-size:.8em">Dough being rolled up with butter, cinnamon, and sugar already added.</em> <br/><br/><br/>
-	<img src="http://rotio.net/rotiofood/2014-07-21/rolls_raw.jpg" /> <em style="text-align:center;font-size:.8em">Rolls cut and spaced, before the rise.</em> <br/><br/><br/>
-	<img src="http://rotio.net/rotiofood/2014-07-21/rolls_baked.jpg"/> <em style="text-align:center;font-size:.8em">Rolls baked and ready to be iced.</em> <br/><br/><br/>
-	<img src="http://rotio.net/rotiofood/2014-07-21/rolls_1.jpg" /> <em style="text-align:center;font-size:.8em">The final product - Budweiser Sourdough Cinnamon Rolls.</em> <br/><br/><br/>
+	<center><div><img src="http://anthonyrotio.com/rotiofood/2014-07-21/rolls_rolling.jpg" /> <em style="text-align:center;font-size:.8em">Dough being rolled up with butter, cinnamon, and sugar already added.</em> <br/><br/><br/>
+	<img src="http://anthonyrotio.com/rotiofood/2014-07-21/rolls_raw.jpg" /> <em style="text-align:center;font-size:.8em">Rolls cut and spaced, before the rise.</em> <br/><br/><br/>
+	<img src="http://anthonyrotio.com/rotiofood/2014-07-21/rolls_baked.jpg"/> <em style="text-align:center;font-size:.8em">Rolls baked and ready to be iced.</em> <br/><br/><br/>
+	<img src="http://anthonyrotio.com/rotiofood/2014-07-21/rolls_1.jpg" /> <em style="text-align:center;font-size:.8em">The final product - Budweiser Sourdough Cinnamon Rolls.</em> <br/><br/><br/>
 	</div></center>
 </div>
 

@@ -5,8 +5,8 @@ date: 2014-06-19 20:44:37 -0600
 comments: true
 categories: 
 - buddy
-image: http://rotio.net/rotiofood/2014-06-19/final_top_far_wb.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-06-19%2Ffinal_top_far_wb.jpg
+image: http://anthonyrotio.com/rotiofood/2014-06-19/final_top_far_wb.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-06-19%2Ffinal_top_far_wb.jpg
 author: rotio
 keywords: sourdough, sourdough garlic knots, garlic knot, sourdough starter, budweiser
 description: Garlic knots made from Budweiser sourdough starter
@@ -15,12 +15,12 @@ twitter-text: Garlic%20knots%20made%20from%20Budweiser%20sourdough%20starter
 buddy: 1
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-06-19/final_top_far_wb.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-06-19/final_top_far_wb.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
  <div>
-	<p><img src="http://rotio.net/rotiofood/2014-06-19/knot.gif"/><br/>Ah the humble garlic knot. These are a sure-to-find on the menu of any good pizza place. The concept is simple and they're simple to make once you have the pizza dough. You start with the dough, tie a knot, bake it, toss it in some garlic, butter, oil, and salt - and that's it, you're done... Bread, butter, and garlic -- what else do you need. I never started ordering garlic knots regularly until sophomore year of college. We found a pizza place in Harvard Square that served $5 pitchers of beer, which, for Cambridge, was one hell of a deal. The roommates and I partook often. The caveat was that you had to order food to be able to drink. No one wanted to spend 15 bucks on a pie so we defaulted to the cheapest item on the menu: garlic knots. Tasting these brought me right back to that little "Crazy Dough's" restaurant, up the escalator, in "The Garage."<br/><br/><img src="http://rotio.net/rotiofood/2014-06-19/final_wb.jpg"/></p>  
+	<p><img src="http://anthonyrotio.com/rotiofood/2014-06-19/knot.gif"/><br/>Ah the humble garlic knot. These are a sure-to-find on the menu of any good pizza place. The concept is simple and they're simple to make once you have the pizza dough. You start with the dough, tie a knot, bake it, toss it in some garlic, butter, oil, and salt - and that's it, you're done... Bread, butter, and garlic -- what else do you need. I never started ordering garlic knots regularly until sophomore year of college. We found a pizza place in Harvard Square that served $5 pitchers of beer, which, for Cambridge, was one hell of a deal. The roommates and I partook often. The caveat was that you had to order food to be able to drink. No one wanted to spend 15 bucks on a pie so we defaulted to the cheapest item on the menu: garlic knots. Tasting these brought me right back to that little "Crazy Dough's" restaurant, up the escalator, in "The Garage."<br/><br/><img src="http://anthonyrotio.com/rotiofood/2014-06-19/final_wb.jpg"/></p>  
   </div>
 <h4>Recipe</b> </h4> 
   <div itemscope itemtype="http://schema.org/Recipe" >
@@ -29,7 +29,7 @@ buddy: 1
   <br />
     June 19, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-19/final_top_far_wb.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-06-19/final_top_far_wb.jpg" />
   
   <br /><span itemprop="description">Garlic knots made from Budweiser sourdough starter</span><br />
 
@@ -113,7 +113,7 @@ buddy: 1
 	 </div>
 	 
 	<br />
-	<img src="http://rotio.net/rotiofood/2014-06-19/knot.gif"/><br/><br/>
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-19/knot.gif"/><br/><br/>
 	</div>
 
 </div>

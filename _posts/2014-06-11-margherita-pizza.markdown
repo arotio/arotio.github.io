@@ -5,8 +5,8 @@ date: 2014-06-12 00:07:34 -0600
 comments: true
 categories: 
 - buddy
-image: http://rotio.net/rotiofood/2014-06-11/pie1.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-06-11%2Fpie1.jpg
+image: http://anthonyrotio.com/rotiofood/2014-06-11/pie1.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-06-11%2Fpie1.jpg
 author: rotio
 keywords: sourdough, neapolitan, margherita, san marzano, basil, pizza
 description: Budweiser sourdough margherita pizza
@@ -15,7 +15,7 @@ twitter-text: Budweiser%20sourdough%20margherita%20pizza%20on%20%23rotiofood
 buddy: 1
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-06-11/pie1.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-06-11/pie1.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
@@ -29,7 +29,7 @@ buddy: 1
   <br />
     June 12, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-11/pie1.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-06-11/pie1.jpg" />
   
   <br /><span itemprop="description">Budweiser sourdough margherita pizza</span><br />
 
@@ -78,7 +78,7 @@ buddy: 1
 	</div>
 <h4>Pairing - Budweiser</b> </h4> 
 	<div>
-	<img src="http://rotio.net/rotiofood/2014-06-11/budweiser.jpg" />
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-11/budweiser.jpg" />
 	<br/>
 	We paired this pie with a Budweiser. Budweiser's biscuit note picks up the breadiness of the sourdough. The balanced maltiness amplifies the sweetness of the San Marzano tomatoes. Budweiser's crisp, clean finish (from using rice as an adjunct) helps cut the creaminess of the fresh mozz. Really nice combination and it is very cool to taste a hint of the Budweiser in the sourdough -- since that is all that Buddy has been drinking since January -- and then get the full punch of it in the glass.
 	</div>

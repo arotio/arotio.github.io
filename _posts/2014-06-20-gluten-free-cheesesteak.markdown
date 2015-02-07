@@ -4,8 +4,8 @@ title: "Gluten-Free Cheesesteak"
 date: 2014-06-20 20:44:37 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-06-20/plated2.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-06-20%2Fplated.jpg
+image: http://anthonyrotio.com/rotiofood/2014-06-20/plated2.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-06-20%2Fplated.jpg
 author: rotio
 keywords: gluten free cheesesteak, cheesesteak, cheese, steak, no roll
 description: Ribeye over provolone sauce with sauteed onions and mushrooms
@@ -14,12 +14,12 @@ twitter-text: Gluten%20free%20cheesesteak
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-06-20/plated2.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-06-20/plated2.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
  <div>
-	<p><img src="http://rotio.net/rotiofood/2014-06-20/close.jpg"/><br/>Cheesesteaks have always been a favorite among the Rotio family. Shaved sauteed steak, melted cheese, on a nice, fresh, crusty roll. Hope, NJ - the town I grew up in - has one (blinking) stop light and 1800 people. It is a small, beautiful "village" in western New Jersey that truly embodies "The Garden State" mantra. We may have more pizza places per capita in the US than any other city at one pizza place per 900 people - Hope has its priorities in order. A good east coast pizza place will also - more likely than not - make a good cheesesteak on good bread. My brother specifically asked Gio's pizza in Hope for a cheesesteak "with just cheese and steak" so many times that they ended up putting "just cheese and steak" on their menu so he wouldn't have to specify anymore. Last night, Katie and I were watching Iron Chef America - Battle Ribeye and Bobby Flay prepared a ribeye dish with cheesesteak flavors that inspired us to create our own. Ok, ok so the "gluten-free cheesesteak" title was a bit of a joke - it's not a true cheesesteak - but this is our interpretation of a plated cheesesteak with those classic flavors: Sous Vide ribeye, Provolone Sauce, Sauteed Onions and Mushrooms. It tastes so much like the real thing, i may just have to cover this ribeye with ketchup... BLASPHEMY! </p>  
+	<p><img src="http://anthonyrotio.com/rotiofood/2014-06-20/close.jpg"/><br/>Cheesesteaks have always been a favorite among the Rotio family. Shaved sauteed steak, melted cheese, on a nice, fresh, crusty roll. Hope, NJ - the town I grew up in - has one (blinking) stop light and 1800 people. It is a small, beautiful "village" in western New Jersey that truly embodies "The Garden State" mantra. We may have more pizza places per capita in the US than any other city at one pizza place per 900 people - Hope has its priorities in order. A good east coast pizza place will also - more likely than not - make a good cheesesteak on good bread. My brother specifically asked Gio's pizza in Hope for a cheesesteak "with just cheese and steak" so many times that they ended up putting "just cheese and steak" on their menu so he wouldn't have to specify anymore. Last night, Katie and I were watching Iron Chef America - Battle Ribeye and Bobby Flay prepared a ribeye dish with cheesesteak flavors that inspired us to create our own. Ok, ok so the "gluten-free cheesesteak" title was a bit of a joke - it's not a true cheesesteak - but this is our interpretation of a plated cheesesteak with those classic flavors: Sous Vide ribeye, Provolone Sauce, Sauteed Onions and Mushrooms. It tastes so much like the real thing, i may just have to cover this ribeye with ketchup... BLASPHEMY! </p>  
   </div>
 <h4>Recipe</b> </h4> 
   <div itemscope itemtype="http://schema.org/Recipe" >
@@ -28,7 +28,7 @@ buddy: 0
   <br />
     June 20, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-20/plated.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-06-20/plated.jpg" />
   
   <br /><span itemprop="description">Ribeye over provolone sauce with sauteed onions and mushrooms</span><br />
 
@@ -130,7 +130,7 @@ buddy: 0
 	 </div>
 	 
 	<br />
-	<img src="http://rotio.net/rotiofood/2014-06-20/close.jpg" /><br/><br/>
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-20/close.jpg" /><br/><br/>
 	</div>
 
 </div>

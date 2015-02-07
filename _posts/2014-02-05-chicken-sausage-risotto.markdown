@@ -4,8 +4,8 @@ title: "basil risotto"
 date: 2014-02-05 9:15:50 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-02-05/risotto_plated_top.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-02-05%2Frisotto_plated_top.jpg
+image: http://anthonyrotio.com/rotiofood/2014-02-05/risotto_plated_top.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-02-05%2Frisotto_plated_top.jpg
 author: rotio
 keywords: chicken sausage risotto, basil, garlic, tomato, risotto
 description: Chicken Sausage Risotto with basil, garlic and tomato. 
@@ -14,7 +14,7 @@ twitter-text: Chicken%20Sausage%20Risotto%20with%20basil%2C%20garlic%20and%20tom
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-02-05/risotto_plated_top.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-02-05/risotto_plated_top.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 
@@ -31,7 +31,7 @@ buddy: 0
   <br />
     February 5, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-05/risotto_plated.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-02-05/risotto_plated.jpg" />
   
   <br /><span itemprop="description">Risotto with chicken sausage, basil, garlic, and tomato.</span><br />
 

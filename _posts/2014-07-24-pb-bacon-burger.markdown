@@ -5,8 +5,8 @@ date: 2014-07-24 08:10:37 -0600
 comments: true
 categories: 
 - buddy
-image: http://rotio.net/rotiofood/2014-07-24/burger_2.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-07-24%2Fburger_2.jpg
+image: http://anthonyrotio.com/rotiofood/2014-07-24/burger_2.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-07-24%2Fburger_2.jpg
 author: rotio
 keywords: sourdough, sourdough hamburger buns, bacon, peanut butter, budweiser, burger, hamburger
 description: Bacon Cheeseburger with Bacon-Honey Peanut Butter on Budweiser sourdough buns
@@ -15,7 +15,7 @@ twitter-text: Bacon%20Cheeseburger%20with%20Bacon-Honey%20Peanut%20Butter%20on%2
 buddy: 1
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-07-24/burger_2.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-07-24/burger_2.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
@@ -32,7 +32,7 @@ buddy: 1
   <br />
     July 24, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-07-24/burger_2.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-07-24/burger_2.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 

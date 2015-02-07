@@ -4,8 +4,8 @@ title: "Christmas Fondue"
 date: 2014-12-07 11:59:37 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-12-07/fondue-dip-tree-horizontal-2.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-12-07%2Ffondue-dip-tree-horizontal-2.jpg
+image: http://anthonyrotio.com/rotiofood/2014-12-07/fondue-dip-tree-horizontal-2.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-12-07%2Ffondue-dip-tree-horizontal-2.jpg
 author: rotio
 keywords: fondue, christmas fondue, cheese fondue, fontina, gruyere, decorating the tree
 description: Cheese fondue with fontina and gruyere, a Christmas tradition when decorating the tree
@@ -40,7 +40,7 @@ One weekend of the month (Molly and I always begged for it to be as soon as poss
 When the tree was sufficiently trimmed, it was time to get dinner ready. Every year, for as long as I can remember, the dinner for this special night in our house was cheese fondue. My memory is that Mom would usually vacuum the tree needles and put all the boxes away, Molly and I would set the table, and Dad would prep dinner. Cheese fondue is literally white wine, cheese, and garlic, melted and served in a special pot with a candle underneath to keep it warm and smooth. And you dip toasted chunks of crusty bread into it. Could anything be more delicious? The only thing that makes it even better is dimming all the lights and eating by the light of the freshly trimmed Christmas tree. 
 <br/><br/>
 This year, we kept the tradition alive in our newlywed household. We went out and cut down a tree at Eckert's Farm in Illinois, set it all up with a Nog in hand, and to the proper soundtrack, and served up a delicious cheese fondue made from scratch. There are a ton of recipes out there for fondue, but we think simple is best. It's seriously SO easy; just keep stirring.</p> 
-<center><img itemprop="image"  src="http://rotio.net/rotiofood/2014-12-07/fondue-dip-tree-vertical.jpg" /></center>
+<center><img itemprop="image"  src="http://anthonyrotio.com/rotiofood/2014-12-07/fondue-dip-tree-vertical.jpg" /></center>
 </p></div>
 <h4>Recipe</b> </h4> 
   <div itemscope itemtype="http://schema.org/Recipe" >
@@ -49,7 +49,7 @@ This year, we kept the tradition alive in our newlywed household. We went out an
   <br />
     December 7, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-12-07/fondue-dip-tree-horizontal.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-12-07/fondue-dip-tree-horizontal.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 

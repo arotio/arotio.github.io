@@ -4,8 +4,8 @@ title: "Sweet Potato Skins"
 date: 2014-11-25 11:59:37 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-11-25/potato-skin-single.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-11-25%2Fpotato-skin-single.jpg
+image: http://anthonyrotio.com/rotiofood/2014-11-25/potato-skin-single.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-11-25%2Fpotato-skin-single.jpg
 author: rotio
 keywords: sweet potato, potato skin, bacon, marshmallow, thanksgiving
 description: Fried sweet potato skin, sweet potato molasses puree, marshmallow, bacon, brown sugar, pine nuts
@@ -14,14 +14,14 @@ twitter-text: Fried%20sweet%20potato%20skin%2C%20sweet%20potato%20molasses%20pur
 buddy: 0
 ---
 <!-- more -->
-<center><img src="http://rotio.net/rotiofood/2014-11-25/potato-skin-single.jpg" /></center>
+<center><img src="http://anthonyrotio.com/rotiofood/2014-11-25/potato-skin-single.jpg" /></center>
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
  <div>
 	<p>
 	  Sweet potatoes were on sale at the grocery store, so I thought I'd take an old family favorite - sweet potatoes with marshmallows and brown sugar - and see if we could make them work in a bar food favorite - potato skins! We fried the skins, puree'd the filling with molasses, added brown sugar and butter, and topped with a marshmallow and bacon. Truly decadent for the holidays!
-	  <br/><br/><center><img itemprop="image" src="http://rotio.net/rotiofood/2014-11-25/potato-skins-top.jpg" /></center>
+	  <br/><br/><center><img itemprop="image" src="http://anthonyrotio.com/rotiofood/2014-11-25/potato-skins-top.jpg" /></center>
 	</p> 
 </div>
 <h4>Recipe</b> </h4> 
@@ -31,7 +31,7 @@ buddy: 0
   <br />
     November 25, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-11-25/potato-skin-single.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-11-25/potato-skin-single.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 

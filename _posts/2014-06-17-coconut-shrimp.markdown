@@ -4,8 +4,8 @@ title: "Coconut Shrimp"
 date: 2014-06-17 05:44:37 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-06-17/plated_tight.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-06-17%2Fplated_tight.jpg
+image: http://anthonyrotio.com/rotiofood/2014-06-17/plated_tight.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-06-17%2Fplated_tight.jpg
 author: rotio
 keywords: coconut shrimp, shrimp, coconut, grapefruit, homemade pickles
 description: Coconut shrimp with sriracha molasses over pickled cucumber and grapefruit
@@ -14,12 +14,12 @@ twitter-text: Coconut%20shrimp%20with%20sriracha%20molasses%20over%20pickled%20c
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-06-17/plated_tight.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-06-17/plated_tight.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
  <div>
-	<p><img src="http://rotio.net/rotiofood/2014-06-17/plated_two.jpg"/><br/>Sometime last week, coconut shrimp popped up on one of the cooking shows that happened to be on in the background while we were working. To my surprise, Katie said aloud, "I love coconut shrimp!" This was a dish I had completely forgotten about but was determined to try again - they are delicious when they come out right, relatively easy to prepare, and, apparently, one of Katie's favorites. Mom used to make great coconut shrimp when we were kids, so I dug into the old memory bank and got to work.</p>  
+	<p><img src="http://anthonyrotio.com/rotiofood/2014-06-17/plated_two.jpg"/><br/>Sometime last week, coconut shrimp popped up on one of the cooking shows that happened to be on in the background while we were working. To my surprise, Katie said aloud, "I love coconut shrimp!" This was a dish I had completely forgotten about but was determined to try again - they are delicious when they come out right, relatively easy to prepare, and, apparently, one of Katie's favorites. Mom used to make great coconut shrimp when we were kids, so I dug into the old memory bank and got to work.</p>  
   </div>
 <h4>Recipe</b> </h4> 
   <div itemscope itemtype="http://schema.org/Recipe" >
@@ -28,7 +28,7 @@ buddy: 0
   <br />
     June 17, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-17/plated_tight.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-06-17/plated_tight.jpg" />
   
   <br /><span itemprop="description">Coconut shrimp with sriracha molasses over pickled cucumber and grapefruit</span><br />
 

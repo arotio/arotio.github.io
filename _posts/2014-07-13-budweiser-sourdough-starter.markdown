@@ -5,8 +5,8 @@ date: 2014-07-13 18:44:37 -0600
 comments: true
 categories: 
 - buddy
-image: http://rotio.net/rotiofood/2014-07-13/buddy_top.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-07-13%2Fbuddy_top.jpg
+image: http://anthonyrotio.com/rotiofood/2014-07-13/buddy_top.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-07-13%2Fbuddy_top.jpg
 author: rotio
 keywords: sourdough, sourdough garlic knots, garlic knot, sourdough starter, budweiser
 description: Sourdough starter made with Budweiser
@@ -15,7 +15,7 @@ twitter-text: Sourdough%20starter%20made%20with%20Budweiser%20
 buddy: 1
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-07-13/buddy_top.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-07-13/buddy_top.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
@@ -29,10 +29,10 @@ I remember one time, we were whooping it up about America and how amazing the US
 Like I said, most "mothers" begin with just water and flour. Sometimes random juices and scraps are added from the counter to maintain them. <a target="_blank" href="https://www.youtube.com/user/LauraVitalesKitchen">Laura Vitale from Laura in the Kitchen</a> told me that her grandmother would throw in the scraps from pizza dough and pineapple juice occasionally to keep hers going. I decided my starter would have a very strict diet. I started it back in January 2014 and the only two things it's ever been fed are Budweiser and bread flour. Buddy has great willpower and is very good at sticking to his diet. 
 <br/><br/>Below, some shots of some of the roommates throughout the years, and throughout various stages of sobriety <br/><br/> 
 <center>
-<img class="fullimg" src="http://rotio.net/rotiofood/2014-07-13/roommates_1.jpg" /> <br/><em style="text-align:center;font-size:.8em">Nicolai, Ozzy, Sid, Rotio, Kyle, and Simpson - bodyguards for Anne Hathaway.</em> <br/><br/><br/>
-<img class="fullimg" src="http://rotio.net/rotiofood/2014-07-13/roommates_2.jpg"/><br/> <em style="text-align:center;font-size:.8em">Rotio, Ray, Sid, David, Benji, Kyle, Nicolai - Mayan ballgame court, Chichen Itza.</em> <br/><br/><br/>
-<img class="fullimg" src="http://rotio.net/rotiofood/2014-07-13/roommates_3.jpg"/><br/> <em style="text-align:center;font-size:.8em">David, Kyle, Simpson, Nicolai, Ozzy, Rotio - Border Cafe, Harvard Square.</em> <br/><br/><br/>
-<img class="fullimg" src="http://rotio.net/rotiofood/2014-07-13/roommates_4.jpg"/><br/> <em style="text-align:center;font-size:.8em">Rotio, Ozzy, David, Simpson, Nicolai, Tim, Scott, Kyle - Harvard Graduation (there is a story behind my pained look, that is for another day - thanks Nicolai).</em> <br/><br/><br/>
+<img class="fullimg" src="http://anthonyrotio.com/rotiofood/2014-07-13/roommates_1.jpg" /> <br/><em style="text-align:center;font-size:.8em">Nicolai, Ozzy, Sid, Rotio, Kyle, and Simpson - bodyguards for Anne Hathaway.</em> <br/><br/><br/>
+<img class="fullimg" src="http://anthonyrotio.com/rotiofood/2014-07-13/roommates_2.jpg"/><br/> <em style="text-align:center;font-size:.8em">Rotio, Ray, Sid, David, Benji, Kyle, Nicolai - Mayan ballgame court, Chichen Itza.</em> <br/><br/><br/>
+<img class="fullimg" src="http://anthonyrotio.com/rotiofood/2014-07-13/roommates_3.jpg"/><br/> <em style="text-align:center;font-size:.8em">David, Kyle, Simpson, Nicolai, Ozzy, Rotio - Border Cafe, Harvard Square.</em> <br/><br/><br/>
+<img class="fullimg" src="http://anthonyrotio.com/rotiofood/2014-07-13/roommates_4.jpg"/><br/> <em style="text-align:center;font-size:.8em">Rotio, Ozzy, David, Simpson, Nicolai, Tim, Scott, Kyle - Harvard Graduation (there is a story behind my pained look, that is for another day - thanks Nicolai).</em> <br/><br/><br/>
 </center></p> </div>
 <h4>Recipe</b> </h4> 
   <div itemscope itemtype="http://schema.org/Recipe" >
@@ -41,7 +41,7 @@ Like I said, most "mothers" begin with just water and flour. Sometimes random ju
   <br />
     July 13, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-07-13/buddy_close.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-07-13/buddy_close.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 
@@ -78,7 +78,7 @@ Like I said, most "mothers" begin with just water and flour. Sometimes random ju
 	 </div>
 	 <br/> 
 	 <br/>
-	 <div style="width:60%;margin-left:auto;margin-right:auto"><img src="http://rotio.net/rotiofood/buddy/buddy.gif"/></div>
+	 <div style="width:60%;margin-left:auto;margin-right:auto"><img src="http://anthonyrotio.com/rotiofood/buddy/buddy.gif"/></div>
 	<br />
 	
 	</div>

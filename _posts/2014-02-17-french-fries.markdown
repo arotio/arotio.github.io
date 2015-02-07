@@ -4,8 +4,8 @@ title: "french fries"
 date: 2014-02-17 8:20:50 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-02-17/fries.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-02-17%2Ffries.jpg
+image: http://anthonyrotio.com/rotiofood/2014-02-17/fries.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-02-17%2Ffries.jpg
 author: rotio
 keywords: bistro fries, french fries, french bistro fries, crispy fries, perfect fries
 description: Crispy, tender bistro fries. 
@@ -14,7 +14,7 @@ twitter-text: Crispy%2C%20tender%20bistro%20fries.%20on%20rotio%2Ffood%20%23roti
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-02-17/fries.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-02-17/fries.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 
@@ -31,7 +31,7 @@ buddy: 0
   <br />
     February 17, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-17/fries.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-02-17/fries.jpg" />
   
   <br /><span itemprop="description">Crispy, tender bistro fries.</span><br />
 

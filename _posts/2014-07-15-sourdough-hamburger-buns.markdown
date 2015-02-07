@@ -5,8 +5,8 @@ date: 2014-07-15 05:30:37 -0600
 comments: true
 categories: 
 - buddy
-image: http://rotio.net/rotiofood/2014-07-15/buns_done.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-07-15%2Fbuns_done.jpg
+image: http://anthonyrotio.com/rotiofood/2014-07-15/buns_done.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-07-15%2Fbuns_done.jpg
 author: rotio
 keywords: sourdough, sourdough hamburger buns, hamburger buns, sourdough starter, budweiser
 description: Sourdough hamburger buns made with Budweiser sourdough starter
@@ -15,7 +15,7 @@ twitter-text: Sourdough%20hamburger%20buns%20made%20with%20Budweiser%20%20sourdo
 buddy: 1
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-07-15/buns_done.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-07-15/buns_done.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
@@ -32,7 +32,7 @@ buddy: 1
   <br />
     July 15, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-07-15/buns_done.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-07-15/buns_done.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 
@@ -97,10 +97,10 @@ buddy: 1
 	</div>
 	 <br/> 
 	 <br />
-	<div style="width:60%;margin-left:auto;margin-right:auto"><img style="margin-left:auto;margin-right:auto" src="http://rotio.net/rotiofood/2014-07-15/buns_dough.jpg" /> <em style="text-align:center;font-size:.8em">Sourdough ball, ready to rise.</em> <br/><br/><br/>
-	<img src="http://rotio.net/rotiofood/2014-07-15/buns_risen.jpg" style="margin-left:auto;margin-right:auto"/> <em style="text-align:center;font-size:.8em">The buns shaped and risen - almost ready for the oven.</em> <br/><br/><br/>
-	<img src="http://rotio.net/rotiofood/2014-07-15/buns_seeds.jpg" style="margin-left:auto;margin-right:auto"/> <em style="text-align:center;font-size:.8em">Some black sesame seeds for a little extra nutty flavor.</em> <br/><br/><br/>
-	<img src="http://rotio.net/rotiofood/2014-07-15/buns_done.jpg" style="margin-left:auto;margin-right:auto"/> <em style="text-align:center;font-size:.8em">Final product, ready for a juicy, rare burger.</em> <br/><br/><br/>
+	<div style="width:60%;margin-left:auto;margin-right:auto"><img style="margin-left:auto;margin-right:auto" src="http://anthonyrotio.com/rotiofood/2014-07-15/buns_dough.jpg" /> <em style="text-align:center;font-size:.8em">Sourdough ball, ready to rise.</em> <br/><br/><br/>
+	<img src="http://anthonyrotio.com/rotiofood/2014-07-15/buns_risen.jpg" style="margin-left:auto;margin-right:auto"/> <em style="text-align:center;font-size:.8em">The buns shaped and risen - almost ready for the oven.</em> <br/><br/><br/>
+	<img src="http://anthonyrotio.com/rotiofood/2014-07-15/buns_seeds.jpg" style="margin-left:auto;margin-right:auto"/> <em style="text-align:center;font-size:.8em">Some black sesame seeds for a little extra nutty flavor.</em> <br/><br/><br/>
+	<img src="http://anthonyrotio.com/rotiofood/2014-07-15/buns_done.jpg" style="margin-left:auto;margin-right:auto"/> <em style="text-align:center;font-size:.8em">Final product, ready for a juicy, rare burger.</em> <br/><br/><br/>
 	</div>
 	</div>
 

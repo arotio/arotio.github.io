@@ -4,8 +4,8 @@ title: "steak tip salad"
 date: 2014-06-04 10:07:34 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-06-04/salad_steak.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-06-04%2Fsalad_steak.jpg
+image: http://anthonyrotio.com/rotiofood/2014-06-04/salad_steak.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-06-04%2Fsalad_steak.jpg
 author: rotio
 keywords: steak skewers, steak tip salad, summer steak tip salad, summer salad, paleo salad
 description: Summer salad with marinated steak tips
@@ -14,7 +14,7 @@ twitter-text: Summer%20salad%20with%20marinated%20steak%20tips%20on%20%23rotiofo
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-06-04/salad_steak.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-06-04/salad_steak.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
@@ -29,7 +29,7 @@ buddy: 0
   <br />
     June 4, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-04/steak_salad.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-06-04/steak_salad.jpg" />
   
   <br /><span itemprop="description">Summer salad with marinated steak tips</span><br />
 

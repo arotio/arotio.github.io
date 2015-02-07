@@ -4,8 +4,8 @@ title: "foolproof popcorn"
 date: 2014-02-05 10:15:50 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-02-05/popcorn_plated.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-02-05%2Fpopcorn_plated.jpg
+image: http://anthonyrotio.com/rotiofood/2014-02-05/popcorn_plated.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-02-05%2Fpopcorn_plated.jpg
 author: rotio
 keywords: foolproof popcorn, simple stove top popcorn, no burn popcorn
 description: Simple, burn proof, stovetop popcorn, one of our staples. 
@@ -14,13 +14,13 @@ twitter-text: Simple%2C%20burn%20proof%2C%20stovetop%20popcorn%2C%20one%20of%20o
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-02-05/popcorn_plated.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-02-05/popcorn_plated.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 
 <h4>Story</h4>
   <div>
-	<img src="http://rotio.net/rotiofood/2014-02-05/popcorn_zoom.jpg" />
+	<img src="http://anthonyrotio.com/rotiofood/2014-02-05/popcorn_zoom.jpg" />
     <p>
 	Sometimes the simple things are simply the best. Popcorn is no exception and is a staple in our home. Hungry for a snack? Popcorn. Nothing for dinner? A lot of Popcorn. Don't feel like cooking but starving? Pasta pot full of popcorn. We generally eat the simple version below, sometimes we add some butter, sometimes not. We've optimized it to the point where we rarely burn and rarely have many kernels left over so hopefully our trial and error can be for your benefit. Like our pizza recipes, this is one where we'll demonstrate the simple version and add some future variations to kick it up. Comments with suggested flavor combinations are always encouraged.
 	</p>
@@ -32,7 +32,7 @@ buddy: 0
   <br />
     February 5, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-05/popcorn_pan.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-02-05/popcorn_pan.jpg" />
   
   <br /><span itemprop="description">Simple stovetop popcorn.</span><br />
 

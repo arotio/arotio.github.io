@@ -5,8 +5,8 @@ date: 2014-04-06 7:07:34 -0600
 comments: true
 categories: 
 - buddy
-image: http://rotio.net/rotiofood/2014-04-06/waffle.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-04-06%2Fwaffle.jpg
+image: http://anthonyrotio.com/rotiofood/2014-04-06/waffle.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-04-06%2Fwaffle.jpg
 author: rotio
 keywords: waffle, sourdough waffle, sourdough starter, budweiser waffle
 description: Sourdough waffles with whipped cream and strawberries
@@ -15,13 +15,13 @@ twitter-text: Sourdough%20waffles%20on%20rotio%2Ffood%20%23rotiofood
 buddy: 1
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-04-06/waffle.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-04-06/waffle.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
  <div>
 	<p>
-	<img src="http://rotio.net/rotiofood/2014-04-06/waffle.gif" />This morning I woke up and asked Katie "If you could eat anything, what would it be?" Katie is a member of Leverage Dance Theater and this weekend was opening weekend of their latest show "Am I the Only One." The show has been great and they have two more performances next Saturday! Today was her first day off of work and dance in quite some time so I thought we should have a nice brunch. She picked Belgian Waffles with whipped cream and strawberries. The whole foundational premise of rotio/food is that "food, like life, is meant to be shared." My passion is feeding the people I love food that they love and sharing a meal with them. Sourdough belgian waffles with berries, whipped cream, and a Budweiser at the table with my fiancee on our Sunday off was perfect, and I'm so happy to be able to share that here.</p>  
+	<img src="http://anthonyrotio.com/rotiofood/2014-04-06/waffle.gif" />This morning I woke up and asked Katie "If you could eat anything, what would it be?" Katie is a member of Leverage Dance Theater and this weekend was opening weekend of their latest show "Am I the Only One." The show has been great and they have two more performances next Saturday! Today was her first day off of work and dance in quite some time so I thought we should have a nice brunch. She picked Belgian Waffles with whipped cream and strawberries. The whole foundational premise of rotio/food is that "food, like life, is meant to be shared." My passion is feeding the people I love food that they love and sharing a meal with them. Sourdough belgian waffles with berries, whipped cream, and a Budweiser at the table with my fiancee on our Sunday off was perfect, and I'm so happy to be able to share that here.</p>  
   </div>
 <h4>Recipe</b> </h4> 
   <div itemscope itemtype="http://schema.org/Recipe" >
@@ -30,7 +30,7 @@ buddy: 1
   <br />
     April 6, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-04-06/waffle.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-04-06/waffle.jpg" />
   
   <br /><span itemprop="description">Sourdough waffles with whipped cream and strawberries</span><br />
 

@@ -4,8 +4,8 @@ title: "baguette"
 date: 2014-04-02 10:09:50 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-04-02/bread_angle.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-04-02%2Fbread_angle.jpg
+image: http://anthonyrotio.com/rotiofood/2014-04-02/bread_angle.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-04-02%2Fbread_angle.jpg
 author: rotio
 keywords: baguette, french baguette, bread, italian bread
 description: Straightforward baguette
@@ -14,14 +14,14 @@ twitter-text: Straightforward%20baguette%20on%20rotio%2Ffood%20%23rotiofood
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-04-02/bread_angle.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-04-02/bread_angle.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 
 <h4>Story</b> </h4>
   <div>
 	<p>
-	<img src="http://rotio.net/rotiofood/2014-04-02/bread_all.jpg" />Good bread is up there with water on my "need it to live" list. There's just something about breaking bread that has a nice crunchy crust and a light airy center that is incredibly satisfying. When you can make your own and serve it warm, butter half melts and seeps into all of the nooks and crannies like it was made to settle in there. Usually, we serve these baguettes with something saucy and a hunk lives in our left hand as we eat, serving as an "Italian napkin" to sop up all of the goodness left on the plate. Bread is easier than you think. If you fail the first time, try and try again. Once you nail it, you won't go back.</p>  
+	<img src="http://anthonyrotio.com/rotiofood/2014-04-02/bread_all.jpg" />Good bread is up there with water on my "need it to live" list. There's just something about breaking bread that has a nice crunchy crust and a light airy center that is incredibly satisfying. When you can make your own and serve it warm, butter half melts and seeps into all of the nooks and crannies like it was made to settle in there. Usually, we serve these baguettes with something saucy and a hunk lives in our left hand as we eat, serving as an "Italian napkin" to sop up all of the goodness left on the plate. Bread is easier than you think. If you fail the first time, try and try again. Once you nail it, you won't go back.</p>  
   </div>
 
 <h4>Recipe</b> </h4> 
@@ -31,7 +31,7 @@ buddy: 0
   <br />
     April 2, 2014
 <center>
-  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-04-02/bread_close.jpg" />
+  <img itemprop="image" width="200px"  src="http://anthonyrotio.com/rotiofood/2014-04-02/bread_close.jpg" />
   
   <br /><span itemprop="description">Straightforward Baguette</span><br />
 

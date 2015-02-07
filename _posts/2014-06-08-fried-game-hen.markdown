@@ -4,8 +4,8 @@ title: "Fried Game Hen"
 date: 2014-06-08 20:07:34 -0600
 comments: true
 categories: 
-image: http://rotio.net/rotiofood/2014-06-08/plated.jpg
-alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-06-08%2Fplated.jpg
+image: http://anthonyrotio.com/rotiofood/2014-06-08/plated.jpg
+alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2014-06-08%2Fplated.jpg
 author: rotio
 keywords: fried cornish game hen, hen, nest, brussels, sprouts, buttermilk
 description: Buttermilk fried cornish game hen stung with Sriracha honey in "nest" of brussels sprouts and currants
@@ -14,12 +14,12 @@ twitter-text: Buttermilk%20fried%20cornish%20game%20hen%20in%20%22nest%22%20of%2
 buddy: 0
 ---
 <!-- more -->
-<img src="http://rotio.net/rotiofood/2014-06-08/plated.jpg" />
+<img src="http://anthonyrotio.com/rotiofood/2014-06-08/plated.jpg" />
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
  <div>
-	<p><img src="http://rotio.net/rotiofood/2014-06-08/two_plated.jpg"/><br/>Ever since Katie bought me a deep fryer for Christmas last year, I've been thinking about giving fried chicken a shot. Mom taught me how to make the best Italian style chicken cutlet but southern-style fried chicken was something I've never been able to master. Cornish game hens were on sale and I wondered if frying a whole one would be doable. People do whole turkeys, a little bird like a game hen had to be possible. So I bought one, some buttermilk and some brussels for a "nest" and set out to see if we could pull it off... </p>  
+	<p><img src="http://anthonyrotio.com/rotiofood/2014-06-08/two_plated.jpg"/><br/>Ever since Katie bought me a deep fryer for Christmas last year, I've been thinking about giving fried chicken a shot. Mom taught me how to make the best Italian style chicken cutlet but southern-style fried chicken was something I've never been able to master. Cornish game hens were on sale and I wondered if frying a whole one would be doable. People do whole turkeys, a little bird like a game hen had to be possible. So I bought one, some buttermilk and some brussels for a "nest" and set out to see if we could pull it off... </p>  
   </div>
 <h4>Recipe</b> </h4> 
   <div itemscope itemtype="http://schema.org/Recipe" >
@@ -28,7 +28,7 @@ buddy: 0
   <br />
     June 8, 2014
 <center>
-  <img itemprop="image" width="267px"  src="http://rotio.net/rotiofood/2014-06-08/search.jpg" />
+  <img itemprop="image" width="267px"  src="http://anthonyrotio.com/rotiofood/2014-06-08/search.jpg" />
   
   <br /><span itemprop="description">Buttermilk fried cornish game hen stung with Sriracha honey in "nest" of brussels sprouts and currants</span><br />
 
@@ -149,11 +149,11 @@ buddy: 0
 	  9. Pour sting over birds. Grab a rag for your hands and dig in.<br/>
 	 </div>
 	<br />
-	<img src="http://rotio.net/rotiofood/2014-06-08/raw.jpg"/>
-	<img src="http://rotio.net/rotiofood/2014-06-08/fry.jpg"/>
-	<img src="http://rotio.net/rotiofood/2014-06-08/spoon.jpg"/>
-	<img src="http://rotio.net/rotiofood/2014-06-08/done.jpg"/>
-	<img src="http://rotio.net/rotiofood/2014-06-08/two_plated.jpg"/>
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-08/raw.jpg"/>
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-08/fry.jpg"/>
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-08/spoon.jpg"/>
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-08/done.jpg"/>
+	<img src="http://anthonyrotio.com/rotiofood/2014-06-08/two_plated.jpg"/>
 	</div>
 
 
