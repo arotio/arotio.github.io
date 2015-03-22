@@ -4,6 +4,7 @@ title: "Budweiser Brioche Buns"
 date: 2015-03-21 21:30:37 -0600
 comments: true
 categories: 
+- buddy
 image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2015-03-21%2Fbudweiser-brioche-buns-baked.jpg
 alt-image: http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2015-03-21%2Fbudweiser-brioche-buns-baked.jpg
 author: rotio
