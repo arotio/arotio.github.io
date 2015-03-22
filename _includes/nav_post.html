@@ -1,0 +1,28 @@
+<div style="z-index:1000" class="navbar nav_post">
+  <div class="navbar-inner">
+	 <ul class="nav">
+      {% for navigation_element in site.navigation_elements %}
+      <li>
+        <a href="{{ navigation_element.link }}">
+          {{ navigation_element.name }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+	<div class="social">
+	  <div class="soc1"><a target="_blank" href="http://www.facebook.com/rotiofood/" rel="subscribe-facebook" title="follow on facebook"><div class="share-icon"><img src="{{ root_url }}/images/fbook.png" style="max-height:100%"/></div></a></div>
+      <div class="soc2"><a target="_blank" href="http://www.pinterest.com/rotiofood/" rel="subscribe-pinterest" title="follow on pinterest"><div class="share-icon"><img src="{{ root_url }}/images/pinterest.png" style="max-height:100%"/></div></a></div>
+      <div class="soc3"><a target="_blank" href="https://docs.google.com/forms/d/1yyaTIvheO6e3QZ3-sa14jBpd7C4OpVHPJZFg_Qow540/viewform" rel="subscribe-email" title="subscribe via email"><div class="share-icon"><img src="{{ root_url }}/images/email.png" style="max-height:100%"/></div></a></div>
+	 </div>
+  
+      {% if site.simple_search %}
+    <form class="navbar-form" action="{{ site.simple_search }}" method="get">
+      <fieldset role="search" style="position:absolute;right:10px;top:-2px;">
+        <input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}" />
+        <input class="span2" id="searchb" type="text" name="q" results="0" placeholder="Search" />
+      </fieldset>
+    </form>
+      {% endif %}
+    {% include custom/navigation.html %}
+  </div>
+</div>

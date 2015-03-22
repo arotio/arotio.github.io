@@ -1,0 +1,51 @@
+<div class="article-format">
+{% unless page.no_header %}
+	  <header>
+		{% if index %}
+		  <h1 class="entry-title" style="text-shadow: 1px 1px #000000;z-index:3;position:relative;background-color:rgba(100, 100, 100, 0.5);width:100%"><a href="{{ root_url }}{{ post.url }}" style="color:#ffffff;margin-top:5px;margin-left:5px">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h1>
+		{% else %}
+		  <h1 class="entry-title" style="color:#ffffff;margin-top:-12px;text-shadow: 1px 1px #000000;z-index:3;position:relative;background-color:rgba(100, 100, 100, 0.5);width:100%">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+		{% endif %}
+		{% unless page.meta == false %}
+		{% if index %}
+		  <a href="{{ root_url }}{{ post.url }}" style="z-index:4;position:relative">
+		  <p class="meta" style="margin-top:-35px;z-index:-1;position:relative">
+			{% include post/image.html %}
+			{% if site.disqus_short_name and page.comments != false and post.comments != false and site.disqus_show_comment_count == true %}
+			 | <a href="{% if index %}{{ root_url }}{{ post.url }}{% endif %}#disqus_thread">Comments</a>
+			{% endif %}
+		  </p>
+		  </a>
+		{% else %}
+		  <p class="meta" style="z-index:-1;position:relative">
+			{% include post/image.html %}
+			{% if site.disqus_short_name and page.comments != false and post.comments != false and site.disqus_show_comment_count == true %}
+			 | <a href="{% if index %}{{ root_url }}{{ post.url }}{% endif %}#disqus_thread">Comments</a>
+			{% endif %}
+		  </p>
+		{% endif %}
+		{% endunless %}
+	  </header>
+{% endunless %}
+{% if index %}
+  <div class="entry-content" style="padding-top:-20px">{{ content | excerpt }}</div>
+  {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
+
+{% else %}
+  <div class="entry-content">{{ content }}</div>
+{% endif %}
+{% unless index %}
+  <footer>
+    
+    {% unless page.sharing == false %}
+      {% include post/sharing.html %}
+    {% endunless %}
+    {% if page.next.url %}
+      <a class="pull-left" href="{{page.next.url}}" title="Newer Post: {{page.next.title}}">&laquo; {{page.next.title}}</a>
+    {% endif %}
+    {% if page.previous.url %}
+      <a class="pull-right" href="{{page.previous.url}}" title="older Post: {{page.previous.title}}">{{page.previous.title}} &raquo;</a>
+    {% endif %}
+  </footer>
+{% endunless %}
+</div>
