@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
 		<title>Rotio/Food</title>
 		<description>Recipes from the Rotio kitchen. Down-home, upscale, and everything in-between.</description>		
@@ -8,9 +8,10 @@
 		
 			<item>
 				<title>Budweiser Chorizo Burger</title>
+				<media:thumbnail url='http://anthonyrotio.com/rotiofood/2015-03-21/budweiser-chorizo-burger-far.jpg'/>
 				        
 				
-					<description><![CDATA[<img src="http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2015-03-21%2Fbudweiser-chorizo-burger-far.jpg">]]>Budweiser Chorizo Burger - 50/50 chorizo and beef burger, chipotle slaw, saffron mayo, iberico, jack, sourdough brioche</description>
+					<description>Budweiser Chorizo Burger - 50/50 chorizo and beef burger, chipotle slaw, saffron mayo, iberico, jack, sourdough brioche</description>
 				
 				<pubDate>Sat, 21 Mar 2015 22:30:37 -0500</pubDate>
 				<link>http://rotiofood.com/buddy/2015/03/21/budweiser-chorizo-burger.html</link>
@@ -19,9 +20,10 @@
 		
 			<item>
 				<title>Budweiser Brioche Buns</title>
+				<media:thumbnail url='http://anthonyrotio.com/rotiofood/2015-03-21/budweiser-brioche-buns-baked.jpg'/>
 				        
 				
-					<description><![CDATA[<img src="http%3A%2F%2Fanthonyrotio.com%2Frotiofood%2F2015-03-21%2Fbudweiser-brioche-buns-baked.jpg">]]>Budweiser Brioche Buns - sourdough starter brioche hamburger buns</description>
+					<description>Budweiser Brioche Buns - sourdough starter brioche hamburger buns</description>
 				
 				<pubDate>Sat, 21 Mar 2015 22:30:37 -0500</pubDate>
 				<link>http://rotiofood.com/buddy/2015/03/21/budweiser-brioche-buns.html</link>
@@ -30,9 +32,10 @@
 		
 			<item>
 				<title>Gorgonzola Pork Tenderloin</title>
+				<media:thumbnail url='http://anthonyrotio.com/rotiofood/2015-02-16/gorgonzola-pork-tenderloin.jpg'/>
 				        
 				
-					<description><![CDATA[<img src="http://anthonyrotio.com/rotiofood/2015-02-16/gorgonzola-pork-tenderloin.jpg">]]>Gorgonzola pork tenderloin - sous vide pork tenderloin, bacon brussels sprouts, gorgonzola garlic cream</description>
+					<description>Gorgonzola pork tenderloin - sous vide pork tenderloin, bacon brussels sprouts, gorgonzola garlic cream</description>
 				
 				<pubDate>Mon, 16 Feb 2015 22:50:37 -0600</pubDate>
 				<link>http://rotiofood.com/2015/02/16/gorgonzola-pork-tenderloin.html</link>
@@ -41,9 +44,10 @@
 		
 			<item>
 				<title>BLT Pizza</title>
+				<media:thumbnail url='http://anthonyrotio.com/rotiofood/2015-01-18/blt-pizza.gif'/>
 				        
 				
-					<description><![CDATA[<img src="http://anthonyrotio.com/rotiofood/2015-01-18/blt-pizza.gif">]]>BLT Jersey style pizza on Budweiser sourdough crust</description>
+					<description>BLT Jersey style pizza on Budweiser sourdough crust</description>
 				
 				<pubDate>Sun, 18 Jan 2015 15:50:37 -0600</pubDate>
 				<link>http://rotiofood.com/2015/01/18/blt-pizza.html</link>
@@ -52,9 +56,10 @@
 		
 			<item>
 				<title>Homemade Thin Crackers</title>
+				<media:thumbnail url='http://anthonyrotio.com/rotiofood/2015-01-10/homemade-crackers.jpg'/>
 				        
 				
-					<description><![CDATA[<img src="http://anthonyrotio.com/rotiofood/2015-01-10/homemade-crackers.jpg">]]>Simple homemade crackers similar to wheat thins</description>
+					<description>Simple homemade crackers similar to wheat thins</description>
 				
 				<pubDate>Sat, 10 Jan 2015 11:50:37 -0600</pubDate>
 				<link>http://rotiofood.com/2015/01/10/homemade-thin-crackers.html</link>
@@ -63,9 +68,10 @@
 		
 			<item>
 				<title>Christmas Fondue</title>
+				<media:thumbnail url='http://anthonyrotio.com/rotiofood/2014-12-07/fondue-dip-tree-horizontal-2.jpg'/>
 				        
 				
-					<description><![CDATA[<img src="http://anthonyrotio.com/rotiofood/2014-12-07/fondue-dip-tree-horizontal-2.jpg">]]>Cheese fondue with fontina and gruyere, a Christmas tradition when decorating the tree</description>
+					<description>Cheese fondue with fontina and gruyere, a Christmas tradition when decorating the tree</description>
 				
 				<pubDate>Sun, 07 Dec 2014 11:59:37 -0600</pubDate>
 				<link>http://rotiofood.com/2014/12/07/christmas-fondue.html</link>
@@ -74,9 +80,10 @@
 		
 			<item>
 				<title>Sweet Potato Skins</title>
+				<media:thumbnail url='http://anthonyrotio.com/rotiofood/2014-11-25/potato-skin-single.jpg'/>
 				        
 				
-					<description><![CDATA[<img src="http://anthonyrotio.com/rotiofood/2014-11-25/potato-skin-single.jpg">]]>Fried sweet potato skin, sweet potato molasses puree, marshmallow, bacon, brown sugar, pine nuts</description>
+					<description>Fried sweet potato skin, sweet potato molasses puree, marshmallow, bacon, brown sugar, pine nuts</description>
 				
 				<pubDate>Tue, 25 Nov 2014 11:59:37 -0600</pubDate>
 				<link>http://rotiofood.com/2014/11/25/sweet-potato-skins.html</link>
@@ -85,9 +92,10 @@
 		
 			<item>
 				<title>Pork Roll Benedict</title>
+				<media:thumbnail url='http://anthonyrotio.com/rotiofood/2014-11-16/pork-roll-benedict-plated.jpg'/>
 				        
 				
-					<description><![CDATA[<img src="http://anthonyrotio.com/rotiofood/2014-11-16/pork-roll-benedict-plated.jpg">]]>Everything bagel bread pudding, pork roll, sriracha ketchup, runny egg, and hollandaise</description>
+					<description>Everything bagel bread pudding, pork roll, sriracha ketchup, runny egg, and hollandaise</description>
 				
 				<pubDate>Sun, 16 Nov 2014 06:10:37 -0600</pubDate>
 				<link>http://rotiofood.com/2014/11/16/pork-roll-benedict.html</link>
@@ -96,9 +104,10 @@
 		
 			<item>
 				<title>Korean Cuban Sandwich</title>
+				<media:thumbnail url='http://anthonyrotio.com/rotiofood/2014-11-11/korean-cuban-plated.jpg'/>
 				        
 				
-					<description><![CDATA[<img src="http://anthonyrotio.com/rotiofood/2014-11-11/korean-cuban-plated.jpg">]]>Traditional Cuban sandwich meets Korean pork and kimchi</description>
+					<description>Traditional Cuban sandwich meets Korean pork and kimchi</description>
 				
 				<pubDate>Tue, 11 Nov 2014 10:10:37 -0600</pubDate>
 				<link>http://rotiofood.com/2014/11/11/korean-cuban-sandwich.html</link>
@@ -107,9 +116,10 @@
 		
 			<item>
 				<title>Head Cheese</title>
+				<media:thumbnail url='http://anthonyrotio.com/rotiofood/2014-10-11/pig-head-2.jpg'/>
 				        
 				
-					<description><![CDATA[<img src="http://anthonyrotio.com/rotiofood/2014-10-11/pig-head-2.jpg">]]>Pig's head to head cheese in 24 hours</description>
+					<description>Pig's head to head cheese in 24 hours</description>
 				
 				<pubDate>Sun, 12 Oct 2014 07:10:37 -0500</pubDate>
 				<link>http://rotiofood.com/2014/10/12/head-cheese.html</link>
