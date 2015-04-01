@@ -4,6 +4,7 @@ title: Home
 ---
 
 <main>
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
   {% for post in site.posts %}
   <section>
     <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
