@@ -7,6 +7,17 @@
 		<atom:link href="http://rotiofood.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Chicken Pimento Ssam Biscuit</title>
+				        
+				
+					<description>&lt;img src="http://anthonyrotio.com/rotiofood/2015-04-19/chicken-pimento-ssam-biscuit.jpg"&gt;Budweiser Chorizo Burger - 50/50 chorizo and beef burger, chipotle slaw, saffron mayo, iberico, jack, sourdough brioche</description>
+				
+				<pubDate>Sun, 19 Apr 2015 18:04:32 -0500</pubDate>
+				<link>http://rotiofood.com/2015/04/19/chicken-pimento-ssam-biscuit.html</link>
+				<guid isPermaLink="true">http://rotiofood.com/2015/04/19/chicken-pimento-ssam-biscuit.html</guid>
+			</item>
+		
+			<item>
 				<title>Budweiser Chorizo Burger</title>
 				        
 				
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 11 Nov 2014 10:10:37 -0600</pubDate>
 				<link>http://rotiofood.com/2014/11/11/korean-cuban-sandwich.html</link>
 				<guid isPermaLink="true">http://rotiofood.com/2014/11/11/korean-cuban-sandwich.html</guid>
-			</item>
-		
-			<item>
-				<title>Head Cheese</title>
-				        
-				
-					<description>&lt;img src="http://anthonyrotio.com/rotiofood/2014-10-11/pig-head-2.jpg"&gt;Pig's head to head cheese in 24 hours</description>
-				
-				<pubDate>Sun, 12 Oct 2014 07:10:37 -0500</pubDate>
-				<link>http://rotiofood.com/2014/10/12/head-cheese.html</link>
-				<guid isPermaLink="true">http://rotiofood.com/2014/10/12/head-cheese.html</guid>
 			</item>
 		
 	</channel>
